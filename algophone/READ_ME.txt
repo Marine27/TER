@@ -7,7 +7,14 @@ Pour importer module depuis le fichier courant :
 	>> from module_algophone import Phono 
 Pour avoir un peu d'aide sur l'utilisation de l'algorithme : 
 	>> help (Phono) 
-
+pour instancier ( créer un objet qui correspond a un recueil de données choisis ) 
+	>> nom_qu'on_donne_à_objet = Phono('nom_données ') 
+	##Penser à regarder documentation de l'instanciation de Phono , c'est les commentaires 
+	quand on fait help(Phono) de la méthode __init__  
+	
+J'ai créer un objet pour sa simplicité d'utilisation, pour utiliser une des méthodes de l'algo : 
+ après instanciation : 
+    >> nom_qu'on_donne_à_objet.méthode(variables_méthodes)
 -------------------------------------------------
 ------------------------------------------------- 
 
