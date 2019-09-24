@@ -7,6 +7,9 @@
 import pandas as pd
 import numpy as np
 import os 
+from sklearn.cluster import KMeans
+from matplotlib import pyplot as plt 
+from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, ward
 
 class Phono:
 
@@ -90,6 +93,16 @@ class Phono:
             self.s.to_csv('{}_pho.csv'.format(self.name))       #Enregistrer avec nom + _pho
             
             
+    def kmean(self,k): # méthode des k-moyenne sur la matrice de verité 
+        self.distribution_all() # création de la matrice avec la méthode 
+        self.MF #Matrice des vérités 
+        self.test =self.MF.drop('simil', axis='columns')
+        self.test =self.test.transpose()
+        model=KMeans(n_clusters=k)   #création des clusters 
+        self.km=model.fit(test).labels_
+        indexation_k=np.argsort(self.km) # On va indexer par ordre d'appartenance à un cluster
+        self.Class_ah=pd.DataFrame(self.test.index[indexation_k],self.km[indexation_k])
+        return self.Class_ah   # Dataframe des phonèmes et à quel cluster ils appartiennent avec k-cluster.
     
 
 
