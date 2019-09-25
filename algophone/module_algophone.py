@@ -10,7 +10,7 @@ import os
 from sklearn.cluster import KMeans
 from matplotlib import pyplot as plt 
 from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, ward
-
+from matplotlib.pyplot import figure
 class Phono:
 
     def __init__(self,name,*repertoire):   
@@ -37,13 +37,8 @@ class Phono:
         self.Phono = self.data1[self.data1.interlocuteur =="pho"]  
         self.tt =self.Phono["PHONO"] 
         self.Phono_list=self.tt  
-
-
-    def distribution_all(self,mean=False ):
-        ''' Ce module retourne la distribution des phonèmes dans chaque phrase des données retranscrite 
-            distrubtion_all(self,mean=False) si mean=True , n'affiche que la proportion des phonèmes dans les phrases''' 
-        
-        #On créer une liste contenant l'alphabet phonétique , par ordre décroissant de fréquence
+    def create(self): 
+         #On créer une liste contenant l'alphabet phonétique , par ordre décroissant de fréquence
         IPA = "a,r,l,e,s,i,ɛ,ə,t,k,p,d,m,ã,n,u,v,o,y,ɔ̃,ʒ,ɔ,ɛ̃,f,b,j,w,ɥ,z,ø,ʃ,œ̃,œ,g,ɑ,ɲ"
         IPA= IPA.split(',') 
         self.l=[]
@@ -58,14 +53,20 @@ class Phono:
                     tmp.append(0) 
             self.l.append(tmp) 
     
-        self.l=np.asarray(self.l)  # Mise en forme de la matrice de verité pour faire correspondre les lignes 
+        self.l=np.asarray(self.l)  # Mise en forme de la matrice de verité pour faire correspondre les lignes 
                                      # et les colonnes . Matrice de verité avant mise en forme : 36*225 
-                                    # on veut du 225*36 ( pour mettre les phonèmes en index de colonne )
+                                    # on veut du 225*36 ( pour mettre les phonèmes en index de colonne )
         lt=self.l.transpose()
 #lt.shape
         self.MF = pd.DataFrame(lt,columns=IPA)  # Je créer la datframe avec la table de verité 
 #Phono_list=Phono_list.to_frame()
         self.MF['simil']=list(self.Phono_list) 
+
+    def distribution_all(self,mean=False ):
+        ''' Ce module retourne la distribution des phonèmes dans chaque phrase des données retranscrite 
+            distrubtion_all(self,mean=False) si mean=True , n'affiche que la proportion des phonèmes dans les phrases''' 
+        self.create()
+       
         self.info=self.MF.describe()
         self.distribution_all= self.info.loc[['mean','std']]
         if mean==False: 
@@ -92,28 +93,36 @@ class Phono:
         else: 
             self.s.to_csv('{}_pho.csv'.format(self.name))       #Enregistrer avec nom + _pho
             
-            
-    def kmean(self,k): # méthode des k-moyenne sur la matrice de verité 
-        self.distribution_all() # création de la matrice avec la méthode 
-        self.MF #Matrice des vérités 
+    def kmean(self,k):
+        self.distribution_all()
+        self.MF
         self.test =self.MF.drop('simil', axis='columns')
         self.test =self.test.transpose()
-        model=KMeans(n_clusters=k)   #création des clusters 
-        self.km=model.fit(test).labels_
-        indexation_k=np.argsort(self.km) # On va indexer par ordre d'appartenance à un cluster
-        self.Class_ah=pd.DataFrame(self.test.index[indexation_k],self.km[indexation_k])
-        return self.Class_ah   # Dataframe des phonèmes et à quel cluster ils appartiennent avec k-cluster.
+        model=KMeans(n_clusters=k) 
+        self.km=model.fit(self.test).labels_
+        indexation_k=np.argsort(self.km)
+        self.Class_k=pd.DataFrame(self.test.index[indexation_k],self.km[indexation_k])
+        return self.Class_k
     
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
+    def cah(self,tr,visualise= False ): #Création d'une méthode de classification ascendante hierarchique
+       # si visualise = True, affiche le dendogramme correspondan
+      # la variable tr est l'embrachement ou on effectue le classement dans la classification 
+       # ( faire test avec visualise = True pour estimer le bon embrachement à considérer )
+        self.create()
+        self.MF
+        self.test =self.MF.drop('simil', axis='columns')
+        self.test =self.test.transpose()
+       #générer la matrice des liens
+        Z = linkage(self.test,method='ward',metric='euclidean')
+        if visualise==True :
+            plt.figure(num=None, figsize=(8, 6), dpi=80, facecolor='w', edgecolor='k')
+            plt.title("CAH : {}".format(self.name))
+            dendrogram(Z,labels=self.test.index,orientation='left',color_threshold=tr) 
+            plt.show()
+        else : 
+            self.groupes_phoneme= fcluster(Z,t=tr,criterion='distance')
+            indexation=np.argsort(self.groupes_phoneme ) 
+            self.Class_cah=pd.DataFrame(self.test.index[indexation],self.groupes_phoneme[indexation])
+            return self.Class_cah
 
 
