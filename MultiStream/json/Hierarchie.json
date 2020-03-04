@@ -1,0 +1,121 @@
+{
+    "ranges": {
+        "name": "Theophile",
+        "children": [{
+                "name": "Voyelles",
+                "children": [{
+                        "name": "Relâcheés",
+                        "children": [
+                            { "name": "a" },
+                            { "name": "ɑ" },
+                            { "name": "ɛ" },
+                            { "name": "ɔ" },
+                            { "name": "œ" }
+                        ]
+                    },
+                    {
+                        "name": "Tendues",
+                        "children": [
+                            { "name": "i" },
+                            { "name": "e" },
+                            { "name": "ø" },
+                            { "name": "ə" },
+                            { "name": "o" },
+                            { "name": "y" },
+                            { "name": "u" }
+                        ]
+                    },
+                    {
+                        "name": "Nasales",
+                        "children": [
+                            { "name": "0" },
+                            { "name": "1" },
+                            { "name": "2" },
+                            { "name": "3" }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Consonnes",
+                "children": [{
+                        "name": "Occlusives bilabiales",
+                        "children": [
+                            { "name": "b" },
+                            { "name": "p" },
+                            { "name": "m" }
+                        ]
+                    },
+                    {
+                        "name": "Autres occlusives",
+                        "children": [
+                            { "name": "d" },
+                            { "name": "t" },
+                            { "name": "k" },
+                            { "name": "g" },
+                            { "name": "n" },
+                            { "name": "ɲ" }
+                        ]
+                    },
+                    {
+                        "name": "Constructives avec un point d'articulation précis",
+                        "children": [
+                            { "name": "f" },
+                            { "name": "v" },
+                            { "name": "s" },
+                            { "name": "z" }
+                        ]
+                    },
+                    {
+                        "name": "Constructives avec un point d'articulation large",
+                        "children": [
+                            { "name": "l" },
+                            { "name": "r" }
+                        ]
+                    },
+                    {
+                        "name": "Liquides",
+                        "children": [
+                            { "name": "ʒ" },
+                            { "name": "ʃ" }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Groupes consonatiques",
+                "children": [{
+                    "name": "Oppositions particulières",
+                    "children": [
+                        { "name": "4" },
+                        { "name": "5" },
+                        { "name": "6" },
+                        { "name": "7" }
+                    ]
+                }]
+            },
+            {
+                "name": "Semi-consonnes",
+                "children": [{
+                        "name": "Facile",
+                        "children": [
+                            { "name": "j" }
+                        ]
+                    },
+                    {
+                        "name": "Oppositions difficiles",
+                        "children": [
+                            { "name": "ŋ" },
+                            { "name": "w" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "data": [
+        { "date_time": "08/10/2004 00:13:53", "text": "əpi", "value": "p" },
+        { "date_time": "08/10/2004 00:13:54", "text": "əpi", "value": "i" }
+    ],
+    "type": "tweets"
+}
