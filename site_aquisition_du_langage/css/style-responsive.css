@@ -90,7 +90,7 @@
     #sidebar {
         height: auto;
         overflow: hidden;
-        position: absolute;
+        position: relative;
         width: 100%;
         z-index: 1001;
     }
