@@ -31,22 +31,33 @@
 <body>
     <section id="container">
         <!-- **********************************************************************************************************************************************************
+        TOP BAR CONTENT
+        *********************************************************************************************************************************************************** -->
+        <!--header start-->
+        <header class="header black-bg">
+            <div class="sidebar-toggle-box">
+                <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Menu"></div>
+            </div>
+            <!--logo start-->
+            <a href="../index.html" class="logo"><b>TER</b><span style="text-transform:lowercase;"> Acquisition du langage chez l’enfant</span></a>
+            <!--logo end-->
+        </header>
+        <!--header end-->
+        <!-- **********************************************************************************************************************************************************
         MAIN SIDEBAR MENU
         *********************************************************************************************************************************************************** -->
-        <!--barre latéral debut-->
+        <!--barre menu start-->
         <aside>
-            <div id="sidebar" class="nav-collapse">
+            <div id="sidebar" class="nav-collapse ">
                 <!-- sidebar menu start-->
-                <h4 class="centered">TER</h4>
-                <p class="centered">AQUISITION LANGAGE CHEZ L'ENFANT</p>
                 <ul class="sidebar-menu" id="nav-accordion">
                     <li class="mt">
                         <a href="../index.html">
                             <i class="fa fa-home"></i>
-                            <span>Acceuil</span>
+                            <span>Accueil</span>
                         </a>
                     </li>
-                    <!-- menu deroulant enfant -->
+                    <!--menu enfants start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
                             <i class="fa fa-child"></i>
@@ -62,12 +73,11 @@
 
                         </ul>
                     </li>
-                    <!-- /menu deroulant enfant -->
-                    <!-- menu deroulant etude -->
+                    <!--menu enfants end-->
+                    <!--menu etudes start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
-                            <!-- permet de faire le menu deroulant -->
-                            <i class="fa fa-dashboard"></i>
+                            <i class="fa fa-bar-chart-o"></i>
                             <span>Etudes rélisées</span>
                         </a>
                         <ul class="sub">
@@ -80,8 +90,8 @@
                             <li><a href="modele_LSTM.html">Modèle LSTM</a></li>
                         </ul>
                     </li>
-                    <!-- /menu deroulant etude -->
-                    <!-- panel données -->
+                    <!--menu etudes end-->
+                    <!--menu sources start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
                             <i class="fa fa-th"></i>
@@ -93,23 +103,20 @@
                             <li><a href="article.html">Articles et liens</a></li>
                         </ul>
                     </li>
-                    <!-- fin panel données -->
-                    <!-- /menu deroulant etude -->
+                    <!--menu sources end-->
                 </ul>
                 <!-- sidebar menu end-->
             </div>
         </aside>
-        <!--barre latéral fin-->
+        <!--barre menu end-->
         <!-- **********************************************************************************************************************************************************
-      MAIN CONTENT
-      *********************************************************************************************************************************************************** -->
-        <!--main content start-->
+        MAIN CONTENT
+        *********************************************************************************************************************************************************** -->
         <section id="main-content">
             <section class="wrapper site-min-height">
-                <h2 class="title1" style="text-align: center;">MultiStream</h2>
+                <h2 id="title1">MultiStream</h2>
                 <br>
                 <h4 style="text-align: center;">Une approche multirésolution de type "Streamgraph" pour explorer les séries chronologiques hiérarchiques</h4>
-
                 <div class="row mt">
                     <div class="col-lg-12">
                         <div class="content-panel">
@@ -117,13 +124,11 @@
                                 <div class="col-md-6">
                                     <p style="text-align: justify;">
                                         Les séries chronologiques multiples sont un ensemble de variables quantitatives multiples se produisant au même intervalle. Ils sont présents dans de nombreux domaines tels que la médecine, la finance et la fabrication pour les des fins. Ces dernières
-                                        années, <i> <a
-                            href="http://leebyron.com/streamgraph/" target="_blank">
-                              Streamgraph</a></i> la visualisation (issue de ThemeRiver) a a été largement utilisé pour représenter les modèles d'évolution temporelle dans de multiples séries chronologiques. Cependant, le Streamgraph ainsi que le ThemeRiver
-                                        souffrent de problèmes d'extensibilité lorsqu'elles sont traitées à plusieurs reprises série. Pour résoudre ce problème, plusieurs séries temporelles peuvent être organisée en une structure hiérarchique où le temps
-                                        individuel Les séries sont regroupées hiérarchiquement en fonction de leur proximité. Dans Dans ce document, nous présentons une nouvelle approche basée sur le Streamgraph pour la structure hiérarchique de séries
-                                        chronologiques multiples pour faciliter l'exploration et les comparaisons de l'évolution temporelle. Sur la base d'une technique focus+contexte, notre méthode permet l'exploration de séries chronologiques à différentes
-                                        granularités.
+                                        années, <i> <a href="http://leebyron.com/streamgraph/" target="_blank">Streamgraph</a></i> la visualisation (issue de ThemeRiver) a a été largement utilisé pour représenter
+                                        les modèles d'évolution temporelle dans de multiples séries chronologiques. Cependant, le Streamgraph ainsi que le ThemeRiver souffrent de problèmes d'extensibilité lorsqu'elles sont traitées à plusieurs reprises
+                                        série. Pour résoudre ce problème, plusieurs séries temporelles peuvent être organisée en une structure hiérarchique où le temps individuel Les séries sont regroupées hiérarchiquement en fonction de leur proximité.
+                                        Dans Dans ce document, nous présentons une nouvelle approche basée sur le Streamgraph pour la structure hiérarchique de séries chronologiques multiples pour faciliter l'exploration et les comparaisons de l'évolution
+                                        temporelle. Sur la base d'une technique focus+contexte, notre méthode permet l'exploration de séries chronologiques à différentes granularités.
                                     </p>
                                 </div>
                                 <div class="col-xs-6">

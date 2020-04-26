@@ -31,22 +31,33 @@
 <body>
     <section id="container">
         <!-- **********************************************************************************************************************************************************
+        TOP BAR CONTENT
+        *********************************************************************************************************************************************************** -->
+        <!--header start-->
+        <header class="header black-bg">
+            <div class="sidebar-toggle-box">
+                <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Menu"></div>
+            </div>
+            <!--logo start-->
+            <a href="index.html" class="logo"><b>TER</b><span style="text-transform:lowercase;"> Acquisition du langage chez l’enfant</span></a>
+            <!--logo end-->
+        </header>
+        <!--header end-->
+        <!-- **********************************************************************************************************************************************************
         MAIN SIDEBAR MENU
         *********************************************************************************************************************************************************** -->
-        <!--barre latéral debut-->
+        <!--barre menu start-->
         <aside>
             <div id="sidebar" class="nav-collapse ">
                 <!-- sidebar menu start-->
-                <h4 class="centered">TER</h4>
-                <p class="centered">AQUISITION LANGAGE CHEZ L'ENFANT</p>
                 <ul class="sidebar-menu" id="nav-accordion">
                     <li class="mt">
                         <a href="index.html">
                             <i class="fa fa-home"></i>
-                            <span>Acceuil</span>
+                            <span>Accueil</span>
                         </a>
                     </li>
-                    <!-- menu deroulant enfant -->
+                    <!--menu enfants start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
                             <i class="fa fa-child"></i>
@@ -62,12 +73,11 @@
 
                         </ul>
                     </li>
-                    <!-- /menu deroulant enfant -->
-                    <!-- menu deroulant etude -->
+                    <!--menu enfants end-->
+                    <!--menu etudes start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
-                            <!-- permet de faire le menu deroulant -->
-                            <i class="fa fa-dashboard"></i>
+                            <i class="fa fa-bar-chart-o"></i>
                             <span>Etudes rélisées</span>
                         </a>
                         <ul class="sub">
@@ -80,8 +90,8 @@
                             <li><a href="site_aquisition_du_langage/modele_LSTM.html">Modèle LSTM</a></li>
                         </ul>
                     </li>
-                    <!-- /menu deroulant etude -->
-                    <!-- panel données -->
+                    <!--menu etudes end-->
+                    <!--menu sources start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
                             <i class="fa fa-th"></i>
@@ -93,34 +103,33 @@
                             <li><a href="site_aquisition_du_langage/article.html">Articles et liens</a></li>
                         </ul>
                     </li>
-                    <!-- fin panel données -->
-                    <!-- /menu deroulant etude -->
+                    <!--menu sources end-->
                 </ul>
                 <!-- sidebar menu end-->
             </div>
         </aside>
-        <!--barre latéral fin-->
+        <!--barre menu end-->
         <!-- **********************************************************************************************************************************************************
         MAIN CONTENT
         *********************************************************************************************************************************************************** -->
         <section id="main-content">
             <section class="wrapper site-min-height">
-                <h2 class="title1" align="center">ACQUISITION DU LANGAGE CHEZ L’ENFANT</h2><br>
+                <h2 id="title1">L'acquisition du langage chez l’enfant</h2><br>
                 <img class="img-acceuil" src="site_aquisition_du_langage/img/frise_corpus.png" style="width:50%;">
                 <div class="row mt">
                     <div class="col-lg-12">
                         <div class="content-panel">
                             <div class="panel-body">
                                 <div class="col-md-10 col-md-offset-1">
-                                    <p align="ajusty">Pour s’exprimer, la plupart des personnes utilisent la parole. Mais personne ne saurait expliquer comment il est passé des premiers balbutiements à la construction de phrases compréhensibles. À ce jour, la science ne
+                                    <p>Pour s’exprimer, la plupart des personnes utilisent la parole. Mais personne ne saurait expliquer comment il est passé des premiers balbutiements à la construction de phrases compréhensibles. À ce jour, la science ne
                                         connait pas avec exactitudes la chronologie de l’apprentissage du langage chez l’enfant. C’est pourtant le langage qui fait de nous des humains qui savent transformer en symboles une réalité qui, autrement, serait
                                         peut-être inconnaissable.</p>
-                                    <p align="ajusty">
+                                    <p>
                                         Dans ce projet, nous allons aider les spécialistes de la science du langage à expérimenter des méthodes, outils issus de la science des données pour mieux comprendre l’apprentissage du langage. Les premiers éléments sont les sons du langage qui sont combinés
                                         pour former des mots, qui à leur tour forment des phrases. L’objectif de cette étude est de mieux comprendre comment nous avons appris à reconnaître et maîtriser toutes ces possibles combinaisons, et en déduire
                                         des parcours type de l’apprentissage du langage chez l’enfant.</br>
                                     </p>
-                                    <p align="ajusty">
+                                    <p>
                                         Dans le cadre du projet ANR
                                         <a href="http://colaje.scicog.fr" target="_blank"> <i>« Colaje Ortolang » </i> </a> des scientifiques ont mis en place des éléments techniques permettant l’étude de l’évolution des variations phonétique. Pour cela, ils ont enregistré des vidéos à intervalles de
                                         temps réguliers chez de jeunes enfants. Les données ont été retranscrites dans un langage écrit, en utilisant une codification spécifique. Le but est de constituer une base de données sur laquelle on pourrait tester

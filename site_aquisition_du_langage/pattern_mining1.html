@@ -31,22 +31,33 @@
 <body>
     <section id="container">
         <!-- **********************************************************************************************************************************************************
+        TOP BAR CONTENT
+        *********************************************************************************************************************************************************** -->
+        <!--header start-->
+        <header class="header black-bg">
+            <div class="sidebar-toggle-box">
+                <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Menu"></div>
+            </div>
+            <!--logo start-->
+            <a href="../index.html" class="logo"><b>TER</b><span style="text-transform:lowercase;"> Acquisition du langage chez l’enfant</span></a>
+            <!--logo end-->
+        </header>
+        <!--header end-->
+        <!-- **********************************************************************************************************************************************************
         MAIN SIDEBAR MENU
         *********************************************************************************************************************************************************** -->
-        <!--barre latéral debut-->
+        <!--barre menu start-->
         <aside>
-            <div id="sidebar" class="nav-collapse">
+            <div id="sidebar" class="nav-collapse ">
                 <!-- sidebar menu start-->
-                <h4 class="centered">TER</h4>
-                <p class="centered">AQUISITION LANGAGE CHEZ L'ENFANT</p>
                 <ul class="sidebar-menu" id="nav-accordion">
                     <li class="mt">
                         <a href="../index.html">
                             <i class="fa fa-home"></i>
-                            <span>Acceuil</span>
+                            <span>Accueil</span>
                         </a>
                     </li>
-                    <!-- menu deroulant enfant -->
+                    <!--menu enfants start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
                             <i class="fa fa-child"></i>
@@ -62,12 +73,11 @@
 
                         </ul>
                     </li>
-                    <!-- /menu deroulant enfant -->
-                    <!-- menu deroulant etude -->
+                    <!--menu enfants end-->
+                    <!--menu etudes start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
-                            <!-- permet de faire le menu deroulant -->
-                            <i class="fa fa-dashboard"></i>
+                            <i class="fa fa-bar-chart-o"></i>
                             <span>Etudes rélisées</span>
                         </a>
                         <ul class="sub">
@@ -80,8 +90,8 @@
                             <li><a href="modele_LSTM.html">Modèle LSTM</a></li>
                         </ul>
                     </li>
-                    <!-- /menu deroulant etude -->
-                    <!-- panel données -->
+                    <!--menu etudes end-->
+                    <!--menu sources start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
                             <i class="fa fa-th"></i>
@@ -93,20 +103,18 @@
                             <li><a href="article.html">Articles et liens</a></li>
                         </ul>
                     </li>
-                    <!-- fin panel données -->
-                    <!-- /menu deroulant etude -->
+                    <!--menu sources end-->
                 </ul>
                 <!-- sidebar menu end-->
             </div>
         </aside>
-        <!--barre latéral fin-->
+        <!--barre menu end-->
         <!-- **********************************************************************************************************************************************************
-      MAIN CONTENT
-      *********************************************************************************************************************************************************** -->
-        <!--main content start-->
+        MAIN CONTENT
+        *********************************************************************************************************************************************************** -->
         <section id="main-content">
             <section class="wrapper site-min-height">
-                <h2 class="title1" style="text-align: center;">Pattern mining : sequençage phonétique</h2>
+                <h2 id="title1">Pattern mining : sequençage phonétique</h2>
                 <h4></h4>
                 <div class="row mt">
                     <div class="col-lg-12">

@@ -31,22 +31,33 @@
 <body>
     <section id="container">
         <!-- **********************************************************************************************************************************************************
+        TOP BAR CONTENT
+        *********************************************************************************************************************************************************** -->
+        <!--header start-->
+        <header class="header black-bg">
+            <div class="sidebar-toggle-box">
+                <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Menu"></div>
+            </div>
+            <!--logo start-->
+            <a href="../index.html" class="logo"><b>TER</b><span style="text-transform:lowercase;"> Acquisition du langage chez l’enfant</span></a>
+            <!--logo end-->
+        </header>
+        <!--header end-->
+        <!-- **********************************************************************************************************************************************************
         MAIN SIDEBAR MENU
         *********************************************************************************************************************************************************** -->
-        <!--barre latéral debut-->
+        <!--barre menu start-->
         <aside>
             <div id="sidebar" class="nav-collapse ">
                 <!-- sidebar menu start-->
-                <h4 class="centered">TER</h4>
-                <p class="centered">AQUISITION LANGAGE CHEZ L'ENFANT</p>
                 <ul class="sidebar-menu" id="nav-accordion">
                     <li class="mt">
                         <a href="../index.html">
                             <i class="fa fa-home"></i>
-                            <span>Acceuil</span>
+                            <span>Accueil</span>
                         </a>
                     </li>
-                    <!-- menu deroulant enfant -->
+                    <!--menu enfants start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
                             <i class="fa fa-child"></i>
@@ -62,12 +73,11 @@
 
                         </ul>
                     </li>
-                    <!-- /menu deroulant enfant -->
-                    <!-- menu deroulant etude -->
+                    <!--menu enfants end-->
+                    <!--menu etudes start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
-                            <!-- permet de faire le menu deroulant -->
-                            <i class="fa fa-dashboard"></i>
+                            <i class="fa fa-bar-chart-o"></i>
                             <span>Etudes rélisées</span>
                         </a>
                         <ul class="sub">
@@ -80,8 +90,8 @@
                             <li><a href="modele_LSTM.html">Modèle LSTM</a></li>
                         </ul>
                     </li>
-                    <!-- /menu deroulant etude -->
-                    <!-- panel données -->
+                    <!--menu etudes end-->
+                    <!--menu sources start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
                             <i class="fa fa-th"></i>
@@ -93,17 +103,15 @@
                             <li><a href="article.html">Articles et liens</a></li>
                         </ul>
                     </li>
-                    <!-- fin panel données -->
-                    <!-- /menu deroulant etude -->
+                    <!--menu sources end-->
                 </ul>
                 <!-- sidebar menu end-->
             </div>
         </aside>
-        <!--barre latéral fin-->
+        <!--barre menu end-->
         <!-- **********************************************************************************************************************************************************
         MAIN CONTENT
         *********************************************************************************************************************************************************** -->
-        <!--main content start-->
         <section id="main-content">
             <section class="wrapper site-min-height">
                 <div class="row">
@@ -119,10 +127,11 @@
                                     <br></br>
                                 </div>
                                 <div class="col-md-8 col-md-offset-2">
-                                    <p align="justify">Anaé est née le 24 juillet 2006. Elle a deux grands frères et est la dernière enfant de la famille. Sa mère est linguiste et son père est professeur d’anglais dans le secondaire. Anaé est une petite fille pétillante,
-                                        têtue et pleine d’humour, qui partage une grande complicité avec sa maman. Aliyah Morgenstern et Marie Leroy la filment entre trente minutes et une heure par mois en situation naturelle depuis ses 1;04. Son développement
-                                        langagier est assez rapide et Anaé fait preuve d’une grande créativité dans la construction de son langage, inventant ses propres règles notamment au niveau de la morphologie verbale ou du genre, parfois à l’encontre
-                                        des explications de ses parents.
+                                    <p style="text-align:justify;">
+                                        Anaé est née le 24 juillet 2006. Elle a deux grands frères et est la dernière enfant de la famille. Sa mère est linguiste et son père est professeur d’anglais dans le secondaire. Anaé est une petite fille pétillante, têtue et pleine d’humour, qui partage
+                                        une grande complicité avec sa maman. Aliyah Morgenstern et Marie Leroy la filment entre trente minutes et une heure par mois en situation naturelle depuis ses 1 an et 4 mois. Son développement langagier est assez
+                                        rapide et Anaé fait preuve d’une grande créativité dans la construction de son langage, inventant ses propres règles notamment au niveau de la morphologie verbale ou du genre, parfois à l’encontre des explications
+                                        de ses parents.
                                         <a href="http://colaje.scicog.fr" target="_blank"> <i>source</i> </a>
                                     </p>
                                     <br></br>
@@ -130,38 +139,64 @@
 
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-theme dropdown-toggle" data-toggle="dropdown">
-                        Les études faites sur Anaé  <span class="caret"></span></button>
+                                        Les études faites sur Anaé  <span class="caret"></span>
+                                    </button>
                                     <ul class="dropdown-menu" role="menu">
                                         <form action="traitement_donnee/Traitement_donnees_anae.html" method="get">
-                                            <li><button class="btn btn-none" type="submit">
-                          Decouverte des données </button></li>
+                                            <li>
+                                                <button class="btn btn-none" type="submit">
+                                                    Decouverte des données
+                                                </button>
+                                            </li>
                                         </form>
                                         <li class="divider"></li>
                                         <form action="stackgraph.html" method="get">
-                                            <li><button class="btn btn-none" type="submit">
-                          StackPlot</button></li>
+                                            <li>
+                                                <button class="btn btn-none" type="submit">
+                                                    StackPlot
+                                                </button>
+                                            </li>
                                         </form>
                                         <li class="divider"></li>
                                         <form action="https://ter.placom.es/" method="post">
-                                            <li><button class="btn btn-none" type="submit" name='dataset' value="bouton5">
-                        MultiStream</button></li>
+                                            <li>
+                                                <button class="btn btn-none" type="submit" name='dataset' value="bouton5">
+                                                    MultiStream
+                                                </button>
+                                            </li>
                                         </form>
                                         <li class="divider"></li>
-                                        <form action="#.html" method="get">
-                                            <li><button class="btn btn-none" type="submit">
-                          Distance de Levenstein</button></li>
+                                        <form action="pattern_mining1.html" method="get">
+                                            <li>
+                                                <button class="btn btn-none" type="submit">
+                                                    Sequençage phonétique
+                                                </button>
+                                            </li>
                                         </form>
                                         <li class="divider"></li>
-                                        <form action="#.html" method="get">
-                                            <li><button class="btn btn-none" type="submit">
-                          Patter mining</button></li>
+                                        <form action="distance_dl.html" method="get">
+                                            <li>
+                                                <button class="btn btn-none" type="submit">
+                                                    Distance de Levenstein
+                                                </button>
+                                            </li>
                                         </form>
                                         <li class="divider"></li>
-                                        <form action="#.html" method="get">
-                                            <li><button class="btn btn-none" type="submit">
-                          Modèle LSTM</button></li>
+                                        <form action="pattern_mining2.html" method="get">
+                                            <li>
+                                                <button class="btn btn-none" type="submit">
+                                                    Lien entre les phonèmes
+                                                </button>
+                                            </li>
                                         </form>
-
+                                        <li class="divider"></li>
+                                        <form action="modele_LSTM.html" method="get">
+                                            <li>
+                                                <button class="btn btn-none" type="submit">
+                                                    Modèle LSTM
+                                                </button>
+                                            </li>
+                                        </form>
                                     </ul>
                                 </div>
                             </div>
