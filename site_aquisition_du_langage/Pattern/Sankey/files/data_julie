@@ -1,0 +1,36 @@
+,source,target,value
+0,Julie,1an 4jours,93
+1,1an 4jours,'w_m' ,93
+2,'w_m' ,'a_f',93
+3,Julie,2ans 24jours,116
+4,2ans 24jours,'w_m' ,116
+5,'w_m' ,'a_f',116
+6,Julie,2ans 22jours,115
+7,2ans 22jours,'w_d' ,115
+8,'w_d' ,'i_f',115
+9,Julie,2ans 29jours,81
+10,2ans 29jours,'w_d' ,81
+11,'w_d' ,'i_f',81
+12,Julie,2ans 27jours,125
+13,2ans 27jours,'w_m' ,125
+14,'w_m' ,'a_f',125
+15,Julie,2ans 1mois 1jour,114
+16,2ans 1mois 1jour,'w_d' ,114
+17,'w_d' ,'i_f',114
+18,Julie,3ans 30jours,102
+19,3ans 30jours,'w_m' ,102
+20,'w_m' ,'a_f',102
+21,Julie,3ans 3jours,180
+22,3ans 3jours,"'m_d', 'm_m' ",85
+23,"'m_d', 'm_m' ",'a_m',85
+24,3ans 3jours,"'w_m', 'v_d' ",95
+25,"'w_m', 'v_d' ",'a_f',95
+26,Julie,3ans 21jours,78
+27,3ans 21jours,'w_m' ,78
+28,'w_m' ,'a_f',78
+29,Julie,3ans 19jours,106
+30,3ans 19jours,'w_m' ,106
+31,'w_m' ,'a_f',106
+32,Julie,4ans 29jours,82
+33,4ans 29jours,'w_m' ,82
+34,'w_m' ,'a_f',82
