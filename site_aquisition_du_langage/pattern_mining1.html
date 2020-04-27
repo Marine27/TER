@@ -39,7 +39,7 @@
                 <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Menu"></div>
             </div>
             <!--logo start-->
-            <a href="../index.html" class="logo"><b>TER</b><span style="text-transform:lowercase;"> Acquisition du langage chez l’enfant</span></a>
+            <a href="../index.html" class="logo"><b>TER</b><span id="resp"> acquisition du langage chez l’enfant</span></a>
             <!--logo end-->
         </header>
         <!--header end-->
@@ -114,25 +114,63 @@
         *********************************************************************************************************************************************************** -->
         <section id="main-content">
             <section class="wrapper site-min-height">
-                <h2 id="title1">Pattern mining : sequençage phonétique</h2>
-                <h4></h4>
+                <h2 id="title1">Sequençage phonétique</h2>
+                <br>
+                <h4 style="text-align:center;">Une approche avec la technique du <strong>Pattern mining</strong></h4>
                 <div class="row mt">
                     <div class="col-lg-12">
                         <div class="content-panel">
                             <div class="panel-body">
-                                <div class="col-md-10 col-md-offset-1">
+                                <div class="col-md-7">
                                     <p style="text-align: ajusty;">
-                                        Texte explicatif sur c'est quoi le Pattern mining<br> cela sert a montrer quoi dans ce cas? <br> parler du filtrage possible<br> parler de l'utilisation<br>
-                                        <li>style on peux cliquer sur le nom d'un enfant,</li>
-                                        <li>sur l'age d'un enfant</li>
-                                        <li>et que le retour au plan precedent ce fait en cliquant au milieu du cercle.</li>
+                                        Le <strong>Pattern mining</strong> est une technique d'extraction de modèles. Il consiste donc à découvrir des modèles intéressants, utiles et inattendus dans les bases de données afin de comprendre les données
+                                        et/ou prendre des décisions.
+                                    </p>
+                                    <p style="text-align: ajusty;">
+                                        <strong>Et dans notre cas ?</strong><br>Nous avons effectué une étude de pattern mining séquentiel, elle nous a permis d'identifier des modèles de phonèmes séquentiels par enfant. Plus précisément, cela a consister
+                                        à découvrir des sous-séquences de phonèmes dans un ensemble de séquences (enregistrement par enfant et âge). Les sous-séquences ont été extraites en fonction de sa fréquence d'occurrence : supérieur à 170 occurrences.
+                                    </p>
+                                    <p style="text-align: ajusty;">
+                                        <strong>Guide d'utilisation et de lecture de la visu Sunburst</strong>:<br> Cette visu est interactive ! Pour voir les phonèmes séquentiels dun enfant ou d'un âge en particulier il suffit de cliquer sur la case
+                                        en question et cliquer au centre du Sunburst pour revenir au plan précédent. Lorsque l'on choisit l'option avec filtre, l'étude est recentrée avec uniquement les mots contenant des phonemes de la liste ci-contre.
+                                        (Cette liste a été réalisé par nos commanditaires.)<br> En ce qui concerne l'interprétation, le phoneme correspond à la partie située avant le "_", la deuxième partie correspond à l'emplacement de ce phoneme dans
+                                        le mot au sein du quel il a été dit:
+                                        <li>"d" le phoneme est en début de mot,</li>
+                                        <li>"m" le phoneme est en milieu de mot,</li>
+                                        <li>"f" le phoneme est en fin de mot.</li>
                                     </p>
                                 </div>
+                                <div class="col-xs-5">
+                                    <img class="img" width="100%" src="img/sequence.gif">
+                                    <br><br><br><br>
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+                                                <th style="text-align:center;background-color: #c4ffc4;">Phonemes ciblées avec le filtre</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr style="text-align:center;background-color: #ddffdd;">
+                                                <td>'b', 'bR', 'bʁ', 'd', 'dR', 'dʁ', 'f', 'fR', 'fʁ', 'g', 'gR',<br> 'gʁ', 'k', 'kR', 'kʁ', 'p', 'pR', 'pʁ', 'R', 't', 'tR', 'tʁ'
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
+                            <p style="text-align: center;">Cette étude a été réalisée avec l'aide de M. Alatrsta-Salas et de la librairie <i>pymining</i> écrite par M. Infobart</p>
+                            <p style="text-align: center;">
+                                Contacts: h.alatristas[at]up.edu.pe, barthelemy[at]infobart.com
+                                <a href="https://github.com/bartdag/pymining" target="_blank">
+                                    <span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i>
+                                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                            </span>
+                                </a>
+                            </p>
                         </div>
                     </div>
                 </div>
-                <h4></h4>
+                <br><br>
                 <div class="row mt">
                     <div class="col-lg-12">
                         <div class="content-panel">
