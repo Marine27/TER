@@ -123,81 +123,132 @@
                         <div class="content-panel">
                             <div class="panel-body">
                                 <div class="col-md-7">
-                                    <p style="text-align: ajusty;">
-                                        Le <strong>Pattern mining</strong> est une technique d'extraction de modèles. Il consiste donc à découvrir des modèles intéressants, utiles et inattendus dans les bases de données afin de comprendre les données
-                                        et/ou prendre des décisions.
-                                    </p>
-                                    <p style="text-align: ajusty;">
-                                        Texte explicatif a faire
-                                    </p>
+                                    <div>
+                                        <p style="text-align: ajusty;">
+                                            Le <strong>Pattern mining</strong> est une technique d'extraction de modèles. Elle consiste donc à découvrir des modèles intéressants, utiles et inattendus dans les bases de données afin de comprendre les données
+                                            et/ou prendre des décisions.
+                                        </p>
+                                        <p style="text-align: ajusty;">
+                                            <strong>Et dans notre cas ?</strong><br>Nous avons effectué une étude de pattern mining avec règles d'association, elle nous a permis d'identifier des corrélations de sous-séquences phonetiques au sein du langage
+                                            des enfants. Les sous-séquences associatives ont été extraites en fonction de leur fréquence d'occurrence (supérieure à 100 occurrences) et de la probabilité de l'evenement (supérieure à 0,8).
+                                        </p>
+                                    </div>
                                 </div>
                                 <div class="col-xs-5">
-                                    <br><br><br><br>
+                                    <img class="img" width="100%" src="img/assorules.gif">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <br><br>
                 <div class="row mt">
                     <div class="col-lg-12">
                         <div class="content-panel">
+                            <div class="panel-body">
+                                <div class="col-md-8">
+                                    <p style="text-align: ajusty;">
+                                        <strong>Guide d'utilisation et de lecture de la visu Sankey</strong>:
+                                        <br><br> Cette visu se décompose en 4 colonnes :
+                                        <table class="table" style="text-align: center; font-size: 12px;">
+                                            <tr>
+                                                <td style="padding: 0; border-top: 0px solid #ddd;border-right: 1px solid #ddd;">col 1</td>
+                                                <td style="padding: 0; border-top: 0px solid #ddd;border-right: 1px solid #ddd;">col 2</td>
+                                                <td style="padding: 0; border-top: 0px solid #ddd;border-right: 1px solid #ddd;">col 3</td>
+                                                <td style="padding: 0; border-top: 0px solid #ddd;">col 4</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding: 0; padding-right: 4px; border-right: 1px solid #ddd;">Nom(s) enfant(s)</td>
+                                                <td style="padding: 0; padding-right: 4px; padding-left: 4px; border-right: 1px solid #ddd;">âges enfant(s)</td>
+                                                <td style="padding: 0; padding-right: 4px; padding-left: 4px; border-right: 1px solid #ddd;">sous-séquences phonétique 1 (seq1)</td>
+                                                <td style="padding: 0; padding-left: 4px;">sous-séquences phonétique 2 (seq2)</td>
+                                            </tr>
+                                        </table>
+                                        Dans les colonnes 3 et 4, le phoneme correspond à la partie située avant le " _ ", la deuxième partie correspond à l'emplacement de ce phoneme dans le mot au sein du quel il a été dit:
+                                        <li>"d " le phoneme est en début de mot,</li>
+                                        <li>"m " le phoneme est en milieu de mot,</li>
+                                        <li>"f " le phoneme est en fin de mot.</li><br> L'interprétation du Sankey s'effectue ainsi de gauche à droite en suivant les jointures entre les colonnes, et permet de définir en fonction de l'âge quels phonèmes "seq1"
+                                        en entrainent d'autres phonèmes "seq2".<br> En ce qui concerne les filtres, il est possible de filtrer l'étude sur un enfant en particulier. Pour cela, il suffit de choisir son nom dans le premier filtre. Le deuxième
+                                        filtre n 'influence pas la contenue de l'étude mais sur son visuel, c 'est une aide à la lecture qui permet de choisir la manière dont sont colorées les jointures du Sankey.
+                                    </p>
+                                </div>
+                                <div class="col-xs-4">
+                                    <img class="img" width="100%" style="max-width:350px;" src="img/sankey.gif ">
+                                    <br>
+                                </div>
+                                <p style="text-align: ajusty;">
+                                    <strong><i>Phrase type de lecture</i></strong> : Dans plus de 80% des cas, lorsque "l 'enfant" a "tel âge", il prononce la sous-séquence phonétique "seq1" avant la sous-séquence phonétique "seq2".
+                                </p>
+                                <br>
+                                <p style="text-align: center;">Cette étude a été réalisée avec l'aide de M. Alatrsta-Salas et de la librairie <i>pymining</i> écrite par M. Infobart<br> Contacts: h.alatristas[at]up.edu.pe, barthelemy[at]infobart.com
+                                    <a href="https://github.com/bartdag/pymining" target="_blank">
+                                        <span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                        </span>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br><br>
+                <div class="row mt ">
+                    <div class="col-lg-12 ">
+                        <div class="content-panel ">
                             <div>
-                                <select style="margin-left:3%;" class="btn btn-theme dropdown-toggle" id="choice" onchange="myFunction()">
-                                    <option value="./Pattern/sankey.html">Tous les enfants</option>
-                                    <option value="./Pattern/sankey_adrien.html">Adrien</option>
-                                    <option value="./Pattern/sankey_anae.html">Anaé</option>
-                                    <option value="./Pattern/sankey_antoine.html">Antoine</option>
-                                    <option value="./Pattern/sankey_julie.html">Julie</option>
-                                    <option value="./Pattern/sankey_madeleine.html">Madeleine</option>
-                                    <option value="./Pattern/sankey_theophile.html">Theophile</option>
+                                <select style="margin-left:3%; " class="btn btn-theme dropdown-toggle " id="choice " onchange="myFunction() ">
+                                    <option value="./Pattern/sankey.html ">Tous les enfants</option>
+                                    <option value="./Pattern/sankey_adrien.html ">Adrien</option>
+                                    <option value="./Pattern/sankey_anae.html ">Anaé</option>
+                                    <option value="./Pattern/sankey_antoine.html ">Antoine</option>
+                                    <option value="./Pattern/sankey_julie.html ">Julie</option>
+                                    <option value="./Pattern/sankey_madeleine.html ">Madeleine</option>
+                                    <option value="./Pattern/sankey_theophile.html ">Theophile</option>
                                 </select>
-                                <iframe scrolling="no" onload="resizeIframe(this);" id="circ" style="margin-left:2%;width:96%;height:1200px;outline:none;border:none;" src="./Pattern/sankey.html">
+                                <iframe scrolling="no " onload="resizeIframe(this); " id="circ " style="margin-left:2%;width:96%;height:1200px;outline:none;border:none; " src="./Pattern/sankey.html ">
                             </iframe>
                             </div>
                         </div>
                     </div>
-                    <br><br><br><br>
+                </div>
+                <br><br><br><br>
             </section>
             <!-- /wrapper -->
         </section>
         <!-- /MAIN CONTENT -->
         <!--footer start-->
-        <footer class="site-footer">
-            <div class="footer-text">
+        <footer class="site-footer ">
+            <div class="footer-text ">
                 <p>
                     &copy; BOBO <strong>Florian</strong> - CISTERNE <strong>Clément</strong> - PLA-COMES <strong>Marine</strong> - RANDRIANJANAHARY <strong>Sariaka</strong>
                 </p>
-                <div class="credits">
+                <div class="credits ">
                     <!--
             You are NOT allowed to delete the credit link to TemplateMag with free version.
             You can delete the credit link only if you bought the pro version.
             Buy the pro version with working PHP/AJAX contact form: https://templatemag.com/dashio-bootstrap-admin-template/
             Licensing information: https://templatemag.com/license/
           -->
-                    Created with Dashio template by <a href="https://templatemag.com/">TemplateMag</a>
+                    Created with Dashio template by <a href="https://templatemag.com/ ">TemplateMag</a>
                 </div>
             </div>
         </footer>
         <!--footer end-->
     </section>
     <!-- js placed at the end of the document so the pages load faster -->
-    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/jquery/jquery.min.js "></script>
 
-    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-    <script class="include" type="text/javascript" src="lib/jquery.dcjqaccordion.2.7.js"></script>
-    <script src="lib/jquery.scrollTo.min.js"></script>
-    <script src="lib/jquery.nicescroll.js" type="text/javascript"></script>
-    <script src="lib/jquery.sparkline.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js "></script>
+    <script class="include " type="text/javascript " src="lib/jquery.dcjqaccordion.2.7.js "></script>
+    <script src="lib/jquery.scrollTo.min.js "></script>
+    <script src="lib/jquery.nicescroll.js " type="text/javascript "></script>
+    <script src="lib/jquery.sparkline.js "></script>
     <!--c'est pour les diagrammes/menu deroulant -->
-    <script src="lib/common-scripts.js"></script>
-    <script type="text/javascript" src="lib/gritter/js/jquery.gritter.js"></script>
-    <script type="text/javascript" src="lib/gritter-conf.js"></script>
+    <script src="lib/common-scripts.js "></script>
+    <script type="text/javascript " src="lib/gritter/js/jquery.gritter.js "></script>
+    <script type="text/javascript " src="lib/gritter-conf.js "></script>
     <!--scipt pour cette page-->
-    <script src="lib/sparkline-chart.js"></script>
-    <script src="lib/zabuto_calendar.js"></script>
     <script>
-        var e = document.getElementById("choice");
+        var e = document.getElementById("choice ");
 
         function resizeIframe(obj) {
             obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
