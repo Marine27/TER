@@ -86,11 +86,11 @@ var svg = d3.select("body").append("svg")
 	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 // load and handle the data
-d3.tsv("data.tsv", function(error, data) {
+d3.tsv("stack_test_antoine.tsv", function(error, data) {
 	
 	// rotate the data
-	var categories = d3.keys(data[0]).filter(function(key) { return key !== "Absolutes"; });
-	var parsedata = categories.map(function(name) { return { "Absolutes": name }; });
+	var categories = d3.keys(data[0]).filter(function(key) { return key !== "phoneme"; });
+	var parsedata = categories.map(function(name) { return { "phoneme": name }; });
 	data.forEach(function(d) {
 		parsedata.forEach(function(pd) {
 			pd[d["Absolutes"]] = d[pd["Absolutes"]];
@@ -98,7 +98,7 @@ d3.tsv("data.tsv", function(error, data) {
 	});
 	
 	// map column headers to colors (except for 'Absolutes' and 'Base: All Respondents')
-	colors.domain(d3.keys(parsedata[0]).filter(function(key) { return key !== "Absolutes" && key !== "Base: All Respondents"; }));
+	colors.domain(d3.keys(parsedata[0]).filter(function(key) { return key !== "phoneme" && key !== "Base: All Respondents"; }));
 	
 	// add a 'responses' parameter to each row that has the height percentage values for each rect
 	parsedata.forEach(function(pd) {
