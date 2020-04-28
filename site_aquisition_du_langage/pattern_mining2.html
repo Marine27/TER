@@ -195,7 +195,7 @@
                     <div class="col-lg-12 ">
                         <div class="content-panel ">
                             <div>
-                                <select style="margin-left:3%; " class="btn btn-theme dropdown-toggle " id="choice " onchange="myFunction() ">
+                                <select style="margin-left:3%; " class="btn btn-theme dropdown-toggle " id="choice" onchange="myFunction() ">
                                     <option value="./Pattern/sankey.html ">Tous les enfants</option>
                                     <option value="./Pattern/sankey_adrien.html ">Adrien</option>
                                     <option value="./Pattern/sankey_anae.html ">Anaé</option>
@@ -204,13 +204,12 @@
                                     <option value="./Pattern/sankey_madeleine.html ">Madeleine</option>
                                     <option value="./Pattern/sankey_theophile.html ">Theophile</option>
                                 </select>
-                                <iframe scrolling="no " onload="resizeIframe(this); " id="circ " style="margin-left:2%;width:96%;height:1200px;outline:none;border:none; " src="./Pattern/sankey.html ">
+                                <iframe scrolling="no " onload="resizeIframe(this); " id="circ" style="margin-left:2%;width:96%;height:1200px;outline:none;border:none; " src="./Pattern/sankey.html ">
                             </iframe>
                             </div>
                         </div>
                     </div>
-                </div>
-                <br><br><br><br>
+                    <br><br><br><br>
             </section>
             <!-- /wrapper -->
         </section>
@@ -248,7 +247,7 @@
     <script type="text/javascript " src="lib/gritter-conf.js "></script>
     <!--scipt pour cette page-->
     <script>
-        var e = document.getElementById("choice ");
+        var e = document.getElementById("choice");
 
         function resizeIframe(obj) {
             obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
