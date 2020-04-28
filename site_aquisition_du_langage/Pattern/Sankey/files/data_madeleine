@@ -1,42 +1,39 @@
 ,source,target,value
-0,Madeleine,1an 5jours,350
-1,1an 5jours,'g_d' ,103
+0,Madeleine,1an ,350
+1,1an ,'g_d' ,103
 2,'g_d' ,'a_f',103
-3,1an 5jours,'g_m' ,113
+3,1an ,'g_m' ,113
 4,'g_m' ,'a_f',113
-5,1an 5jours,'a_m' ,134
+5,1an ,'a_m' ,134
 6,'a_m' ,'a_f',134
-7,Madeleine,2ans 2jours,347
-8,2ans 2jours,"'m_d', 'w_m' ",100
-9,"'m_d', 'w_m' ",'a_f',100
-10,2ans 2jours,"'a_f', 'm_d' ",100
-11,"'a_f', 'm_d' ",'w_m',100
-12,2ans 2jours,'w_m' ,147
+7,Madeleine,2ans 1mois ,347
+8,2ans 1mois ,"'m_d', 'a_f' ",100
+9,"'m_d', 'a_f' ",'w_m',100
+10,2ans 1mois ,"'m_d', 'w_m' ",100
+11,"'m_d', 'w_m' ",'a_f',100
+12,2ans 1mois ,'w_m' ,147
 13,'w_m' ,'a_f',147
-14,Madeleine,2ans 15jours,87
-15,2ans 15jours,'w_m' ,87
-16,'w_m' ,'a_f',87
-17,Madeleine,2ans 7jours,116
-18,2ans 7jours,'w_m' ,116
-19,'w_m' ,'a_f',116
-20,Madeleine,2ans 5jours,113
-21,2ans 5jours,'w_m' ,113
-22,'w_m' ,'a_f',113
-23,Madeleine,2ans 16jours,85
-24,2ans 16jours,'w_m' ,85
-25,'w_m' ,'a_f',85
-26,Madeleine,3ans 2jours,100
-27,3ans 2jours,'w_m' ,100
-28,'w_m' ,'a_f',100
-29,Madeleine,3ans 7jours,76
-30,3ans 7jours,'w_m' ,76
-31,'w_m' ,'a_f',76
-32,Madeleine,3ans 28jours,77
-33,3ans 28jours,'w_d' ,77
-34,'w_d' ,'i_f',77
-35,Madeleine,4ans 27jours,156
-36,4ans 27jours,'w_m' ,156
-37,'w_m' ,'a_f',156
-38,Madeleine,4ans 1mois 3jours,82
-39,4ans 1mois 3jours,'w_m' ,82
-40,'w_m' ,'a_f',82
+14,Madeleine,2ans 7mois ,116
+15,2ans 7mois ,'w_m' ,116
+16,'w_m' ,'a_f',116
+17,Madeleine,2ans 8mois ,113
+18,2ans 8mois ,'w_m' ,113
+19,'w_m' ,'a_f',113
+20,Madeleine,2ans 10mois ,85
+21,2ans 10mois ,'w_m' ,85
+22,'w_m' ,'a_f',85
+23,Madeleine,3ans 3mois ,100
+24,3ans 3mois ,'w_m' ,100
+25,'w_m' ,'a_f',100
+26,Madeleine,3ans 9mois ,76
+27,3ans 9mois ,'w_m' ,76
+28,'w_m' ,'a_f',76
+29,Madeleine,3ans 10mois ,77
+30,3ans 10mois ,'w_d' ,77
+31,'w_d' ,'i_f',77
+32,Madeleine,4ans 2mois ,156
+33,4ans 2mois ,'w_m' ,156
+34,'w_m' ,'a_f',156
+35,Madeleine,4ans 10mois ,82
+36,4ans 10mois ,'w_m' ,82
+37,'w_m' ,'a_f',82

@@ -1,58 +1,55 @@
 ,source,target,value
-0,Anae,3ans 27jours,82
-1,3ans 27jours,'w_m' ,82
+0,Anae,3ans 5mois ,82
+1,3ans 5mois ,'w_m' ,82
 2,'w_m' ,'a_f',82
-3,Anae,2ans 5jours,137
-4,2ans 5jours,'w_m' ,137
-5,'w_m' ,'a_f',137
-6,Anae,2ans 4jours,114
-7,2ans 4jours,'w_m' ,114
-8,'w_m' ,'a_f',114
-9,Anae,2ans ,180
-10,2ans ,'ɛ_f' ,90
-11,'ɛ_f' ,'w_d',90
-12,2ans ,'w_d' ,90
-13,'w_d' ,'ɛ_f',90
-14,Anae,3ans 7jours,103
-15,3ans 7jours,'w_m' ,103
-16,'w_m' ,'a_f',103
-17,Anae,2ans 16jours,1678
-18,2ans 16jours,"'b_d', 'e_f', 'e_m' ",90
-19,"'b_d', 'e_f', 'e_m' ",'b_m',90
-20,2ans 16jours,"'e_f', 'e_m' ",90
-21,"'e_f', 'e_m' ","'b_m', 'b_d'",90
-22,2ans 16jours,"'b_d', 'e_m' ",90
-23,"'b_d', 'e_m' ","'b_m', 'e_f'",90
-24,2ans 16jours,"'b_d', 'e_f' ",90
-25,"'b_d', 'e_f' ","'b_m', 'e_m'",90
-26,2ans 16jours,"'b_m', 'e_f', 'e_m' ",90
-27,"'b_m', 'e_f', 'e_m' ",'b_d',90
-28,2ans 16jours,"'b_m', 'e_f' ",90
-29,"'b_m', 'e_f' ","'b_d', 'e_m'",90
-30,2ans 16jours,"'b_m', 'b_d', 'e_m' ",90
-31,"'b_m', 'b_d', 'e_m' ",'e_f',90
-32,2ans 16jours,"'b_m', 'b_d', 'e_f' ",90
-33,"'b_m', 'b_d', 'e_f' ",'e_m',90
-34,2ans 16jours,"'b_d', 'e_m' ",98
-35,"'b_d', 'e_m' ",'b_m',8
-36,2ans 16jours,"'b_m', 'e_m' ",98
-37,"'b_m', 'e_m' ",'b_d',98
-38,2ans 16jours,"'e_f', 'e_m' ",90
-39,"'e_f', 'e_m' ",'b_m',90
-40,2ans 16jours,"'b_m', 'e_f' ",90
-41,"'b_m', 'e_f' ",'e_m',90
-42,2ans 16jours,"'e_f', 'e_m' ",90
-43,"'e_f', 'e_m' ",'b_d',90
-44,2ans 16jours,"'b_d', 'e_m' ",90
-45,"'b_d', 'e_m' ",'e_f',90
-46,2ans 16jours,"'b_d', 'e_f' ",90
-47,"'b_d', 'e_f' ",'e_m',90
-48,2ans 16jours,"'b_d', 'e_f' ",90
-49,"'b_d', 'e_f' ",'b_m',90
-50,2ans 16jours,"'b_m', 'e_f' ",90
-51,"'b_m', 'e_f' ",'b_d',90
-52,2ans 16jours,'w_m' ,132
-53,'w_m' ,'a_f',132
-54,Anae,1an 1mois 18jours,130
-55,1an 1mois 18jours,'w_m' ,130
-56,'w_m' ,'a_f',130
+3,Anae,2ans 1mois ,114
+4,2ans 1mois ,'w_m' ,114
+5,'w_m' ,'a_f',114
+6,Anae,3ans 6mois ,180
+7,3ans 6mois ,'w_d' ,90
+8,'w_d' ,'ɛ_f',90
+9,3ans 6mois ,'ɛ_f' ,90
+10,'ɛ_f' ,'w_d',90
+11,Anae,3ans 1mois ,103
+12,3ans 1mois ,'w_m' ,103
+13,'w_m' ,'a_f',103
+14,Anae,2ans 3mois ,1678
+15,2ans 3mois ,"'e_m', 'e_f', 'b_m' ",90
+16,"'e_m', 'e_f', 'b_m' ",'b_d',90
+17,2ans 3mois ,"'e_f', 'b_m' ",90
+18,"'e_f', 'b_m' ","'b_d', 'e_m'",90
+19,2ans 3mois ,"'e_m', 'e_f' ",90
+20,"'e_m', 'e_f' ","'b_d', 'b_m'",90
+21,2ans 3mois ,"'b_d', 'e_f', 'b_m' ",90
+22,"'b_d', 'e_f', 'b_m' ",'e_m',90
+23,2ans 3mois ,"'b_d', 'e_f' ",90
+24,"'b_d', 'e_f' ","'e_m', 'b_m'",90
+25,2ans 3mois ,"'b_d', 'e_m', 'b_m' ",90
+26,"'b_d', 'e_m', 'b_m' ",'e_f',90
+27,2ans 3mois ,"'b_d', 'e_m' ",90
+28,"'b_d', 'e_m' ","'e_f', 'b_m'",90
+29,2ans 3mois ,"'b_d', 'e_m', 'e_f' ",90
+30,"'b_d', 'e_m', 'e_f' ",'b_m',90
+31,2ans 3mois ,"'e_m', 'b_m' ",98
+32,"'e_m', 'b_m' ",'b_d',98
+33,2ans 3mois ,"'b_d', 'e_m' ",98
+34,"'b_d', 'e_m' ",'b_m',98
+35,2ans 3mois ,"'e_f', 'b_m' ",90
+36,"'e_f', 'b_m' ",'e_m',90
+37,2ans 3mois ,"'e_m', 'e_f' ",90
+38,"'e_m', 'e_f' ",'b_m',90
+39,2ans 3mois ,"'e_m', 'e_f' ",90
+40,"'e_m', 'e_f' ",'b_d',90
+41,2ans 3mois ,"'b_d', 'e_f' ",90
+42,"'b_d', 'e_f' ",'e_m',90
+43,2ans 3mois ,"'b_d', 'e_m' ",90
+44,"'b_d', 'e_m' ",'e_f',90
+45,2ans 3mois ,"'e_f', 'b_m' ",90
+46,"'e_f', 'b_m' ",'b_d',90
+47,2ans 3mois ,"'b_d', 'e_f' ",90
+48,"'b_d', 'e_f' ",'b_m',90
+49,2ans 3mois ,'w_m' ,132
+50,'w_m' ,'a_f',132
+51,Anae,1an 11mois ,130
+52,1an 11mois ,'w_m' ,130
+53,'w_m' ,'a_f',130
