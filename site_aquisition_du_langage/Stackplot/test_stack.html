@@ -93,7 +93,7 @@ d3.tsv("stack_test_antoine.tsv", function(error, data) {
 	var parsedata = categories.map(function(name) { return { "phoneme": name }; });
 	data.forEach(function(d) {
 		parsedata.forEach(function(pd) {
-			pd[d["Absolutes"]] = d[pd["Absolutes"]];
+			pd[d["phoneme"]] = d[pd["phoneme"]];
 		});
 	});
 	
