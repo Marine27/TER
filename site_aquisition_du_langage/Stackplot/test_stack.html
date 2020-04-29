@@ -68,7 +68,7 @@ var yscale = d3.scale.linear()
 	.rangeRound([height, 0]);
 
 var colors = d3.scale.ordinal()
-	.range(["#63c172", "#ee9952", "#46d6c4", "#fee851", "#98bc9a"]);
+	.range(['#00429d', '#3761ab', '#5681b9', '#73a2c6', '#93c4d2', '#b9e5dd', '#ffd3bf', '#ffa59e', '#f4777f', '#dd4c65', '#be214d', '#93003a']);
 	
 var xaxis = d3.svg.axis()
 	.scale(xscale)
@@ -86,19 +86,19 @@ var svg = d3.select("body").append("svg")
 	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 // load and handle the data
-d3.tsv("stack_test_antoine.tsv", function(error, data) {
+d3.tsv("stack_tab_antoine.tsv", function(error, data) {
 	
 	// rotate the data
-	var categories = d3.keys(data[0]).filter(function(key) { return key !== "phoneme"; });
-	var parsedata = categories.map(function(name) { return { "phoneme": name }; });
+	var categories = d3.keys(data[0]).filter(function(key) { return key !== "groupe_phonemique"; });
+	var parsedata = categories.map(function(name) { return { "groupe_phonemique": name }; });
 	data.forEach(function(d) {
 		parsedata.forEach(function(pd) {
-			pd[d["phoneme"]] = d[pd["phoneme"]];
+			pd[d["groupe_phonemique"]] = d[pd["groupe_phonemique"]];
 		});
 	});
 	
-	// map column headers to colors (except for 'Absolutes' and 'Base: All Respondents')
-	colors.domain(d3.keys(parsedata[0]).filter(function(key) { return key !== "phoneme"; }));
+	// map column headers to colors
+	colors.domain(d3.keys(parsedata[0]).filter(function(key) { return key !== "groupe_phonemique"; }));
 	
 	// add a 'responses' parameter to each row that has the height percentage values for each rect
 	parsedata.forEach(function(pd) {
@@ -124,7 +124,7 @@ d3.tsv("stack_test_antoine.tsv", function(error, data) {
 	// parsedata.sort(function(a, b) { return b.responses[0].yp1 - a.responses[0].yp1; });
 	
 	// ordinal-ly map categories to x positions
-	xscale.domain(parsedata.map(function(d) { return d.Absolutes; }));
+	xscale.domain(parsedata.map(function(d) { return d.groupe_phonemique }));
 	
 	// add the x axis and rotate its labels
 	svg.append("g")
@@ -148,7 +148,7 @@ d3.tsv("stack_test_antoine.tsv", function(error, data) {
 		.data(parsedata)
 		.enter().append("g")
 		.attr("class", "category")
-		.attr("transform", function(d) { return "translate(" + xscale(d.Absolutes) + ",0)"; });
+		.attr("transform", function(d) { return "translate(" + xscale(d.groupe_phonemique) + ",0)"; });
 	
 	// draw the rects within the groups
 	category.selectAll("rect")
