@@ -98,7 +98,7 @@ d3.tsv("stack_test_antoine.tsv", function(error, data) {
 	});
 	
 	// map column headers to colors (except for 'Absolutes' and 'Base: All Respondents')
-	colors.domain(d3.keys(parsedata[0]).filter(function(key) { return key !== "phoneme" && key !== "Base: All Respondents"; }));
+	colors.domain(d3.keys(parsedata[0]).filter(function(key) { return key !== "phoneme"; }));
 	
 	// add a 'responses' parameter to each row that has the height percentage values for each rect
 	parsedata.forEach(function(pd) {
