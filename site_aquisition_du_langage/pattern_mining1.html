@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Dashboard">
     <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
-    <title>TER : Sequençage phonétique</title>
+    <title>TER : Séquençage phonétique</title>
 
     <!-- Bootstrap core CSS -->
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -114,30 +114,34 @@
         *********************************************************************************************************************************************************** -->
         <section id="main-content">
             <section class="wrapper site-min-height">
-                <h2 id="title1">Sequençage phonétique</h2>
+                <h2 id="title1">Séquençage phonétique</h2>
                 <br>
-                <h4 style="text-align:center;">Une approche avec la technique du <strong>Pattern mining</strong></h4>
+                <h4 style="text-align:center;">Explorer les séquences de phonèmes fréquents à l’aide de motifs séquentiels</h4>
                 <div class="row mt">
                     <div class="col-lg-12">
                         <div class="content-panel">
                             <div class="panel-body">
                                 <div class="col-md-7">
                                     <p style="text-align: ajusty;">
-                                        Le <strong>Pattern mining</strong> est une technique d'extraction de modèles. Elle consiste donc à découvrir des modèles intéressants, utiles et inattendus dans les bases de données afin de comprendre les données
-                                        et/ou prendre des décisions.
+                                        La fouille de données est une technique d'extraction de motifs, c’est-à-dire de récurrences intéressantes, utiles et parfois inattendues dans les bases de données afin de mieux comprendre les données et qui peuvent être utilisés pour prendre des décisions.
                                     </p>
                                     <p style="text-align: ajusty;">
-                                        <strong>Et dans notre cas ?</strong><br>Nous avons effectué une étude de pattern mining séquentiel, elle nous a permis d'identifier des modèles de phonèmes séquentiels par enfant. Plus précisément, cela a consister
-                                        à découvrir des sous-séquences de phonèmes dans un ensemble de séquences (enregistrement par enfant et âge). Les sous-séquences ont été extraites en fonction de leur fréquence d'occurrence : supérieure à 170 occurrences.
+                                        <strong>Et dans notre cas ?</strong><br>Nous avons extrait un type particulier de motifs appelés motifs séquentiels et définis par (Srikant et Agrawal 1996). Ces motifs permettent d'identifier des récurrences de
+                                        séquences de phonèmes par enfant. Plus précisément, nous avons considéré comme séquences les enregistrements par enfant et par âge. Nous avons extrait des sous-séquences de phonèmes fréquentes dans cet ensemble
+                                        de séquences. Les sous-séquences ont été extraites en fonction de leur fréquence d'occurrence (<a src="img/sequence.gif" target="_blank">support</a>) que nous avons fixé manuellement à 170 occurrences.
+                                    </p>
+                                    <p>
+                                        SRIKANT R., AGRAWAL R., « Mining Sequential Patterns: Generalizations and Per-formance Improvements », Proceedings of the 5th International Conference on ExtendingDatabase Technology (EDBT’96), Avignon, France, September 1996, p. 3-17
                                     </p>
                                     <p style="text-align: ajusty;">
-                                        <strong>Guide d'utilisation et de lecture de la visu Sunburst</strong>:<br> Cette visu est interactive ! Pour voir les phonèmes séquentiels d'un enfant ou d'un âge en particulier il suffit de cliquer sur la case
-                                        en question et cliquer au centre du Sunburst pour revenir au plan précédent. Lorsque l'on choisit l'option avec filtre, l'étude est recentrée avec uniquement les mots contenant des phonemes de la liste ci-contre.
-                                        (Cette liste a été réalisé par nos commanditaires.)<br> En ce qui concerne l'interprétation, le phoneme correspond à la partie située avant le "_", la deuxième partie correspond à l'emplacement de ce phoneme dans
-                                        le mot au sein du quel il a été dit:
-                                        <li>"d" le phoneme est en début de mot,</li>
-                                        <li>"m" le phoneme est en milieu de mot,</li>
-                                        <li>"f" le phoneme est en fin de mot.</li>
+                                        <strong>Guide d'utilisation et de lecture de la visualisation Sunburst:</strong>:<br> Cette visualisation est interactive ! Pour voir les phonèmes séquentiels d’un enfant ou d'un âge en particulier, il suffit de
+                                        cliquer sur la case en question et il suffit de cliquer au centre du Sunburst pour revenir au plan précédent. Lorsque l'on choisit l'option avec filtre, l'étude est recentrée sur les mots contenant des phonèmes
+                                        d’intérêt de la liste ci-contre qui nous a été donnée par nos commanditaires.
+                                        <br> En ce qui concerne l'interprétation de l’étiquette, le phonème correspond à la partie située avant le "_", la deuxième partie correspond à l'emplacement de ce phonème dans le mot au sein duquel il a été prononcé
+                                        :
+                                        <li>"d" le phonème est en début de mot,</li>
+                                        <li>"m" le phonème est en milieu de mot,</li>
+                                        <li>"f" le phonème est en fin de mot.</li>
                                     </p>
                                 </div>
                                 <div class="col-xs-5">
@@ -158,7 +162,7 @@
                                     </table>
                                 </div>
                             </div>
-                            <p style="text-align: center;">Cette étude a été réalisée avec l'aide de M. Alatrsta-Salas et de la librairie <i>pymining</i> écrite par M. Infobart</p>
+                            <p style="text-align: center;">Cette étude a été réalisée avec l'aide de M. Alatrista-Salas et de la librairie <a href="https://github.com/bartdag/pymining" target="_blank"><i>pymining</i></a> écrite par M. Infobart</p>
                             <p style="text-align: center;">
                                 Contacts: h.alatristas[at]up.edu.pe, barthelemy[at]infobart.com
                                 <a href="https://github.com/bartdag/pymining" target="_blank">
