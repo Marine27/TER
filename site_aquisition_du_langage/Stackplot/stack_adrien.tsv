@@ -1,0 +1,13 @@
+groupe_phonemique	1 an 11 mois 14 jours	2 an 00 mois 15 jours	2 an 01 mois 12 jours	2 an 02 mois 00 jours	2 an 02 mois 22 jours	2 an 03 mois 28 jours	2 an 04 mois 26 jours	2 an 05 mois 22 jours	2 an 07 mois 18 jours	2 an 08 mois 12 jours	2 an 09 mois 13 jours	2 an 10 mois 14 jours	2 an 11 mois 11 jours	3 an 00 mois 15 jours	3 an 01 mois 13 jours	3 an 02 mois 12 jours	3 an 03 mois 12 jours	3 an 04 mois 14 jours	3 an 05 mois 14 jours	3 an 08 mois 05 jours	3 an 09 mois 09 jours	3 an 10 mois 13 jours	3 an 11 mois 13 jours	4 an 00 mois 15 jours	4 an 01 mois 12 jours	4 an 02 mois 15 jours	4 an 03 mois 26 jours
+A_Occlusives	33	9	15	3	184	46	10	47	67	163	69	113	76	135	61	122	76	25	97	195	99	145	190	293	138	206	233
+Constrictives_large	0	0	0	0	0	7	4	1	6	2	0	1	0	5	2	0	3	5	2	0	13	4	6	1	2	1	7
+Constrictives_précis	0	0	1	1	2	5	5	19	19	14	4	16	17	53	12	37	21	11	55	62	119	115	150	169	52	93	209
+Liquides	0	0	1	0	0	1	4	25	8	19	4	13	1	69	17	2	4	1	13	35	27	130	107	156	32	174	290
+Occlusives_bilabiales	10	14	65	5	107	286	337	107	85	142	53	201	65	148	90	118	33	42	77	153	69	146	209	227	100	158	251
+opposition_krgr	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44
+opposition_trdr	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8
+semicodifficile	0	2	0	1	2	9	2	8	3	7	5	4	1	4	2	8	3	3	9	29	31	31	99	66	30	95	153
+semicofacile	0	0	6	0	19	4	4	2	7	24	8	15	4	26	5	15	5	5	3	3	0	3	1	8	2	8	20
+v_nasal	0	0	0	0	2	41	63	12	14	16	7	36	26	5	9	28	13	9	17	32	6	17	31	68	24	42	52
+v_relache	12	12	61	1	178	220	244	127	74	233	77	226	98	292	92	188	82	60	144	273	136	311	360	435	158	303	501
+v_tendu	34	14	36	10	142	70	64	79	108	190	67	150	70	223	89	120	78	37	130	161	151	157	191	232	124	213	316

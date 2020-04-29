@@ -1,0 +1,13 @@
+groupe_phonemique	1 an 00 mois 24 jours	1 an 01 mois 24 jours	1 an 03 mois 16 jours	1 an 04 mois 19 jours	1 an 05 mois 21 jours	1 an 06 mois 22 jours	1 an 07 mois 15 jours	1 an 08 mois 05 jours	1 an 09 mois 11 jours	1 an 09 mois 27 jours	1 an 10 mois 10 jours	1 an 11 mois 04 jours	1 an 11 mois 18 jours	2 an 00 mois 01 jours	2 an 00 mois 20 jours	2 an 00 mois 21 jours	2 an 01 mois 13 jours	2 an 01 mois 28 jours	2 an 02 mois 12 jours	2 an 02 mois 27 jours	2 an 02 mois 28 jours	2 an 03 mois 05 jours	2 an 03 mois 15 jours	2 an 04 mois 03 jours	2 an 04 mois 25 jours	2 an 05 mois 24 jours	2 an 06 mois 24 jours	2 an 07 mois 22 jours	2 an 08 mois 20 jours	2 an 09 mois 16 jours	2 an 11 mois 16 jours	3 an 00 mois 21 jours	3 an 02 mois 24 jours	3 an 05 mois 00 jours	3 an 07 mois 01 jours	3 an 09 mois 22 jours	4 an 00 mois 09 jours	4 an 02 mois 19 jours	4 an 05 mois 16 jours	4 an 08 mois 02 jours	4 an 10 mois 22 jours	5 an 02 mois 13 jours	5 an 04 mois 28 jours	5 an 07 mois 11 jours
+A_Occlusives	1	2	1	2	0	7	13	17	43	47	48	23	32	47	32	0	33	52	22	112	81	117	130	92	68	135	102	176	140	198	110	151	99	201	161	179	143	96	172	135	2	170	2	3
+Constrictives_large	0	0	0	0	0	0	0	0	6	1	12	4	3	6	13	0	15	27	26	48	31	35	6	22	9	15	14	30	6	49	33	14	14	21	10	9	12	10	33	19	0	16	0	0
+Constrictives_précis	2	0	1	0	0	0	0	6	13	27	14	13	14	41	8	0	20	41	9	49	33	59	45	25	29	68	61	87	75	104	83	159	30	135	79	102	83	57	113	97	2	145	0	0
+Liquides	0	0	0	1	0	0	3	1	2	3	15	2	11	14	7	1	14	42	25	52	51	82	25	51	37	63	59	95	100	120	124	66	46	136	119	165	101	78	167	126	3	110	4	2
+Occlusives_bilabiales	0	0	0	2	4	10	26	6	28	23	30	48	37	71	58	0	59	52	30	141	61	112	80	55	48	80	53	122	85	179	92	76	68	117	120	191	89	70	141	162	4	100	0	2
+opposition_krgr	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	7	5	5	9	9	14	11	11	0	14	18	16	14	3	7	5	10	0	5	0	0	3	3	0	5	0	0
+opposition_trdr	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	2	0	0	0	1	2	2	0	1	2	0	12	8	14	13	7	15	15	0	22	0	0
+semicodifficile	0	0	0	0	0	0	0	1	3	6	4	9	4	26	12	0	20	51	13	33	32	23	20	20	37	38	33	35	35	64	67	53	63	77	80	78	66	52	107	50	0	96	1	1
+semicofacile	1	0	0	0	0	1	5	0	2	7	0	2	0	17	10	0	5	10	7	3	5	22	4	5	11	11	10	10	11	3	10	32	5	21	21	19	14	9	12	10	0	7	0	0
+v_nasal	0	0	0	0	0	1	1	4	17	36	26	21	19	18	13	0	24	10	10	49	18	48	24	30	28	49	36	70	36	82	43	52	49	68	54	50	41	41	66	71	1	40	0	0
+v_relache	1	0	1	1	4	10	19	21	44	51	73	46	54	87	48	1	72	105	46	146	99	153	79	101	84	120	101	189	185	234	225	167	119	263	196	274	176	141	281	248	5	251	5	2
+v_tendu	1	1	1	4	0	5	16	15	47	43	29	33	28	80	62	0	37	77	44	177	106	155	153	120	67	121	103	166	132	207	99	257	63	181	139	203	128	80	173	142	2	169	1	3

@@ -1,0 +1,13 @@
+groupe_phonemique	1 an 01 mois 10 jours	1 an 02 mois 14 jours	1 an 02 mois 28 jours	1 an 03 mois 18 jours	1 an 04 mois 18 jours	1 an 06 mois 04 jours	1 an 07 mois 15 jours	1 an 09 mois 03 jours	1 an 10 mois 07 jours	1 an 11 mois 13 jours	2 an 01 mois 02 jours	2 an 02 mois 06 jours	2 an 03 mois 05 jours	2 an 04 mois 15 jours	2 an 05 mois 12 jours	2 an 06 mois 10 jours	2 an 07 mois 07 jours	2 an 08 mois 05 jours	2 an 09 mois 16 jours	2 an 10 mois 20 jours	2 an 11 mois 19 jours	3 an 00 mois 28 jours	3 an 03 mois 02 jours	3 an 06 mois 08 jours	3 an 09 mois 07 jours	3 an 09 mois 28 jours	4 an 01 mois 27 jours	4 an 07 mois 04 jours	4 an 10 mois 03 jours	5 an 01 mois 05 jours	5 an 05 mois 08 jours	5 an 10 mois 16 jours	6 an 11 mois 27 jours
+A_Occlusives	6	1	0	0	7	8	116	86	96	72	102	113	118	177	194	104	267	220	233	60	25	148	191	116	209	160	353	368	137	1	5	6	0
+Constrictives_large	0	0	0	1	0	3	2	21	20	18	12	23	8	16	31	14	39	25	18	7	11	31	49	18	13	4	25	17	5	1	2	0	2
+Constrictives_précis	0	0	1	0	0	63	13	25	45	54	82	132	67	125	137	83	234	136	130	43	23	110	110	89	136	104	188	195	107	2	5	0	0
+Liquides	0	0	0	0	0	13	59	19	22	42	92	103	76	159	202	71	217	198	198	74	15	165	126	86	188	107	229	201	198	2	3	0	0
+Occlusives_bilabiales	4	23	29	12	7	89	113	162	75	85	195	160	193	202	206	126	282	216	186	61	19	206	190	139	222	151	263	242	132	6	12	0	0
+opposition_krgr	0	0	0	0	0	0	0	0	2	0	0	5	0	2	9	3	1	5	0	0	0	4	9	4	1	4	8	4	11	0	0	0	0
+opposition_trdr	0	0	0	0	0	0	0	0	1	0	0	16	2	8	18	19	18	13	37	7	2	22	11	14	20	12	13	31	17	0	3	0	0
+semicodifficile	0	0	0	0	0	2	5	1	12	28	133	33	46	66	85	59	97	101	96	30	15	92	101	36	55	39	116	79	82	2	4	0	2
+semicofacile	0	0	0	0	0	2	8	10	12	10	13	21	8	16	13	5	10	8	26	4	1	13	13	9	8	7	25	11	12	0	4	0	0
+v_nasal	1	0	1	2	9	5	47	81	32	41	40	84	44	57	77	53	82	91	119	18	4	64	67	40	102	53	136	133	74	5	12	3	0
+v_relache	11	24	25	11	9	87	107	126	118	99	284	197	226	288	301	210	431	362	296	96	46	197	277	179	289	201	358	346	308	6	9	0	0
+v_tendu	0	0	1	1	1	116	115	89	99	118	129	202	145	228	247	134	322	206	232	84	38	258	203	157	220	171	311	358	142	3	3	0	2

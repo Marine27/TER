@@ -1,0 +1,13 @@
+groupe_phonemique	1 an 02 mois 10 jours	1 an 03 mois 02 jours	1 an 04 mois 01 jours	1 an 05 mois 05 jours	1 an 06 mois 08 jours	1 an 07 mois 01 jours	1 an 08 mois 08 jours	1 an 09 mois 06 jours	1 an 10 mois 00 jours	1 an 11 mois 07 jours	1 an 11 mois 25 jours	2 an 00 mois 20 jours	2 an 02 mois 08 jours	2 an 03 mois 01 jours	2 an 04 mois 05 jours	2 an 04 mois 29 jours	2 an 06 mois 03 jours	2 an 07 mois 04 jours	2 an 07 mois 28 jours	2 an 09 mois 07 jours	2 an 10 mois 01 jours	2 an 10 mois 28 jours	2 an 11 mois 28 jours	3 an 02 mois 00 jours	3 an 03 mois 02 jours	3 an 04 mois 10 jours	3 an 05 mois 11 jours	3 an 06 mois 10 jours	3 an 07 mois 08 jours	3 an 08 mois 15 jours	3 an 10 mois 00 jours	3 an 11 mois 15 jours	4 an 01 mois 24 jours	4 an 03 mois 29 jours	4 an 06 mois 20 jours	4 an 09 mois 07 jours	4 an 11 mois 11 jours
+A_Occlusives	0	0	0	1	7	5	0	0	8	11	6	9	12	31	113	59	31	120	50	98	119	153	97	224	132	166	193	34	165	72	176	207	130	166	197	157	13
+Constrictives_large	0	0	0	0	0	0	0	0	0	0	1	0	0	1	2	1	3	0	0	1	1	8	1	5	2	4	5	0	4	1	2	8	9	5	14	15	0
+Constrictives_précis	0	0	0	0	2	0	0	0	0	0	0	0	1	0	6	16	21	58	24	49	42	100	63	181	138	73	138	14	84	67	126	118	64	103	67	96	0
+Liquides	0	0	0	0	1	0	2	0	0	0	0	6	5	0	13	3	7	26	22	50	68	79	55	132	147	90	142	6	107	72	149	132	112	125	159	127	4
+Occlusives_bilabiales	4	2	3	2	21	45	28	15	76	7	101	17	49	65	26	58	132	70	149	135	49	140	90	212	153	177	186	42	141	89	233	218	122	142	192	165	7
+opposition_krgr	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	4	3	0	1	7	8	3	12	0	3	8	2	1	4	5	10	4	0
+opposition_trdr	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	6	6	2	10	0	0	0	17	13	7	11	19	16	0
+semicodifficile	0	0	1	1	1	0	1	0	2	0	0	0	5	27	11	11	30	59	29	74	68	95	49	80	68	125	130	19	66	56	103	52	67	71	134	73	0
+semicofacile	0	0	1	0	1	2	2	1	0	0	26	2	1	0	2	3	19	5	5	11	7	3	11	35	8	8	6	2	8	9	22	14	9	12	23	17	2
+v_nasal	0	0	0	0	4	5	7	0	14	3	17	2	0	13	2	14	35	14	41	25	41	47	34	106	83	47	56	22	61	32	114	83	56	47	97	75	2
+v_relache	2	2	2	3	27	50	20	12	67	4	66	5	49	80	129	105	153	149	129	187	165	222	150	396	281	247	366	49	215	146	198	202	206	244	323	281	13
+v_tendu	2	2	0	0	8	10	4	3	8	14	7	18	17	6	66	24	19	113	94	118	62	215	124	187	182	159	211	18	157	84	249	288	111	126	136	145	17
