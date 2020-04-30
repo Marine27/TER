@@ -20,12 +20,24 @@ var yaxis = d3.svg.axis()
 	.scale(yscale)
 	.orient("left")
 	.tickFormat(d3.format(".0%")); // **
+
+try {
+ var elem = document.getElementById("stacked");
+ elem.parentElement.removeChild(elem);
+}
+catch(error) {} ;
 	
-var svg = d3.select("body").append("svg")
+	
+	
+	
+	
+var svg = d3.select("#stackplot").append("svg")
 	.attr("width", width + margin.left + margin.right)
 	.attr("height", height + margin.top + margin.bottom)
 	.append("g")
-	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+	.attr("transform", "translate(" + margin.left + "," + margin.top + ")") 
+        .attr("id", "stacked") 
+          ;
 
 // load and handle the data
 d3.tsv(path, function(error, data) {
