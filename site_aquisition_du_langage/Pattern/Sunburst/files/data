@@ -4,188 +4,271 @@
 "children": [
 {"name": "2ans 15jours",
 "children": [
-{ "name": "'s_d'", "value": 281 },
-{ "name": "'ɛ_f'", "value": 296 },
-{ "name": "'a_d'", "value": 327 },
+{ "name": "'m_d'", "value": 206 },
+{ "name": "'ɛ̃_f'", "value": 214 },
+{ "name": "'j_m'", "value": 233 },
+{ "name": "'l_d'", "value": 235 },
+{ "name": "'k_d'", "value": 244 },
+{ "name": "'a_m'", "value": 257 },
+{ "name": "'ɛ_f'", "value": 265 },
+{ "name": "'s_d'", "value": 280 },
+{ "name": "'a_d'", "value": 311 },
 { "name": "'t_d'", "value": 347 },
-{ "name": "'s_d'", "value": 281}
+{ "name": "'a_f'", "value": 388}
 ]
 },
 {"name": "2ans 1mois 12jours",
 "children": [
-{ "name": "'y_f'", "value": 260 },
+{ "name": "'ɔ̃_f'", "value": 207 },
+{ "name": "'v_d'", "value": 208 },
+{ "name": "'n_d'", "value": 216 },
+{ "name": "'ɑ̃_f'", "value": 217 },
+{ "name": "'m_d'", "value": 233 },
+{ "name": "'k_d'", "value": 234 },
+{ "name": "'ɛ̃_f'", "value": 234 },
+{ "name": "'i_m'", "value": 238 },
+{ "name": "'y_f'", "value": 240 },
+{ "name": "'j_m'", "value": 263 },
+{ "name": "'ɛ_f'", "value": 264 },
 { "name": "'d_d'", "value": 265 },
-{ "name": "'a_m'", "value": 268 },
 { "name": "'l_d'", "value": 272 },
 { "name": "'b_d'", "value": 277 },
 { "name": "'p_d'", "value": 303 },
-{ "name": "'ɛ_f'", "value": 303 },
-{ "name": "'s_d'", "value": 313 },
-{ "name": "'i_f'", "value": 357 },
+{ "name": "'s_d'", "value": 312 },
+{ "name": "'a_m'", "value": 326 },
+{ "name": "'i_f'", "value": 344 },
 { "name": "'t_d'", "value": 402 },
-{ "name": "'a_d'", "value": 449 },
-{ "name": "'y_f'", "value": 260}
+{ "name": "'a_d'", "value": 435 },
+{ "name": "'a_f'", "value": 486}
 ]
 },
 {"name": "2ans 2mois 22jours",
 "children": [
+{ "name": "'ɑ̃_f'", "value": 200 },
+{ "name": "'d_d'", "value": 204 },
+{ "name": "'m_d'", "value": 206 },
+{ "name": "'i_f'", "value": 218 },
+{ "name": "'ɔ̃_f'", "value": 230 },
+{ "name": "'l_d'", "value": 240 },
+{ "name": "'k_d'", "value": 244 },
+{ "name": "'p_d'", "value": 247 },
+{ "name": "'ɛ̃_f'", "value": 248 },
+{ "name": "'j_m', 'ɛ̃_f'", "value": 224 },
+{ "name": "'t_m'", "value": 259 },
 { "name": "'j_m'", "value": 282 },
 { "name": "'s_d'", "value": 317 },
-{ "name": "'a_m'", "value": 390 },
-{ "name": "'a_d'", "value": 430 },
+{ "name": "'a_d'", "value": 419 },
+{ "name": "'a_m'", "value": 429 },
 { "name": "'t_d'", "value": 440 },
-{ "name": "'j_m'", "value": 282}
+{ "name": "'a_f'", "value": 532}
 ]
 },
 {"name": "2ans 3mois 28jours",
 "children": [
+{ "name": "'y_f'", "value": 202 },
+{ "name": "'ɛ_m'", "value": 203 },
+{ "name": "'t_m'", "value": 207 },
+{ "name": "'p_m'", "value": 208 },
+{ "name": "'ɛ_d'", "value": 218 },
+{ "name": "'d_d'", "value": 249 },
+{ "name": "'ɑ̃_f'", "value": 253 },
+{ "name": "'e_f'", "value": 254 },
+{ "name": "'m_m'", "value": 261 },
 { "name": "'n_d'", "value": 266 },
-{ "name": "'j_m'", "value": 279 },
+{ "name": "'i_m'", "value": 274 },
+{ "name": "'j_m'", "value": 282 },
+{ "name": "'j_m', 'ɛ̃_f'", "value": 221 },
 { "name": "'ɔ̃_f'", "value": 290 },
 { "name": "'ɛ̃_f'", "value": 297 },
-{ "name": "'k_d'", "value": 312 },
+{ "name": "'k_d'", "value": 309 },
 { "name": "'l_d'", "value": 325 },
+{ "name": "'ɛ_f'", "value": 352 },
+{ "name": "'i_f'", "value": 357 },
 { "name": "'s_d'", "value": 371 },
-{ "name": "'i_f'", "value": 374 },
-{ "name": "'m_d'", "value": 374 },
-{ "name": "'ɛ_f'", "value": 386 },
+{ "name": "'m_d'", "value": 372 },
 { "name": "'t_d'", "value": 410 },
-{ "name": "'p_d'", "value": 420 },
-{ "name": "'a_d'", "value": 519 },
-{ "name": "'a_m'", "value": 536 },
-{ "name": "'n_d'", "value": 266}
+{ "name": "'p_d'", "value": 417 },
+{ "name": "'a_d'", "value": 487 },
+{ "name": "'a_m'", "value": 591 },
+{ "name": "'a_f'", "value": 632}
 ]
 },
 {"name": "2ans 4mois 26jours",
 "children": [
+{ "name": "'r_m'", "value": 201 },
+{ "name": "'d_d'", "value": 215 },
+{ "name": "'ɛ_m'", "value": 217 },
+{ "name": "'ɛ_f'", "value": 232 },
+{ "name": "'ɑ̃_f'", "value": 258 },
 { "name": "'p_d'", "value": 260 },
-{ "name": "'i_m'", "value": 265 },
 { "name": "'ɔ̃_f'", "value": 267 },
-{ "name": "'ɛ_d'", "value": 275 },
-{ "name": "'ɛ_f'", "value": 278 },
+{ "name": "'y_f'", "value": 269 },
+{ "name": "'y_f', 't_d'", "value": 237 },
+{ "name": "'ɛ_d'", "value": 272 },
+{ "name": "'i_m'", "value": 280 },
 { "name": "'e_f'", "value": 287 },
-{ "name": "'y_f'", "value": 294 },
-{ "name": "'m_m'", "value": 296 },
+{ "name": "'m_m'", "value": 298 },
+{ "name": "'m_d', 'm_m'", "value": 208 },
+{ "name": "'a_m', 'm_m'", "value": 202 },
 { "name": "'k_d'", "value": 299 },
 { "name": "'ɛ̃_f'", "value": 301 },
-{ "name": "'j_m'", "value": 312 },
-{ "name": "'v_d'", "value": 324 },
+{ "name": "'j_m', 'ɛ̃_f'", "value": 246 },
+{ "name": "'j_m'", "value": 313 },
+{ "name": "'v_d'", "value": 323 },
 { "name": "'n_d'", "value": 329 },
-{ "name": "'i_f'", "value": 380 },
+{ "name": "'i_f'", "value": 364 },
 { "name": "'l_d'", "value": 395 },
 { "name": "'s_d'", "value": 405 },
-{ "name": "'a_m'", "value": 415 },
-{ "name": "'m_d'", "value": 431 },
-{ "name": "'a_d'", "value": 501 },
+{ "name": "'m_d'", "value": 429 },
+{ "name": "'a_d'", "value": 468 },
+{ "name": "'a_m'", "value": 473 },
 { "name": "'t_d'", "value": 534 },
-{ "name": "'p_d'", "value": 260}
+{ "name": "'a_f'", "value": 603}
 ]
 },
 {"name": "2ans 5mois 22jours",
 "children": [
+{ "name": "'ɛ_m'", "value": 206 },
+{ "name": "'y_f'", "value": 225 },
+{ "name": "'m_d'", "value": 252 },
 { "name": "'n_d'", "value": 265 },
+{ "name": "'ɛ_f'", "value": 269 },
 { "name": "'e_f'", "value": 270 },
 { "name": "'d_d'", "value": 277 },
 { "name": "'k_d'", "value": 303 },
-{ "name": "'ɛ_f'", "value": 304 },
 { "name": "'ɔ̃_f'", "value": 306 },
-{ "name": "'i_m'", "value": 314 },
+{ "name": "'i_m'", "value": 324 },
+{ "name": "'i_m', 'j_m'", "value": 202 },
 { "name": "'v_d'", "value": 324 },
 { "name": "'ɛ̃_f'", "value": 341 },
-{ "name": "'j_m', 'ɛ̃_f'", "value": 285 },
-{ "name": "'p_d'", "value": 351 },
-{ "name": "'j_m'", "value": 362 },
-{ "name": "'a_m'", "value": 410 },
-{ "name": "'i_f'", "value": 425 },
+{ "name": "'j_m', 'ɛ̃_f'", "value": 290 },
+{ "name": "'p_d'", "value": 350 },
+{ "name": "'j_m'", "value": 367 },
+{ "name": "'a_d', 'j_m'", "value": 209 },
+{ "name": "'i_f'", "value": 416 },
 { "name": "'t_d'", "value": 431 },
+{ "name": "'a_m'", "value": 450 },
 { "name": "'s_d'", "value": 472 },
 { "name": "'l_d'", "value": 504 },
-{ "name": "'a_d'", "value": 549 },
-{ "name": "'n_d'", "value": 265}
+{ "name": "'a_d'", "value": 535 },
+{ "name": "'a_f'", "value": 770}
 ]
 },
 {"name": "2ans 7mois 18jours",
 "children": [
+{ "name": "'v_d'", "value": 213 },
+{ "name": "'ɔ̃_f'", "value": 225 },
+{ "name": "'i_m'", "value": 233 },
+{ "name": "'n_d'", "value": 234 },
+{ "name": "'m_d'", "value": 238 },
+{ "name": "'k_d'", "value": 245 },
+{ "name": "'ɛ_f'", "value": 246 },
 { "name": "'p_d'", "value": 260 },
-{ "name": "'ɛ_f'", "value": 276 },
 { "name": "'s_d'", "value": 294 },
 { "name": "'e_f'", "value": 311 },
 { "name": "'d_d'", "value": 320 },
-{ "name": "'a_m'", "value": 367 },
-{ "name": "'l_d'", "value": 373 },
-{ "name": "'i_f'", "value": 380 },
-{ "name": "'a_d'", "value": 460 },
-{ "name": "'t_d'", "value": 480 },
-{ "name": "'p_d'", "value": 260}
+{ "name": "'i_f'", "value": 371 },
+{ "name": "'l_d'", "value": 372 },
+{ "name": "'a_m'", "value": 399 },
+{ "name": "'a_d'", "value": 442 },
+{ "name": "'t_d'", "value": 478 },
+{ "name": "'a_f'", "value": 507}
 ]
 },
 {"name": "2ans 8mois 12jours",
 "children": [
-{ "name": "'t_m'", "value": 263 },
-{ "name": "'m_d'", "value": 268 },
+{ "name": "'o_f'", "value": 204 },
+{ "name": "'b_d'", "value": 209 },
+{ "name": "'r_f'", "value": 209 },
+{ "name": "'u_m'", "value": 224 },
+{ "name": "'ɛ_d'", "value": 227 },
+{ "name": "'n_d'", "value": 233 },
+{ "name": "'ɛ_m'", "value": 234 },
+{ "name": "'l_m'", "value": 240 },
+{ "name": "'y_f'", "value": 259 },
+{ "name": "'t_m'", "value": 264 },
+{ "name": "'m_d'", "value": 266 },
 { "name": "'ɔ̃_f'", "value": 277 },
-{ "name": "'y_f'", "value": 279 },
 { "name": "'v_d'", "value": 300 },
 { "name": "'ɛ̃_f'", "value": 302 },
-{ "name": "'j_m'", "value": 351 },
+{ "name": "'j_m', 'ɛ̃_f'", "value": 260 },
+{ "name": "'j_m'", "value": 356 },
 { "name": "'k_d'", "value": 364 },
 { "name": "'l_d'", "value": 367 },
+{ "name": "'ɛ_f'", "value": 396 },
 { "name": "'s_d'", "value": 409 },
 { "name": "'p_d'", "value": 415 },
-{ "name": "'i_m'", "value": 424 },
-{ "name": "'ɛ_f'", "value": 443 },
-{ "name": "'i_f'", "value": 456 },
-{ "name": "'a_m'", "value": 474 },
+{ "name": "'p_d', 'a_f'", "value": 204 },
+{ "name": "'i_m'", "value": 437 },
+{ "name": "'i_f'", "value": 444 },
 { "name": "'e_f'", "value": 479 },
+{ "name": "'a_m'", "value": 522 },
 { "name": "'d_d'", "value": 578 },
-{ "name": "'t_d'", "value": 726 },
-{ "name": "'a_d'", "value": 764 },
-{ "name": "'t_m'", "value": 263}
+{ "name": "'t_d'", "value": 725 },
+{ "name": "'a_d'", "value": 735 },
+{ "name": "'a_f'", "value": 835}
 ]
 },
 {"name": "2ans 9mois 13jours",
 "children": [
+{ "name": "'ɛ_f'", "value": 205 },
+{ "name": "'ɛ̃_f'", "value": 206 },
+{ "name": "'k_d'", "value": 210 },
+{ "name": "'i_m'", "value": 212 },
+{ "name": "'e_f'", "value": 221 },
+{ "name": "'j_m'", "value": 223 },
+{ "name": "'v_d'", "value": 240 },
 { "name": "'l_d'", "value": 263 },
-{ "name": "'i_f'", "value": 272 },
+{ "name": "'i_f'", "value": 270 },
 { "name": "'d_d'", "value": 287 },
-{ "name": "'a_m'", "value": 288 },
 { "name": "'s_d'", "value": 288 },
+{ "name": "'a_m'", "value": 333 },
 { "name": "'t_d'", "value": 333 },
-{ "name": "'a_d'", "value": 467 },
-{ "name": "'l_d'", "value": 263}
+{ "name": "'a_d'", "value": 449 },
+{ "name": "'a_f'", "value": 538}
 ]
 },
 {"name": "2ans 10mois 14jours",
 "children": [
+{ "name": "'ə_f'", "value": 209 },
+{ "name": "'ɛ_m'", "value": 212 },
+{ "name": "'r_m'", "value": 214 },
+{ "name": "'t_m'", "value": 214 },
+{ "name": "'p_m'", "value": 226 },
+{ "name": "'o_m'", "value": 240 },
+{ "name": "'m_m'", "value": 244 },
+{ "name": "'y_f'", "value": 252 },
+{ "name": "'y_f', 't_d'", "value": 200 },
 { "name": "'v_d'", "value": 261 },
 { "name": "'ɑ̃_f'", "value": 264 },
-{ "name": "'y_f'", "value": 267 },
 { "name": "'n_d'", "value": 279 },
 { "name": "'ɛ̃_f'", "value": 285 },
-{ "name": "'ɔ̃_f'", "value": 289 },
-{ "name": "'m_d'", "value": 312 },
-{ "name": "'i_m'", "value": 326 },
-{ "name": "'j_m'", "value": 331 },
+{ "name": "'j_m', 'ɛ̃_f'", "value": 247 },
+{ "name": "'ɔ̃_f'", "value": 290 },
+{ "name": "'m_d'", "value": 308 },
+{ "name": "'ɛ_f'", "value": 326 },
+{ "name": "'j_m'", "value": 332 },
+{ "name": "'i_m'", "value": 346 },
 { "name": "'l_d'", "value": 349 },
-{ "name": "'ɛ_f'", "value": 357 },
-{ "name": "'i_f'", "value": 444 },
+{ "name": "'i_f'", "value": 426 },
 { "name": "'k_d'", "value": 451 },
 { "name": "'e_f'", "value": 463 },
 { "name": "'s_d'", "value": 480 },
-{ "name": "'p_d'", "value": 484 },
-{ "name": "'p_d', 'a_f'", "value": 317 },
-{ "name": "'a_m'", "value": 502 },
+{ "name": "'p_d'", "value": 483 },
+{ "name": "'p_d', 'a_f'", "value": 313 },
+{ "name": "'a_m'", "value": 520 },
 { "name": "'d_d'", "value": 540 },
 { "name": "'t_d'", "value": 627 },
-{ "name": "'a_d'", "value": 798 },
-{ "name": "'v_d'", "value": 261}
+{ "name": "'a_d'", "value": 791 },
+{ "name": "'a_f'", "value": 967}
 ]
 },
 {"name": "3ans 15jours",
 "children": [
+{ "name": "'a_m'", "value": 232 },
 { "name": "'a_d'", "value": 313 },
 { "name": "'e_f'", "value": 316 },
-{ "name": "'a_d'", "value": 313}
+{ "name": "'a_f'", "value": 370}
 ]
 },
 {"name": "3ans 1mois 13jours",
@@ -195,49 +278,82 @@
 },
 {"name": "3ans 2mois 12jours",
 "children": [
+{ "name": "'e_f'", "value": 236 },
 { "name": "'a_f'", "value": 318}
+]
+},
+{"name": "3ans 5mois 14jours",
+"children": [
+{ "name": "'a_f'", "value": 243}
 ]
 },
 {"name": "3ans 8mois 5jours",
 "children": [
+{ "name": "'l_d'", "value": 201 },
+{ "name": "'e_f'", "value": 246 },
 { "name": "'a_f'", "value": 354}
 ]
 },
 {"name": "3ans 9mois 9jours",
 "children": [
-{ "name": "'a_f'", "value": 262}
+{ "name": "'a_f'", "value": 258}
 ]
 },
 {"name": "3ans 10mois 13jours",
 "children": [
-{ "name": "'a_f'", "value": 352}
+{ "name": "'a_f'", "value": 343}
 ]
 },
 {"name": "3ans 11mois 13jours",
 "children": [
+{ "name": "'m_d'", "value": 205 },
+{ "name": "'s_d'", "value": 212 },
+{ "name": "'l_d'", "value": 214 },
 { "name": "'e_f'", "value": 310 },
-{ "name": "'e_f'", "value": 310}
+{ "name": "'a_f'", "value": 419}
 ]
 },
 {"name": "4ans 15jours",
 "children": [
+{ "name": "'p_d'", "value": 209 },
+{ "name": "'a_d'", "value": 210 },
+{ "name": "'s_d'", "value": 224 },
+{ "name": "'d_d'", "value": 232 },
+{ "name": "'l_d'", "value": 247 },
 { "name": "'e_f'", "value": 326 },
-{ "name": "'e_f'", "value": 326}
+{ "name": "'a_f'", "value": 481}
+]
+},
+{"name": "4ans 1mois 12jours",
+"children": [
+{ "name": "'a_f'", "value": 237}
 ]
 },
 {"name": "4ans 2mois 15jours",
 "children": [
-{ "name": "'a_f'", "value": 403}
+{ "name": "'e_f'", "value": 220 },
+{ "name": "'l_d'", "value": 229 },
+{ "name": "'s_d'", "value": 237 },
+{ "name": "'a_f'", "value": 374}
 ]
 },
 {"name": "4ans 3mois 26jours",
 "children": [
+{ "name": "'v_d'", "value": 202 },
+{ "name": "'ɛ_d'", "value": 205 },
+{ "name": "'ə_f'", "value": 207 },
+{ "name": "'ɛ_m'", "value": 214 },
+{ "name": "'m_d'", "value": 222 },
+{ "name": "'a_d'", "value": 230 },
+{ "name": "'l_f'", "value": 244 },
+{ "name": "'a_m'", "value": 268 },
 { "name": "'p_d'", "value": 346 },
 { "name": "'k_d'", "value": 379 },
 { "name": "'l_d'", "value": 388 },
-{ "name": "'e_f'", "value": 476 },
+{ "name": "'e_f'", "value": 477 },
 { "name": "'s_d'", "value": 512 },
-{ "name": "'p_d'", "value": 346}
+{ "name": "'s_d', 'a_f'", "value": 206 },
+{ "name": "'a_f'", "value": 797}
 ]
 }
 ]
@@ -246,523 +362,668 @@
 "children": [
 {"name": "3ans 4mois 27jours",
 "children": [
-{ "name": "'ɛ_f'", "value": 202 },
+{ "name": "'e_d'", "value": 171 },
+{ "name": "'a_d'", "value": 178 },
+{ "name": "'a_m'", "value": 183 },
+{ "name": "'p_d'", "value": 186 },
+{ "name": "'ɛ_f'", "value": 188 },
 { "name": "'s_d'", "value": 219 },
 { "name": "'l_d'", "value": 291 },
-{ "name": "'ɛ_f'", "value": 202}
+{ "name": "'a_f'", "value": 387}
+]
+},
+{"name": "2ans 11mois 22jours",
+"children": [
+{ "name": "'a_f'", "value": 181}
 ]
 },
 {"name": "2ans 1mois 5jours",
 "children": [
+{ "name": "'p_d'", "value": 179 },
 { "name": "'k_d'", "value": 218 },
-{ "name": "'a_d'", "value": 243 },
+{ "name": "'a_d'", "value": 239 },
 { "name": "'m_d'", "value": 291 },
-{ "name": "'a_m'", "value": 314 },
 { "name": "'l_d'", "value": 316 },
+{ "name": "'a_m'", "value": 325 },
 { "name": "'e_f'", "value": 417 },
 { "name": "'s_d'", "value": 442 },
-{ "name": "'k_d'", "value": 218}
+{ "name": "'a_f'", "value": 592}
 ]
 },
 {"name": "2ans 8mois 4jours",
 "children": [
+{ "name": "'ə_f'", "value": 178 },
+{ "name": "'m_d'", "value": 182 },
+{ "name": "'d_d'", "value": 186 },
 { "name": "'k_d'", "value": 201 },
-{ "name": "'a_m'", "value": 209 },
+{ "name": "'a_m'", "value": 219 },
 { "name": "'e_f'", "value": 241 },
+{ "name": "'ɛ_f'", "value": 263 },
 { "name": "'l_d'", "value": 266 },
-{ "name": "'ɛ_f'", "value": 291 },
 { "name": "'s_d'", "value": 361 },
-{ "name": "'k_d'", "value": 201}
+{ "name": "'a_f'", "value": 414}
 ]
 },
 {"name": "3ans 3mois ",
 "children": [
 { "name": "'e_f'", "value": 220 },
-{ "name": "'s_d'", "value": 229 },
-{ "name": "'e_f'", "value": 220}
+{ "name": "'a_f'", "value": 229 },
+{ "name": "'s_d'", "value": 229}
 ]
 },
 {"name": "1an 6mois 8jours",
 "children": [
+{ "name": "'a_m'", "value": 170 },
 { "name": "'a_f'", "value": 254}
 ]
 },
 {"name": "3ans 10mois ",
 "children": [
+{ "name": "'i_f'", "value": 195 },
 { "name": "'b_d'", "value": 201 },
-{ "name": "'i_f'", "value": 207 },
 { "name": "'d_d'", "value": 220 },
+{ "name": "'a_d'", "value": 227 },
 { "name": "'m_d'", "value": 229 },
-{ "name": "'a_d'", "value": 235 },
-{ "name": "'a_m'", "value": 262 },
+{ "name": "'a_m'", "value": 273 },
 { "name": "'p_d'", "value": 273 },
-{ "name": "'e_d'", "value": 281 },
-{ "name": "'i_d'", "value": 289 },
+{ "name": "'e_d'", "value": 280 },
+{ "name": "'i_d'", "value": 288 },
 { "name": "'s_d'", "value": 290 },
 { "name": "'l_d'", "value": 315 },
 { "name": "'e_f'", "value": 404 },
-{ "name": "'b_d'", "value": 201}
+{ "name": "'a_f'", "value": 426}
 ]
 },
 {"name": "2ans 4mois 28jours",
 "children": [
-{ "name": "'e_f'", "value": 200 },
-{ "name": "'e_f'", "value": 200}
+{ "name": "'e_f'", "value": 194 },
+{ "name": "'a_f'", "value": 202}
 ]
 },
 {"name": "3ans 5mois 22jours",
 "children": [
-{ "name": "'a_f'", "value": 329}
+{ "name": "'e_f'", "value": 179 },
+{ "name": "'l_d'", "value": 191 },
+{ "name": "'a_f'", "value": 315}
 ]
 },
 {"name": "2ans ",
 "children": [
+{ "name": "'a_d'", "value": 172 },
 { "name": "'m_d'", "value": 202 },
 { "name": "'w_m'", "value": 210 },
 { "name": "'v_d'", "value": 214 },
+{ "name": "'ø_f'", "value": 234 },
 { "name": "'e_d'", "value": 235 },
-{ "name": "'ø_f'", "value": 235 },
 { "name": "'p_d'", "value": 254 },
 { "name": "'ɑ_f'", "value": 293 },
-{ "name": "'a_f'", "value": 315 },
+{ "name": "'a_f'", "value": 302 },
 { "name": "'l_d'", "value": 441 },
 { "name": "'s_d'", "value": 459 },
-{ "name": "'e_f', 's_d'", "value": 283 },
-{ "name": "'m_d'", "value": 202}
+{ "name": "'s_d', 'e_f'", "value": 283 },
+{ "name": "'e_f'", "value": 614}
 ]
 },
 {"name": "2ans 6mois 27jours",
 "children": [
+{ "name": "'i_m'", "value": 171 },
+{ "name": "'s_d'", "value": 186 },
 { "name": "'m_d'", "value": 216 },
-{ "name": "'a_m'", "value": 218 },
 { "name": "'e_f'", "value": 226 },
-{ "name": "'m_d'", "value": 216}
+{ "name": "'a_m'", "value": 232 },
+{ "name": "'a_f'", "value": 335}
 ]
 },
 {"name": "2ans 5mois 30jours",
 "children": [
 { "name": "'s_d'", "value": 271 },
-{ "name": "'e_f'", "value": 289 },
-{ "name": "'s_d'", "value": 271}
+{ "name": "'a_f'", "value": 283 },
+{ "name": "'e_f'", "value": 285}
 ]
 },
 {"name": "1an 7mois 3jours",
 "children": [
 { "name": "'m_d'", "value": 204 },
 { "name": "'a_f'", "value": 224 },
-{ "name": "'m_d'", "value": 204}
+{ "name": "'a_d'", "value": 278}
 ]
 },
 {"name": "5ans 1mois 21jours",
 "children": [
+{ "name": "'l_d'", "value": 176 },
+{ "name": "'a_m'", "value": 190 },
+{ "name": "'m_d'", "value": 199 },
 { "name": "'s_d'", "value": 206 },
-{ "name": "'a_f'", "value": 271 },
-{ "name": "'s_d'", "value": 206}
+{ "name": "'a_f'", "value": 254 },
+{ "name": "'ɛ_f'", "value": 288}
 ]
 },
 {"name": "2ans 26jours",
 "children": [
-{ "name": "'a_f'", "value": 210}
+{ "name": "'a_f'", "value": 188}
 ]
 },
 {"name": "4ans 1mois 18jours",
 "children": [
+{ "name": "'p_d'", "value": 183 },
 { "name": "'l_d'", "value": 227 },
 { "name": "'s_d'", "value": 230 },
 { "name": "'m_d'", "value": 231 },
-{ "name": "'ɛ_f'", "value": 263 },
-{ "name": "'l_d'", "value": 227}
+{ "name": "'ɛ_f'", "value": 251 },
+{ "name": "'a_f'", "value": 314}
 ]
 },
 {"name": "4ans 4mois 10jours",
 "children": [
+{ "name": "'p_d'", "value": 170 },
+{ "name": "'s_d'", "value": 176 },
+{ "name": "'ɛ_f'", "value": 188 },
 { "name": "'l_d'", "value": 203 },
-{ "name": "'l_d'", "value": 203}
+{ "name": "'a_f'", "value": 273}
 ]
 },
 {"name": "3ans 8mois 10jours",
 "children": [
-{ "name": "'a_f'", "value": 228}
+{ "name": "'e_f'", "value": 171 },
+{ "name": "'a_f'", "value": 213}
 ]
 },
 {"name": "2ans 3mois 30jours",
 "children": [
-{ "name": "'a_f'", "value": 216}
+{ "name": "'a_f'", "value": 212}
 ]
 },
 {"name": "4ans 13jours",
 "children": [
-{ "name": "'i_f'", "value": 204 },
+{ "name": "'ɛ_m'", "value": 172 },
+{ "name": "'l_m'", "value": 180 },
+{ "name": "'ɔ_m'", "value": 184 },
+{ "name": "'k_d'", "value": 187 },
+{ "name": "'r_m'", "value": 187 },
+{ "name": "'i_m'", "value": 189 },
+{ "name": "'i_f'", "value": 191 },
+{ "name": "'t_m'", "value": 199 },
 { "name": "'m_d'", "value": 225 },
-{ "name": "'a_d'", "value": 259 },
-{ "name": "'ə_f'", "value": 304 },
+{ "name": "'r_f'", "value": 235 },
+{ "name": "'a_d'", "value": 254 },
+{ "name": "'ə_f'", "value": 307 },
 { "name": "'d_d'", "value": 308 },
 { "name": "'p_d'", "value": 308 },
 { "name": "'e_f'", "value": 311 },
-{ "name": "'a_m'", "value": 338 },
-{ "name": "'e_d'", "value": 339 },
+{ "name": "'e_d'", "value": 337 },
+{ "name": "'a_m'", "value": 370 },
 { "name": "'s_d'", "value": 374 },
-{ "name": "'ɛ_f'", "value": 414 },
+{ "name": "'ɛ_f'", "value": 376 },
 { "name": "'l_d'", "value": 423 },
-{ "name": "'i_f'", "value": 204}
+{ "name": "'a_f'", "value": 461}
 ]
 },
 {"name": "3ans 1mois 7jours",
 "children": [
+{ "name": "'p_d'", "value": 171 },
+{ "name": "'m_d'", "value": 192 },
 { "name": "'l_d'", "value": 203 },
-{ "name": "'a_d'", "value": 229 },
+{ "name": "'a_d'", "value": 228 },
 { "name": "'s_d'", "value": 235 },
-{ "name": "'a_m'", "value": 243 },
+{ "name": "'a_m'", "value": 262 },
 { "name": "'e_f'", "value": 277 },
-{ "name": "'l_d'", "value": 203}
+{ "name": "'a_f'", "value": 352}
 ]
 },
 {"name": "3ans 6mois 27jours",
 "children": [
+{ "name": "'i_f'", "value": 178 },
+{ "name": "'a_m'", "value": 198 },
+{ "name": "'ɛ_f'", "value": 199 },
 { "name": "'m_d'", "value": 212 },
-{ "name": "'ɛ_f'", "value": 215 },
 { "name": "'e_f'", "value": 288 },
-{ "name": "'s_d'", "value": 345 },
-{ "name": "'m_d'", "value": 212}
+{ "name": "'a_f'", "value": 332 },
+{ "name": "'s_d'", "value": 345}
 ]
 },
 {"name": "2ans 10mois 24jours",
 "children": [
-{ "name": "'a_f'", "value": 222}
+{ "name": "'s_d'", "value": 171 },
+{ "name": "'a_f'", "value": 219}
 ]
 },
 {"name": "2ans 2mois 16jours",
 "children": [
-{ "name": "'ɔ̃_f'", "value": 200 },
+{ "name": "'e_m'", "value": 186 },
+{ "name": "'v_d'", "value": 186 },
+{ "name": "'d_d'", "value": 187 },
+{ "name": "'ɔ̃_f'", "value": 198 },
+{ "name": "'u_m'", "value": 202 },
+{ "name": "'ɛ_f'", "value": 203 },
 { "name": "'k_d'", "value": 212 },
-{ "name": "'i_f'", "value": 228 },
-{ "name": "'ɛ_f'", "value": 229 },
+{ "name": "'i_f'", "value": 225 },
 { "name": "'b_m'", "value": 232 },
 { "name": "'ə_f'", "value": 238 },
-{ "name": "'i_m'", "value": 248 },
 { "name": "'b_d'", "value": 250 },
+{ "name": "'i_m'", "value": 251 },
 { "name": "'p_d'", "value": 261 },
 { "name": "'t_d'", "value": 266 },
-{ "name": "'a_m'", "value": 315 },
-{ "name": "'a_d'", "value": 318 },
+{ "name": "'a_d'", "value": 314 },
 { "name": "'m_d'", "value": 325 },
+{ "name": "'a_m'", "value": 333 },
 { "name": "'s_d'", "value": 385 },
 { "name": "'l_d'", "value": 504 },
 { "name": "'e_f'", "value": 542 },
-{ "name": "'ɔ̃_f'", "value": 200}
+{ "name": "'a_f'", "value": 630}
 ]
 },
 {"name": "4ans 5mois 24jours",
 "children": [
-{ "name": "'a_f'", "value": 206}
+{ "name": "'ɛ_f'", "value": 170 },
+{ "name": "'s_d'", "value": 171 },
+{ "name": "'a_m'", "value": 182 },
+{ "name": "'a_f'", "value": 193}
 ]
 },
 {"name": "1an 10mois 18jours",
 "children": [
-{ "name": "'a_f'", "value": 268}
+{ "name": "'a_f'", "value": 266}
 ]
 }
 ]
 },
 {"name": "Antoine",
 "children": [
+{"name": "2ans 5mois 24jours",
+"children": [
+{ "name": "'a_f'", "value": 171}
+]
+},
 {"name": "2ans 6mois 24jours",
 "children": [
-{ "name": "'a_f'", "value": 235}
+{ "name": "'a_f'", "value": 234}
 ]
 },
 {"name": "2ans 7mois 22jours",
 "children": [
-{ "name": "'a_f'", "value": 201}
+{ "name": "'a_m'", "value": 171 },
+{ "name": "'a_f'", "value": 190}
+]
+},
+{"name": "2ans 8mois 20jours",
+"children": [
+{ "name": "'a_f'", "value": 184}
 ]
 },
 {"name": "2ans 9mois 16jours",
 "children": [
-{ "name": "'ɛ_f'", "value": 202 },
+{ "name": "'i_f'", "value": 170 },
+{ "name": "'ɛ_f'", "value": 178 },
+{ "name": "'l_d'", "value": 181 },
+{ "name": "'a_m'", "value": 192 },
 { "name": "'s_d'", "value": 247 },
-{ "name": "'ɛ_f'", "value": 202}
+{ "name": "'a_f'", "value": 290}
 ]
 },
 {"name": "2ans 11mois 16jours",
 "children": [
-{ "name": "'a_f'", "value": 259}
+{ "name": "'s_d'", "value": 178 },
+{ "name": "'a_f'", "value": 243}
 ]
 },
 {"name": "3ans 21jours",
 "children": [
-{ "name": "'a_f'", "value": 231}
+{ "name": "'i_f'", "value": 182 },
+{ "name": "'a_f'", "value": 210}
+]
+},
+{"name": "3ans 2mois 24jours",
+"children": [
+{ "name": "'a_f'", "value": 186}
 ]
 },
 {"name": "3ans 5mois ",
 "children": [
-{ "name": "'a_f'", "value": 304}
+{ "name": "'s_d'", "value": 180 },
+{ "name": "'a_m'", "value": 191 },
+{ "name": "'a_f'", "value": 290}
 ]
 },
 {"name": "3ans 7mois 1jour",
 "children": [
-{ "name": "'a_f'", "value": 306}
+{ "name": "'a_f'", "value": 294}
 ]
 },
 {"name": "3ans 9mois 22jours",
 "children": [
+{ "name": "'e_d'", "value": 172 },
+{ "name": "'p_d'", "value": 193 },
+{ "name": "'a_m'", "value": 194 },
 { "name": "'s_d'", "value": 203 },
-{ "name": "'s_d'", "value": 203}
+{ "name": "'a_f'", "value": 322}
 ]
 },
 {"name": "4ans 9jours",
 "children": [
-{ "name": "'a_f'", "value": 207}
+{ "name": "'s_d'", "value": 179 },
+{ "name": "'a_f'", "value": 195}
 ]
 },
 {"name": "4ans 2mois 19jours",
 "children": [
-{ "name": "'a_f'", "value": 248}
+{ "name": "'a_m'", "value": 205 },
+{ "name": "'a_f'", "value": 237}
 ]
 },
 {"name": "4ans 5mois 16jours",
 "children": [
+{ "name": "'a_d'", "value": 195 },
 { "name": "'l_d'", "value": 207 },
-{ "name": "'a_m'", "value": 222 },
-{ "name": "'l_d'", "value": 207}
+{ "name": "'a_m'", "value": 239 },
+{ "name": "'a_f'", "value": 380}
 ]
 },
 {"name": "4ans 8mois 2jours",
 "children": [
-{ "name": "'a_m'", "value": 214 },
-{ "name": "'a_m'", "value": 214}
+{ "name": "'a_m'", "value": 222 },
+{ "name": "'a_f'", "value": 246}
 ]
 },
 {"name": "5ans 2mois 13jours",
 "children": [
+{ "name": "'ɛ_f'", "value": 175 },
 { "name": "'s_d'", "value": 212 },
-{ "name": "'s_d'", "value": 212}
+{ "name": "'a_f'", "value": 320}
 ]
 }
 ]
 },
 {"name": "Julie",
 "children": [
+{"name": "1an 2mois 11jours",
+"children": [
+{ "name": "'a_f'", "value": 178}
+]
+},
 {"name": "1an 3mois 16jours",
 "children": [
-{ "name": "'a_m'", "value": 201 },
-{ "name": "'a_m'", "value": 201}
+{ "name": "'m_d'", "value": 185 },
+{ "name": "'a_m'", "value": 205 },
+{ "name": "'a_f'", "value": 311}
 ]
 },
 {"name": "1an 4mois 23jours",
 "children": [
-{ "name": "'a_f'", "value": 259}
+{ "name": "'a_f'", "value": 257}
 ]
 },
 {"name": "1an 6mois 4jours",
 "children": [
-{ "name": "'a_f'", "value": 348}
+{ "name": "'l_d'", "value": 171 },
+{ "name": "'a_m'", "value": 178 },
+{ "name": "'a_f'", "value": 343}
 ]
 },
 {"name": "1an 7mois 26jours",
 "children": [
-{ "name": "'a_d'", "value": 211 },
+{ "name": "'m_d'", "value": 173 },
+{ "name": "'e_f'", "value": 174 },
 { "name": "'l_d'", "value": 228 },
 { "name": "'p_d'", "value": 260 },
-{ "name": "'a_m'", "value": 298 },
-{ "name": "'a_d'", "value": 211}
+{ "name": "'a_m'", "value": 369 },
+{ "name": "'a_f'", "value": 423}
 ]
 },
 {"name": "1an 9mois 16jours",
 "children": [
-{ "name": "'a_f'", "value": 268}
+{ "name": "'a_m'", "value": 192 },
+{ "name": "'a_f'", "value": 263}
 ]
 },
 {"name": "1an 10mois 14jours",
 "children": [
-{ "name": "'a_f'", "value": 253}
+{ "name": "'a_f'", "value": 240}
 ]
 },
 {"name": "2ans 10jours",
 "children": [
-{ "name": "'a_m'", "value": 216 },
+{ "name": "'m_d'", "value": 174 },
+{ "name": "'ə_f'", "value": 178 },
+{ "name": "'p_d'", "value": 188 },
+{ "name": "'a_m'", "value": 223 },
 { "name": "'l_d'", "value": 254 },
-{ "name": "'ɛ_f'", "value": 268 },
+{ "name": "'ɛ_f'", "value": 256 },
 { "name": "'s_d'", "value": 327 },
-{ "name": "'a_m'", "value": 216}
+{ "name": "'a_f'", "value": 418}
 ]
 },
 {"name": "2ans 1mois 23jours",
 "children": [
-{ "name": "'a_f'", "value": 206 },
-{ "name": "'a_f'", "value": 206}
+{ "name": "'a_m'", "value": 179 },
+{ "name": "'a_f'", "value": 202 },
+{ "name": "'l_d'", "value": 223}
 ]
 },
 {"name": "2ans 3mois 8jours",
 "children": [
-{ "name": "'a_m'", "value": 217 },
-{ "name": "'a_m'", "value": 217}
+{ "name": "'s_d'", "value": 170 },
+{ "name": "'m_d'", "value": 186 },
+{ "name": "'a_m'", "value": 237 },
+{ "name": "'a_f'", "value": 313}
 ]
 },
 {"name": "2ans 4mois 24jours",
 "children": [
-{ "name": "'m_d'", "value": 216 },
+{ "name": "'i_f'", "value": 184 },
+{ "name": "'m_d'", "value": 215 },
 { "name": "'s_d'", "value": 224 },
-{ "name": "'a_m'", "value": 229 },
+{ "name": "'ɛ_f'", "value": 238 },
 { "name": "'p_d'", "value": 241 },
-{ "name": "'ɛ_f'", "value": 262 },
+{ "name": "'a_m'", "value": 243 },
 { "name": "'l_d'", "value": 272 },
-{ "name": "'m_d'", "value": 216}
+{ "name": "'a_f'", "value": 427}
 ]
 },
 {"name": "2ans 5mois 21jours",
 "children": [
+{ "name": "'ɛ_f'", "value": 187 },
 { "name": "'l_d'", "value": 217 },
-{ "name": "'m_d'", "value": 223 },
+{ "name": "'m_d'", "value": 222 },
+{ "name": "'a_m'", "value": 228 },
 { "name": "'s_d'", "value": 236 },
-{ "name": "'i_f'", "value": 249 },
-{ "name": "'l_d'", "value": 217}
+{ "name": "'i_f'", "value": 238 },
+{ "name": "'a_f'", "value": 341}
 ]
 },
 {"name": "2ans 6mois 22jours",
 "children": [
-{ "name": "'i_f'", "value": 254 },
+{ "name": "'ɔ_m'", "value": 175 },
+{ "name": "'a_m'", "value": 184 },
+{ "name": "'ɛ_f'", "value": 184 },
+{ "name": "'l_d'", "value": 187 },
+{ "name": "'i_f'", "value": 249 },
 { "name": "'s_d'", "value": 359 },
-{ "name": "'i_f'", "value": 254}
+{ "name": "'a_f'", "value": 386}
 ]
 },
 {"name": "2ans 7mois 29jours",
 "children": [
+{ "name": "'a_m'", "value": 189 },
+{ "name": "'i_f'", "value": 204 },
 { "name": "'m_d'", "value": 204 },
-{ "name": "'i_f'", "value": 211 },
 { "name": "'s_d'", "value": 225 },
-{ "name": "'m_d'", "value": 204}
+{ "name": "'a_f'", "value": 286}
 ]
 },
 {"name": "2ans 8mois 27jours",
 "children": [
+{ "name": "'p_d'", "value": 176 },
+{ "name": "'m_d'", "value": 185 },
+{ "name": "'a_m'", "value": 193 },
 { "name": "'l_d'", "value": 208 },
 { "name": "'s_d'", "value": 253 },
-{ "name": "'ɛ_f'", "value": 299 },
-{ "name": "'l_d'", "value": 208}
+{ "name": "'ɛ_f'", "value": 255 },
+{ "name": "'a_f'", "value": 361}
 ]
 },
 {"name": "2ans 9mois 24jours",
 "children": [
-{ "name": "'ɛ_f'", "value": 232 },
-{ "name": "'ɛ_f'", "value": 232}
+{ "name": "'l_d'", "value": 176 },
+{ "name": "'i_f'", "value": 181 },
+{ "name": "'m_d'", "value": 185 },
+{ "name": "'ɛ_f'", "value": 224 },
+{ "name": "'a_f'", "value": 270}
 ]
 },
 {"name": "2ans 11mois 1jour",
 "children": [
-{ "name": "'ɛ_f'", "value": 284 },
-{ "name": "'i_f'", "value": 285 },
-{ "name": "'a_f'", "value": 313 },
-{ "name": "'ɛ_f'", "value": 284}
+{ "name": "'p_d'", "value": 179 },
+{ "name": "'m_d'", "value": 181 },
+{ "name": "'l_d'", "value": 196 },
+{ "name": "'a_m'", "value": 210 },
+{ "name": "'ɛ_f'", "value": 261 },
+{ "name": "'i_f'", "value": 279 },
+{ "name": "'a_f'", "value": 298 },
+{ "name": "'s_d'", "value": 315}
 ]
 },
 {"name": "3ans 30jours",
 "children": [
+{ "name": "'z_d'", "value": 170 },
+{ "name": "'t_m'", "value": 189 },
+{ "name": "'a_d'", "value": 194 },
+{ "name": "'s_m'", "value": 196 },
+{ "name": "'i_m'", "value": 199 },
 { "name": "'d_d'", "value": 202 },
-{ "name": "'a_d'", "value": 204 },
-{ "name": "'ə_f'", "value": 232 },
+{ "name": "'ə_f'", "value": 233 },
 { "name": "'e_f'", "value": 242 },
-{ "name": "'m_d'", "value": 244 },
+{ "name": "'i_f'", "value": 243 },
+{ "name": "'m_d'", "value": 243 },
 { "name": "'l_d'", "value": 245 },
 { "name": "'p_d'", "value": 262 },
-{ "name": "'i_f'", "value": 263 },
 { "name": "'l_m'", "value": 275 },
-{ "name": "'a_m'", "value": 300 },
-{ "name": "'s_d'", "value": 322 },
-{ "name": "'ɛ_f'", "value": 336 },
-{ "name": "'d_d'", "value": 202}
+{ "name": "'ɛ_f'", "value": 298 },
+{ "name": "'s_d'", "value": 321 },
+{ "name": "'a_m'", "value": 325 },
+{ "name": "'a_f'", "value": 450}
 ]
 },
 {"name": "3ans 1mois 6jours",
 "children": [
+{ "name": "'r_f'", "value": 170 },
+{ "name": "'r_m'", "value": 175 },
+{ "name": "'i_f'", "value": 183 },
+{ "name": "'ɛ_m'", "value": 183 },
+{ "name": "'ə_f'", "value": 190 },
 { "name": "'p_d'", "value": 200 },
 { "name": "'d_d'", "value": 222 },
-{ "name": "'m_d'", "value": 245 },
-{ "name": "'a_m'", "value": 262 },
+{ "name": "'m_d'", "value": 244 },
 { "name": "'l_d'", "value": 277 },
+{ "name": "'a_m'", "value": 287 },
 { "name": "'s_d'", "value": 325 },
-{ "name": "'ɛ_f'", "value": 382 },
-{ "name": "'p_d'", "value": 200}
+{ "name": "'ɛ_f'", "value": 348 },
+{ "name": "'a_f'", "value": 392}
 ]
 },
 {"name": "3ans 2mois 3jours",
 "children": [
-{ "name": "'e_d'", "value": 242 },
+{ "name": "'i_d'", "value": 170 },
+{ "name": "'s_f'", "value": 173 },
+{ "name": "'n_m'", "value": 174 },
+{ "name": "'l_f'", "value": 178 },
+{ "name": "'ɑ̃_f'", "value": 185 },
+{ "name": "'e_m'", "value": 186 },
+{ "name": "'ɔ̃_f'", "value": 187 },
+{ "name": "'u_m'", "value": 205 },
+{ "name": "'ɛ_m'", "value": 212 },
+{ "name": "'e_d'", "value": 236 },
+{ "name": "'r_m'", "value": 240 },
 { "name": "'z_d'", "value": 244 },
-{ "name": "'ɔ_m'", "value": 255 },
 { "name": "'w_m'", "value": 261 },
-{ "name": "'t_m'", "value": 280 },
-{ "name": "'p_d'", "value": 300 },
+{ "name": "'t_m'", "value": 281 },
+{ "name": "'p_d'", "value": 298 },
+{ "name": "'r_f'", "value": 306 },
 { "name": "'s_m'", "value": 307 },
-{ "name": "'a_d'", "value": 316 },
-{ "name": "'k_d'", "value": 318 },
-{ "name": "'t_d'", "value": 326 },
-{ "name": "'i_m'", "value": 330 },
+{ "name": "'a_d'", "value": 311 },
+{ "name": "'k_d'", "value": 317 },
+{ "name": "'ɔ_m'", "value": 319 },
+{ "name": "'t_d'", "value": 325 },
 { "name": "'s_d'", "value": 339 },
+{ "name": "'i_m'", "value": 368 },
 { "name": "'d_d'", "value": 385 },
-{ "name": "'ə_f'", "value": 403 },
 { "name": "'l_d'", "value": 404 },
+{ "name": "'ə_f'", "value": 404 },
+{ "name": "'i_f'", "value": 411 },
 { "name": "'v_d'", "value": 419 },
+{ "name": "'ɛ_f'", "value": 432 },
 { "name": "'e_f'", "value": 434 },
-{ "name": "'i_f'", "value": 450 },
 { "name": "'l_m'", "value": 454 },
-{ "name": "'ɛ_f'", "value": 462 },
-{ "name": "'m_d'", "value": 550 },
-{ "name": "'a_m'", "value": 601 },
-{ "name": "'e_d'", "value": 242}
+{ "name": "'l_m', 'a_m'", "value": 174 },
+{ "name": "'m_d'", "value": 549 },
+{ "name": "'a_f'", "value": 647 },
+{ "name": "'a_m'", "value": 654}
 ]
 },
 {"name": "3ans 4mois 21jours",
 "children": [
+{ "name": "'l_f'", "value": 171 },
+{ "name": "'i_f'", "value": 177 },
+{ "name": "'ə_f'", "value": 182 },
+{ "name": "'ɛ_m'", "value": 191 },
+{ "name": "'a_m'", "value": 200 },
 { "name": "'l_d'", "value": 208 },
-{ "name": "'m_d'", "value": 220 },
+{ "name": "'ɛ_f'", "value": 213 },
+{ "name": "'m_d'", "value": 217 },
 { "name": "'p_d'", "value": 233 },
-{ "name": "'ɛ_f'", "value": 243 },
 { "name": "'s_d'", "value": 268 },
-{ "name": "'l_d'", "value": 208}
+{ "name": "'a_f'", "value": 377}
 ]
 },
 {"name": "3ans 7mois 19jours",
 "children": [
+{ "name": "'p_d'", "value": 184 },
 { "name": "'l_d'", "value": 220 },
-{ "name": "'a_m'", "value": 229 },
-{ "name": "'i_f'", "value": 244 },
+{ "name": "'i_f'", "value": 241 },
+{ "name": "'a_m'", "value": 247 },
 { "name": "'s_d'", "value": 249 },
-{ "name": "'m_d'", "value": 258 },
-{ "name": "'ɛ_f'", "value": 293 },
-{ "name": "'l_d'", "value": 220}
+{ "name": "'m_d'", "value": 256 },
+{ "name": "'ɛ_f'", "value": 272 },
+{ "name": "'a_f'", "value": 376}
 ]
 },
 {"name": "4ans 8mois 29jours",
 "children": [
+{ "name": "'i_d'", "value": 171 },
+{ "name": "'v_d'", "value": 173 },
+{ "name": "'k_d'", "value": 180 },
+{ "name": "'r_f'", "value": 184 },
+{ "name": "'e_d'", "value": 194 },
+{ "name": "'i_m'", "value": 203 },
 { "name": "'ɔ̃_f'", "value": 204 },
 { "name": "'l_m'", "value": 208 },
-{ "name": "'ɛ_m'", "value": 217 },
-{ "name": "'a_d'", "value": 228 },
-{ "name": "'m_d'", "value": 239 },
-{ "name": "'ə_f'", "value": 247 },
+{ "name": "'a_d'", "value": 226 },
+{ "name": "'m_d'", "value": 238 },
+{ "name": "'ɛ_m'", "value": 246 },
+{ "name": "'ə_f'", "value": 248 },
 { "name": "'p_d'", "value": 264 },
+{ "name": "'i_f'", "value": 284 },
 { "name": "'d_d'", "value": 298 },
-{ "name": "'i_f'", "value": 315 },
-{ "name": "'a_m'", "value": 325 },
+{ "name": "'a_m'", "value": 335 },
 { "name": "'s_d'", "value": 474 },
-{ "name": "'ɛ_f'", "value": 539 },
+{ "name": "'ɛ_f'", "value": 501 },
 { "name": "'l_d'", "value": 548 },
 { "name": "'l_d', 'a_f'", "value": 232 },
-{ "name": "'ɔ̃_f'", "value": 204}
+{ "name": "'a_f'", "value": 685}
 ]
 },
 {"name": "5ans 3mois 19jours",
 "children": [
-{ "name": "'i_f'", "value": 204 },
+{ "name": "'e_f'", "value": 172 },
+{ "name": "'i_f'", "value": 196 },
 { "name": "'d_d'", "value": 211 },
 { "name": "'ə_f'", "value": 214 },
-{ "name": "'a_m'", "value": 223 },
 { "name": "'l_d'", "value": 233 },
-{ "name": "'s_d'", "value": 243 },
+{ "name": "'s_d'", "value": 241 },
+{ "name": "'a_m'", "value": 242 },
 { "name": "'p_d'", "value": 245 },
+{ "name": "'ɛ_f'", "value": 293 },
 { "name": "'m_d'", "value": 309 },
-{ "name": "'ɛ_f'", "value": 309 },
-{ "name": "'i_f'", "value": 204}
+{ "name": "'a_f'", "value": 323}
 ]
 }
 ]
@@ -781,192 +1042,259 @@
 },
 {"name": "1an 6mois 4jours",
 "children": [
+{ "name": "'a_m'", "value": 182 },
 { "name": "'a_d'", "value": 234 },
 { "name": "'l_d'", "value": 288 },
-{ "name": "'a_d'", "value": 234}
+{ "name": "'a_f'", "value": 356}
+]
+},
+{"name": "1an 9mois 3jours",
+"children": [
+{ "name": "'a_m'", "value": 171}
 ]
 },
 {"name": "1an 10mois 7jours",
 "children": [
 { "name": "'a_f'", "value": 221 },
-{ "name": "'a_f'", "value": 221}
+{ "name": "'l_d'", "value": 247}
+]
+},
+{"name": "1an 11mois 13jours",
+"children": [
+{ "name": "'l_d'", "value": 182}
 ]
 },
 {"name": "2ans 1mois 2jours",
 "children": [
+{ "name": "'a_m'", "value": 176 },
+{ "name": "'s_d'", "value": 197 },
 { "name": "'l_d'", "value": 201 },
 { "name": "'e_f'", "value": 228 },
 { "name": "'m_d'", "value": 234 },
-{ "name": "'l_d'", "value": 201}
+{ "name": "'a_f'", "value": 351}
 ]
 },
 {"name": "2ans 2mois 6jours",
 "children": [
+{ "name": "'m_d'", "value": 186 },
+{ "name": "'a_m'", "value": 190 },
 { "name": "'ə_f'", "value": 208 },
 { "name": "'l_d'", "value": 277 },
 { "name": "'e_f'", "value": 287 },
 { "name": "'s_d'", "value": 290 },
-{ "name": "'ə_f'", "value": 208}
+{ "name": "'a_f'", "value": 334}
 ]
 },
 {"name": "2ans 3mois 5jours",
 "children": [
-{ "name": "'a_f'", "value": 301}
+{ "name": "'s_d'", "value": 197 },
+{ "name": "'e_f'", "value": 198 },
+{ "name": "'a_f'", "value": 300}
 ]
 },
 {"name": "2ans 4mois 15jours",
 "children": [
-{ "name": "'a_m'", "value": 209 },
+{ "name": "'d_d'", "value": 196 },
 { "name": "'p_d'", "value": 210 },
 { "name": "'m_d'", "value": 220 },
+{ "name": "'a_m'", "value": 229 },
 { "name": "'e_f'", "value": 236 },
 { "name": "'s_d'", "value": 260 },
 { "name": "'ə_f'", "value": 314 },
 { "name": "'l_d'", "value": 342 },
-{ "name": "'a_m'", "value": 209}
+{ "name": "'a_f'", "value": 438}
 ]
 },
 {"name": "2ans 5mois 12jours",
 "children": [
 { "name": "'p_d'", "value": 214 },
 { "name": "'m_d'", "value": 218 },
-{ "name": "'ə_f'", "value": 284 },
+{ "name": "'ə_f'", "value": 285 },
 { "name": "'e_f'", "value": 317 },
 { "name": "'s_d'", "value": 350 },
 { "name": "'l_d'", "value": 409 },
 { "name": "'l_d', 'a_f'", "value": 218 },
-{ "name": "'p_d'", "value": 214}
+{ "name": "'a_f'", "value": 601}
 ]
 },
 {"name": "2ans 6mois 10jours",
 "children": [
-{ "name": "'a_f'", "value": 270}
+{ "name": "'s_d'", "value": 198 },
+{ "name": "'a_f'", "value": 253}
 ]
 },
 {"name": "2ans 7mois 7jours",
 "children": [
+{ "name": "'ɛ_m'", "value": 175 },
+{ "name": "'k_d'", "value": 182 },
+{ "name": "'l_d'", "value": 189 },
+{ "name": "'p_d'", "value": 194 },
 { "name": "'s_d'", "value": 213 },
-{ "name": "'a_m'", "value": 214 },
-{ "name": "'ə_f'", "value": 238 },
+{ "name": "'a_m'", "value": 223 },
+{ "name": "'ɛ_f'", "value": 234 },
+{ "name": "'ə_f'", "value": 240 },
 { "name": "'m_d'", "value": 276 },
-{ "name": "'ɛ_f'", "value": 316 },
-{ "name": "'s_d'", "value": 213}
+{ "name": "'a_f'", "value": 328}
 ]
 },
 {"name": "2ans 8mois 5jours",
 "children": [
+{ "name": "'p_d'", "value": 175 },
+{ "name": "'ə_f'", "value": 182 },
 { "name": "'s_d'", "value": 232 },
-{ "name": "'m_d'", "value": 237 },
-{ "name": "'a_m'", "value": 242 },
+{ "name": "'m_d'", "value": 236 },
+{ "name": "'ɛ_f'", "value": 239 },
 { "name": "'l_d'", "value": 247 },
-{ "name": "'ɛ_f'", "value": 276 },
-{ "name": "'s_d'", "value": 232}
+{ "name": "'a_m'", "value": 259 },
+{ "name": "'a_f'", "value": 366}
 ]
 },
 {"name": "2ans 9mois 16jours",
 "children": [
+{ "name": "'ɛ_f'", "value": 171 },
+{ "name": "'m_d'", "value": 179 },
+{ "name": "'a_d'", "value": 180 },
+{ "name": "'i_f'", "value": 186 },
 { "name": "'e_f'", "value": 209 },
 { "name": "'d_d'", "value": 220 },
 { "name": "'p_d'", "value": 231 },
-{ "name": "'a_m'", "value": 236 },
+{ "name": "'a_m'", "value": 259 },
 { "name": "'l_d'", "value": 280 },
 { "name": "'s_d'", "value": 295 },
-{ "name": "'e_f'", "value": 209}
+{ "name": "'a_f'", "value": 373}
 ]
 },
 {"name": "3ans 28jours",
 "children": [
+{ "name": "'p_d'", "value": 173 },
+{ "name": "'ə_f'", "value": 180 },
 { "name": "'m_d'", "value": 213 },
 { "name": "'l_d'", "value": 247 },
-{ "name": "'a_f'", "value": 293 },
+{ "name": "'a_f'", "value": 288 },
 { "name": "'s_d'", "value": 301 },
-{ "name": "'m_d'", "value": 213}
+{ "name": "'e_f'", "value": 309}
 ]
 },
 {"name": "3ans 3mois 2jours",
 "children": [
+{ "name": "'l_d'", "value": 170 },
+{ "name": "'ʒ_d'", "value": 180 },
+{ "name": "'a_m'", "value": 195 },
 { "name": "'p_d'", "value": 217 },
 { "name": "'m_d'", "value": 218 },
 { "name": "'e_f'", "value": 227 },
 { "name": "'s_d'", "value": 246 },
-{ "name": "'ɛ_f'", "value": 282 },
-{ "name": "'p_d'", "value": 217}
+{ "name": "'ɛ_f'", "value": 249 },
+{ "name": "'a_f'", "value": 351}
 ]
 },
 {"name": "3ans 6mois 8jours",
 "children": [
+{ "name": "'i_f'", "value": 174 },
+{ "name": "'s_d'", "value": 184 },
+{ "name": "'m_d'", "value": 190 },
+{ "name": "'a_m'", "value": 199 },
 { "name": "'d_d'", "value": 201 },
 { "name": "'p_d'", "value": 201 },
 { "name": "'l_d'", "value": 306 },
 { "name": "'e_f'", "value": 343 },
-{ "name": "'d_d'", "value": 201}
+{ "name": "'a_f'", "value": 355}
 ]
 },
 {"name": "3ans 9mois 7jours",
 "children": [
+{ "name": "'i_f'", "value": 170 },
+{ "name": "'a_m'", "value": 172 },
+{ "name": "'p_d'", "value": 186 },
 { "name": "'l_d'", "value": 203 },
 { "name": "'m_d'", "value": 204 },
 { "name": "'ø_f'", "value": 205 },
 { "name": "'s_d'", "value": 226 },
 { "name": "'e_f'", "value": 237 },
-{ "name": "'l_d'", "value": 203}
+{ "name": "'a_f'", "value": 284}
 ]
 },
 {"name": "3ans 9mois 28jours",
 "children": [
+{ "name": "'l_d'", "value": 188 },
 { "name": "'s_d'", "value": 223 },
-{ "name": "'a_f'", "value": 261 },
-{ "name": "'s_d'", "value": 223}
+{ "name": "'a_f'", "value": 253 },
+{ "name": "'e_f'", "value": 284}
 ]
 },
 {"name": "4ans 1mois 27jours",
 "children": [
+{ "name": "'u_m'", "value": 171 },
+{ "name": "'w_m'", "value": 174 },
+{ "name": "'v_d'", "value": 175 },
+{ "name": "'e_d'", "value": 182 },
+{ "name": "'l_m'", "value": 185 },
+{ "name": "'t_m'", "value": 191 },
+{ "name": "'ɛ_f'", "value": 202 },
 { "name": "'t_d'", "value": 212 },
+{ "name": "'a_d'", "value": 213 },
 { "name": "'ə_f'", "value": 215 },
-{ "name": "'ɛ_m'", "value": 215 },
-{ "name": "'a_d'", "value": 218 },
 { "name": "'k_d'", "value": 236 },
-{ "name": "'ɛ_f'", "value": 254 },
-{ "name": "'a_m'", "value": 262 },
+{ "name": "'r_m'", "value": 244 },
+{ "name": "'r_f'", "value": 252 },
+{ "name": "'i_f'", "value": 258 },
 { "name": "'ʒ_d'", "value": 263 },
-{ "name": "'i_f'", "value": 286 },
+{ "name": "'ɛ_m'", "value": 276 },
+{ "name": "'a_m'", "value": 287 },
 { "name": "'d_d'", "value": 293 },
 { "name": "'p_d'", "value": 298 },
 { "name": "'l_d'", "value": 347 },
 { "name": "'m_d'", "value": 386 },
 { "name": "'s_d'", "value": 441 },
+{ "name": "'s_d', 'e_f'", "value": 172 },
 { "name": "'e_f'", "value": 578 },
-{ "name": "'t_d'", "value": 212}
+{ "name": "'a_f'", "value": 624}
 ]
 },
 {"name": "4ans 7mois 4jours",
 "children": [
+{ "name": "'t_m'", "value": 172 },
+{ "name": "'r_f'", "value": 175 },
+{ "name": "'ə_d'", "value": 175 },
+{ "name": "'a_d'", "value": 197 },
+{ "name": "'ɛ_m'", "value": 201 },
 { "name": "'m_d'", "value": 202 },
 { "name": "'ə_f'", "value": 202 },
-{ "name": "'a_d'", "value": 203 },
 { "name": "'k_d'", "value": 208 },
-{ "name": "'a_m'", "value": 233 },
-{ "name": "'i_f'", "value": 248 },
+{ "name": "'i_f'", "value": 230 },
+{ "name": "'a_m'", "value": 250 },
 { "name": "'d_d'", "value": 261 },
 { "name": "'p_d'", "value": 316 },
 { "name": "'s_d'", "value": 350 },
 { "name": "'l_d'", "value": 377 },
-{ "name": "'a_f'", "value": 478 },
-{ "name": "'m_d'", "value": 202}
+{ "name": "'a_f'", "value": 463 },
+{ "name": "'e_f'", "value": 480}
 ]
 },
 {"name": "4ans 10mois 3jours",
 "children": [
+{ "name": "'a_d'", "value": 170 },
+{ "name": "'a_m'", "value": 183 },
 { "name": "'s_d'", "value": 200 },
-{ "name": "'e_f'", "value": 217 },
+{ "name": "'e_f'", "value": 218 },
 { "name": "'l_d'", "value": 252 },
-{ "name": "'s_d'", "value": 200}
+{ "name": "'a_f'", "value": 315}
 ]
 }
 ]
 },
 {"name": "Theophile",
 "children": [
+{"name": "1an 2mois 10jours",
+"children": [
+{ "name": "'a_d'", "value": 174}
+]
+},
+{"name": "2ans 4mois 29jours",
+"children": [
+{ "name": "'a_f'", "value": 192}
+]
+},
 {"name": "2ans 6mois 3jours",
 "children": [
 { "name": "'a_f'", "value": 212}
@@ -979,129 +1307,164 @@
 },
 {"name": "2ans 7mois 28jours",
 "children": [
-{ "name": "'a_f'", "value": 221}
+{ "name": "'a_f'", "value": 219}
 ]
 },
 {"name": "2ans 9mois 7jours",
 "children": [
+{ "name": "'a_m'", "value": 176 },
 { "name": "'e_f'", "value": 251 },
-{ "name": "'e_f'", "value": 251}
+{ "name": "'a_f'", "value": 298}
 ]
 },
 {"name": "2ans 10mois 1jour",
 "children": [
-{ "name": "'a_d'", "value": 259 },
-{ "name": "'a_d'", "value": 259}
+{ "name": "'a_m'", "value": 189 },
+{ "name": "'a_d'", "value": 250 },
+{ "name": "'a_f'", "value": 289}
 ]
 },
 {"name": "2ans 10mois 28jours",
 "children": [
-{ "name": "'e_f'", "value": 233 },
+{ "name": "'v_d'", "value": 171 },
+{ "name": "'a_m'", "value": 193 },
+{ "name": "'s_d'", "value": 197 },
+{ "name": "'e_f'", "value": 232 },
 { "name": "'m_d'", "value": 253 },
 { "name": "'a_d'", "value": 264 },
-{ "name": "'e_f'", "value": 233}
+{ "name": "'a_f'", "value": 375}
 ]
 },
 {"name": "2ans 11mois 28jours",
 "children": [
-{ "name": "'a_f'", "value": 248}
+{ "name": "'e_f'", "value": 181 },
+{ "name": "'a_f'", "value": 249}
 ]
 },
 {"name": "3ans 2mois ",
 "children": [
+{ "name": "'ø_f'", "value": 179 },
+{ "name": "'m_d'", "value": 187 },
+{ "name": "'p_d'", "value": 188 },
 { "name": "'l_d'", "value": 203 },
-{ "name": "'s_d'", "value": 207 },
+{ "name": "'s_d'", "value": 206 },
 { "name": "'v_d'", "value": 207 },
 { "name": "'t_d'", "value": 216 },
-{ "name": "'a_m'", "value": 217 },
-{ "name": "'a_d'", "value": 302 },
+{ "name": "'a_m'", "value": 227 },
+{ "name": "'a_d'", "value": 299 },
 { "name": "'e_f'", "value": 305 },
-{ "name": "'l_d'", "value": 203}
+{ "name": "'a_f'", "value": 436}
 ]
 },
 {"name": "3ans 3mois 2jours",
 "children": [
+{ "name": "'l_d'", "value": 189 },
+{ "name": "'a_m'", "value": 229 },
 { "name": "'e_f'", "value": 238 },
-{ "name": "'e_f'", "value": 238}
+{ "name": "'a_f'", "value": 307}
 ]
 },
 {"name": "3ans 4mois 10jours",
 "children": [
 { "name": "'m_d'", "value": 229 },
-{ "name": "'m_d'", "value": 229}
+{ "name": "'a_f'", "value": 276}
 ]
 },
 {"name": "3ans 5mois 11jours",
 "children": [
-{ "name": "'e_f'", "value": 232 },
+{ "name": "'a_m'", "value": 194 },
+{ "name": "'e_f'", "value": 231 },
 { "name": "'s_d'", "value": 265 },
-{ "name": "'e_f'", "value": 232}
+{ "name": "'a_f'", "value": 369}
 ]
 },
 {"name": "3ans 7mois 8jours",
 "children": [
-{ "name": "'a_m'", "value": 202 },
+{ "name": "'s_d'", "value": 174 },
+{ "name": "'e_f'", "value": 175 },
+{ "name": "'a_m'", "value": 221 },
 { "name": "'l_d'", "value": 227 },
-{ "name": "'a_m'", "value": 202}
+{ "name": "'a_f'", "value": 311}
+]
+},
+{"name": "3ans 8mois 15jours",
+"children": [
+{ "name": "'a_f'", "value": 173}
 ]
 },
 {"name": "3ans 10mois ",
 "children": [
-{ "name": "'a_m'", "value": 241 },
+{ "name": "'r_f'", "value": 174 },
+{ "name": "'v_d'", "value": 177 },
+{ "name": "'l_d'", "value": 180 },
+{ "name": "'ɑ̃_f'", "value": 187 },
+{ "name": "'e_m'", "value": 258 },
 { "name": "'s_d'", "value": 260 },
+{ "name": "'a_m'", "value": 267 },
 { "name": "'ʒ_d'", "value": 272 },
+{ "name": "'e_d'", "value": 307 },
 { "name": "'p_d'", "value": 310 },
-{ "name": "'e_d'", "value": 312 },
-{ "name": "'ə_f'", "value": 338 },
+{ "name": "'ə_f'", "value": 332 },
 { "name": "'m_d'", "value": 344 },
-{ "name": "'a_f'", "value": 500 },
-{ "name": "'a_m'", "value": 241}
+{ "name": "'a_f'", "value": 470 },
+{ "name": "'e_f'", "value": 523}
 ]
 },
 {"name": "3ans 11mois 15jours",
 "children": [
+{ "name": "'ə_f'", "value": 174 },
+{ "name": "'a_m'", "value": 178 },
+{ "name": "'m_d'", "value": 188 },
 { "name": "'s_d'", "value": 213 },
-{ "name": "'a_f'", "value": 348 },
-{ "name": "'s_d'", "value": 213}
+{ "name": "'a_f'", "value": 337 },
+{ "name": "'e_f'", "value": 357}
 ]
 },
 {"name": "4ans 1mois 24jours",
 "children": [
-{ "name": "'e_f'", "value": 215 },
-{ "name": "'e_f'", "value": 215}
+{ "name": "'a_m'", "value": 176 },
+{ "name": "'e_f'", "value": 213 },
+{ "name": "'a_f'", "value": 217}
 ]
 },
 {"name": "4ans 3mois 29jours",
 "children": [
-{ "name": "'i_f'", "value": 209 },
-{ "name": "'a_m'", "value": 213 },
-{ "name": "'e_f'", "value": 232 },
-{ "name": "'ə_f'", "value": 262 },
+{ "name": "'p_d'", "value": 182 },
+{ "name": "'k_d'", "value": 187 },
+{ "name": "'i_f'", "value": 197 },
+{ "name": "'e_f'", "value": 231 },
+{ "name": "'a_m'", "value": 237 },
+{ "name": "'ə_f'", "value": 256 },
 { "name": "'l_d'", "value": 270 },
 { "name": "'m_d'", "value": 277 },
 { "name": "'s_d'", "value": 291 },
-{ "name": "'ɛ_f'", "value": 341 },
-{ "name": "'i_f'", "value": 209}
+{ "name": "'ɛ_f'", "value": 303 },
+{ "name": "'a_f'", "value": 376}
 ]
 },
 {"name": "4ans 6mois 20jours",
 "children": [
-{ "name": "'a_d'", "value": 218 },
+{ "name": "'e_f'", "value": 173 },
+{ "name": "'a_d'", "value": 215 },
 { "name": "'t_d'", "value": 227 },
 { "name": "'s_d'", "value": 236 },
-{ "name": "'a_m'", "value": 251 },
+{ "name": "'a_m'", "value": 260 },
 { "name": "'m_d'", "value": 264 },
-{ "name": "'ɛ_f'", "value": 307 },
-{ "name": "'a_d'", "value": 218}
+{ "name": "'ɛ_f'", "value": 269 },
+{ "name": "'a_f'", "value": 432}
 ]
 },
 {"name": "4ans 9mois 7jours",
 "children": [
+{ "name": "'d_d'", "value": 172 },
+{ "name": "'r_m'", "value": 173 },
+{ "name": "'a_d'", "value": 190 },
+{ "name": "'p_d'", "value": 198 },
 { "name": "'m_d'", "value": 220 },
 { "name": "'s_d'", "value": 220 },
-{ "name": "'ɛ_f'", "value": 294 },
-{ "name": "'a_m'", "value": 324 },
-{ "name": "'m_d'", "value": 220}
+{ "name": "'ɛ_f'", "value": 260 },
+{ "name": "'a_m'", "value": 357 },
+{ "name": "'a_f'", "value": 367}
 ]
 }
 ]

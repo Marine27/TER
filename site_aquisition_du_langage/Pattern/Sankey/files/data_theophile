@@ -1,28 +1,36 @@
 ,source,target,value
-0,Theophile,2ans 10mois ,76
-1,2ans 10mois ,'w_m' ,76
-2,'w_m' ,'a_f',76
-3,Theophile,3ans 3mois ,78
-4,3ans 3mois ,'w_m' ,78
-5,'w_m' ,'a_f',78
-6,Theophile,3ans 4mois ,285
-7,3ans 4mois ,"'m_d', 'a_f' ",83
-8,"'m_d', 'a_f' ",'w_m',83
-9,3ans 4mois ,"'m_d', 'w_m' ",83
-10,"'m_d', 'w_m' ",'a_f',83
-11,3ans 4mois ,'w_m' ,119
-12,'w_m' ,'a_f',119
-13,Theophile,3ans 10mois ,461
-14,3ans 10mois ,"'m_d', 'a_f' ",105
-15,"'m_d', 'a_f' ",'w_m',105
-16,3ans 10mois ,"'m_d', 'w_m' ",105
-17,"'m_d', 'w_m' ",'a_f',105
-18,3ans 10mois ,'f_d' ,98
-19,'f_d' ,'e_f',98
-20,3ans 10mois ,'w_m' ,153
-21,'w_m' ,'a_f',153
-22,Theophile,4ans 7mois ,234
-23,4ans 7mois ,'n_d' ,83
-24,'n_d' ,'ɔ̃_f',83
-25,4ans 7mois ,'w_m' ,151
-26,'w_m' ,'a_f',151
+0,Theophile,2ans 3mois ,76
+1,2ans 3mois ,'ɑ̃_f' ,76
+2,'ɑ̃_f' ,'n_d',76
+3,Theophile,2ans 9mois ,89
+4,2ans 9mois ,'w_m' ,89
+5,'w_m' ,'a_f',89
+6,Theophile,2ans 11mois ,95
+7,2ans 11mois ,'w_m' ,95
+8,'w_m' ,'a_f',95
+9,Theophile,3ans 4mois ,116
+10,3ans 4mois ,'w_m' ,116
+11,'w_m' ,'a_f',116
+12,Theophile,3ans 5mois ,107
+13,3ans 5mois ,'w_m' ,107
+14,'w_m' ,'a_f',107
+15,Theophile,3ans 10mois ,325
+16,3ans 10mois ,'r_m' ,84
+17,'r_m' ,'a_m',84
+18,3ans 10mois ,'m_d' ,105
+19,'m_d' ,'w_m',105
+20,3ans 10mois ,'w_m' ,136
+21,'w_m' ,'a_f',136
+22,Theophile,4ans 4mois ,100
+23,4ans 4mois ,'w_m' ,100
+24,'w_m' ,'a_f',100
+25,Theophile,4ans 7mois ,311
+26,4ans 7mois ,'ɔ̃_f' ,83
+27,'ɔ̃_f' ,'n_d',83
+28,4ans 7mois ,'n_d' ,83
+29,'n_d' ,'ɔ̃_f',83
+30,4ans 7mois ,'w_m' ,145
+31,'w_m' ,'a_f',145
+32,Theophile,4ans 9mois ,90
+33,4ans 9mois ,'w_m' ,90
+34,'w_m' ,'a_f',90

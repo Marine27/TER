@@ -1,7 +1,13 @@
 ,source,target,value
-0,Antoine,4ans 6mois ,91
-1,4ans 6mois ,'w_m' ,91
-2,'w_m' ,'a_f',91
-3,Antoine,5ans 2mois ,95
-4,5ans 2mois ,'w_m' ,95
-5,'w_m' ,'a_f',95
+0,Antoine,2ans 7mois ,81
+1,2ans 7mois ,'l_d' ,81
+2,'l_d' ,'a_f',81
+3,Antoine,3ans 10mois ,90
+4,3ans 10mois ,'w_m' ,90
+5,'w_m' ,'a_f',90
+6,Antoine,4ans 6mois ,84
+7,4ans 6mois ,'w_m' ,84
+8,'w_m' ,'a_f',84
+9,Antoine,5ans 2mois ,91
+10,5ans 2mois ,'w_m' ,91
+11,'w_m' ,'a_f',91

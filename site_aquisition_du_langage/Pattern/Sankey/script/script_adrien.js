@@ -2,7 +2,7 @@
 export default function define(runtime, observer) {
     const main = runtime.module();
     const fileAttachments = new Map([
-        ["data.csv", new URL("./files/data_antoine",
+        ["data.csv", new URL("../files/data_adrien",
             import.meta.url)]
     ]);
     main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));

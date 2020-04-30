@@ -2,7 +2,7 @@
 export default function define(runtime, observer) {
     const main = runtime.module();
     const fileAttachments = new Map([
-        ["pattern.json", new URL("./files/data_filtre",
+        ["pattern.json", new URL("../files/data_filtre",
             import.meta.url)]
     ]);
     main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));

@@ -9,79 +9,109 @@
 },
 {"name": "2ans 1mois 12jours",
 "children": [
+{ "name": "'d_d'", "value": 265 },
+{ "name": "'a_m'", "value": 270 },
+{ "name": "'b_d'", "value": 277 },
 { "name": "'p_d'", "value": 303 },
-{ "name": "'p_d'", "value": 303}
+{ "name": "'t_d'", "value": 402}
 ]
 },
 {"name": "2ans 2mois 22jours",
 "children": [
-{ "name": "'a_m'", "value": 312 },
-{ "name": "'a_m'", "value": 312}
+{ "name": "'a_d'", "value": 256 },
+{ "name": "'t_m'", "value": 259 },
+{ "name": "'a_m'", "value": 353 },
+{ "name": "'t_d'", "value": 440}
 ]
 },
 {"name": "2ans 3mois 28jours",
 "children": [
-{ "name": "'a_f'", "value": 306 },
-{ "name": "'k_d'", "value": 312 },
-{ "name": "'a_m'", "value": 354 },
+{ "name": "'i_m'", "value": 257 },
+{ "name": "'ɛ̃_f'", "value": 258 },
+{ "name": "'a_d'", "value": 278 },
+{ "name": "'a_f'", "value": 298 },
+{ "name": "'k_d'", "value": 309 },
 { "name": "'t_d'", "value": 410 },
-{ "name": "'a_f'", "value": 306}
+{ "name": "'p_d'", "value": 417 },
+{ "name": "'a_m'", "value": 422}
 ]
 },
 {"name": "2ans 4mois 26jours",
 "children": [
+{ "name": "'ɛ̃_f'", "value": 258 },
+{ "name": "'j_m'", "value": 259 },
+{ "name": "'p_d'", "value": 260 },
+{ "name": "'y_f'", "value": 260 },
+{ "name": "'a_d'", "value": 289 },
+{ "name": "'k_d'", "value": 299 },
 { "name": "'t_d'", "value": 534}
 ]
 },
 {"name": "2ans 5mois 22jours",
 "children": [
+{ "name": "'d_d'", "value": 277 },
+{ "name": "'a_f'", "value": 286 },
+{ "name": "'i_m'", "value": 300 },
 { "name": "'k_d'", "value": 303 },
-{ "name": "'j_m'", "value": 310 },
+{ "name": "'ɛ̃_f'", "value": 303 },
+{ "name": "'j_m', 'ɛ̃_f'", "value": 258 },
 { "name": "'a_d'", "value": 316 },
-{ "name": "'a_m'", "value": 324 },
-{ "name": "'p_d'", "value": 351 },
-{ "name": "'k_d'", "value": 303}
+{ "name": "'j_m'", "value": 318 },
+{ "name": "'p_d'", "value": 350 },
+{ "name": "'a_m'", "value": 372 },
+{ "name": "'t_d'", "value": 431}
 ]
 },
 {"name": "2ans 7mois 18jours",
 "children": [
+{ "name": "'p_d'", "value": 260 },
+{ "name": "'a_m'", "value": 274 },
 { "name": "'d_d'", "value": 320 },
-{ "name": "'d_d'", "value": 320}
+{ "name": "'t_d'", "value": 478}
 ]
 },
 {"name": "2ans 8mois 12jours",
 "children": [
-{ "name": "'e_f'", "value": 301 },
-{ "name": "'a_m'", "value": 352 },
+{ "name": "'t_m'", "value": 264 },
+{ "name": "'ɛ̃_f'", "value": 266 },
+{ "name": "'a_d'", "value": 317 },
+{ "name": "'j_m'", "value": 317 },
+{ "name": "'e_f'", "value": 326 },
 { "name": "'k_d'", "value": 364 },
-{ "name": "'i_m'", "value": 379 },
+{ "name": "'i_m'", "value": 401 },
+{ "name": "'a_m'", "value": 405 },
 { "name": "'p_d'", "value": 415 },
-{ "name": "'a_f'", "value": 474 },
+{ "name": "'a_f'", "value": 472 },
 { "name": "'d_d'", "value": 578 },
-{ "name": "'e_f'", "value": 301}
+{ "name": "'t_d'", "value": 725}
 ]
 },
 {"name": "2ans 9mois 13jours",
 "children": [
+{ "name": "'d_d'", "value": 287 },
 { "name": "'t_d'", "value": 333}
 ]
 },
 {"name": "2ans 10mois 14jours",
 "children": [
-{ "name": "'a_d'", "value": 322 },
-{ "name": "'a_m'", "value": 401 },
+{ "name": "'j_m'", "value": 264 },
+{ "name": "'e_f'", "value": 307 },
+{ "name": "'i_m'", "value": 317 },
+{ "name": "'a_d'", "value": 363 },
+{ "name": "'a_m'", "value": 426 },
 { "name": "'k_d'", "value": 451 },
-{ "name": "'p_d'", "value": 484 },
-{ "name": "'p_d', 'a_f'", "value": 317 },
-{ "name": "'a_f'", "value": 533 },
+{ "name": "'p_d'", "value": 483 },
+{ "name": "'p_d', 'a_f'", "value": 313 },
+{ "name": "'a_f'", "value": 525 },
 { "name": "'d_d'", "value": 540 },
-{ "name": "'a_d'", "value": 322}
+{ "name": "'t_d'", "value": 627}
 ]
 },
 {"name": "4ans 3mois 26jours",
 "children": [
+{ "name": "'a_f'", "value": 254 },
 { "name": "'p_d'", "value": 346 },
-{ "name": "'p_d'", "value": 346}
+{ "name": "'k_d'", "value": 379}
 ]
 }
 ]
@@ -95,26 +125,26 @@
 },
 {"name": "2ans 1mois 5jours",
 "children": [
-{ "name": "'a_f'", "value": 177 },
 { "name": "'p_d'", "value": 179 },
-{ "name": "'a_m'", "value": 192 },
-{ "name": "'a_f'", "value": 177}
+{ "name": "'a_f'", "value": 187 },
+{ "name": "'k_d'", "value": 218 },
+{ "name": "'a_m'", "value": 226}
 ]
 },
 {"name": "2ans 8mois 4jours",
 "children": [
-{ "name": "'a_f'", "value": 179 },
+{ "name": "'a_f'", "value": 171 },
 { "name": "'d_d'", "value": 186 },
-{ "name": "'a_f'", "value": 179}
+{ "name": "'k_d'", "value": 201}
 ]
 },
 {"name": "3ans 10mois ",
 "children": [
-{ "name": "'a_m'", "value": 192 },
 { "name": "'b_d'", "value": 201 },
+{ "name": "'a_m'", "value": 211 },
 { "name": "'d_d'", "value": 220 },
-{ "name": "'a_f'", "value": 232 },
-{ "name": "'a_m'", "value": 192}
+{ "name": "'a_f'", "value": 225 },
+{ "name": "'p_d'", "value": 273}
 ]
 },
 {"name": "2ans ",
@@ -134,32 +164,36 @@
 },
 {"name": "4ans 13jours",
 "children": [
-{ "name": "'ɛ_f'", "value": 186 },
+{ "name": "'ɔ_m'", "value": 177 },
 { "name": "'k_d'", "value": 187 },
+{ "name": "'r_m'", "value": 187 },
+{ "name": "'a_f'", "value": 191 },
 { "name": "'t_m'", "value": 199 },
-{ "name": "'a_f'", "value": 202 },
-{ "name": "'a_m'", "value": 253 },
+{ "name": "'r_f'", "value": 235 },
+{ "name": "'a_m'", "value": 292 },
 { "name": "'d_d'", "value": 308 },
-{ "name": "'ɛ_f'", "value": 186}
+{ "name": "'p_d'", "value": 308}
 ]
 },
 {"name": "3ans 1mois 7jours",
 "children": [
-{ "name": "'p_d'", "value": 171}
+{ "name": "'p_d'", "value": 171 },
+{ "name": "'a_m'", "value": 189}
 ]
 },
 {"name": "2ans 2mois 16jours",
 "children": [
-{ "name": "'e_f'", "value": 178 },
+{ "name": "'e_f'", "value": 184 },
 { "name": "'d_d'", "value": 187 },
-{ "name": "'a_m'", "value": 203 },
-{ "name": "'i_m'", "value": 206 },
+{ "name": "'u_m'", "value": 196 },
+{ "name": "'i_m'", "value": 211 },
 { "name": "'k_d'", "value": 212 },
+{ "name": "'a_m'", "value": 227 },
 { "name": "'b_m'", "value": 232 },
 { "name": "'b_d'", "value": 250 },
 { "name": "'p_d'", "value": 261 },
 { "name": "'t_d'", "value": 266 },
-{ "name": "'e_f'", "value": 178}
+{ "name": "'a_f'", "value": 272}
 ]
 }
 ]
@@ -170,15 +204,30 @@
 "children": [
 { "name": "'p_d'", "value": 193}
 ]
+},
+{"name": "4ans 5mois 16jours",
+"children": [
+{ "name": "'a_m'", "value": 176}
+]
+},
+{"name": "4ans 8mois 2jours",
+"children": [
+{ "name": "'a_m'", "value": 176}
+]
 }
 ]
 },
 {"name": "Julie",
 "children": [
+{"name": "1an 3mois 16jours",
+"children": [
+{ "name": "'a_m'", "value": 180}
+]
+},
 {"name": "1an 7mois 26jours",
 "children": [
-{ "name": "'a_m'", "value": 222 },
-{ "name": "'a_m'", "value": 222}
+{ "name": "'p_d'", "value": 260 },
+{ "name": "'a_m'", "value": 310}
 ]
 },
 {"name": "2ans 10jours",
@@ -186,10 +235,25 @@
 { "name": "'p_d'", "value": 188}
 ]
 },
+{"name": "2ans 3mois 8jours",
+"children": [
+{ "name": "'a_m'", "value": 186}
+]
+},
 {"name": "2ans 4mois 24jours",
 "children": [
-{ "name": "'a_m'", "value": 180 },
-{ "name": "'a_m'", "value": 180}
+{ "name": "'a_m'", "value": 196 },
+{ "name": "'p_d'", "value": 241}
+]
+},
+{"name": "2ans 5mois 21jours",
+"children": [
+{ "name": "'a_m'", "value": 190}
+]
+},
+{"name": "2ans 6mois 22jours",
+"children": [
+{ "name": "'ɔ_m'", "value": 174}
 ]
 },
 {"name": "2ans 8mois 27jours",
@@ -199,64 +263,76 @@
 },
 {"name": "2ans 11mois 1jour",
 "children": [
+{ "name": "'a_m'", "value": 174 },
 { "name": "'p_d'", "value": 179}
 ]
 },
 {"name": "3ans 30jours",
 "children": [
+{ "name": "'a_f'", "value": 183 },
 { "name": "'t_m'", "value": 189 },
-{ "name": "'a_f'", "value": 195 },
 { "name": "'d_d'", "value": 202 },
-{ "name": "'a_m'", "value": 231 },
-{ "name": "'t_m'", "value": 189}
+{ "name": "'p_d'", "value": 262 },
+{ "name": "'a_m'", "value": 270}
 ]
 },
 {"name": "3ans 1mois 6jours",
 "children": [
-{ "name": "'a_m'", "value": 177 },
+{ "name": "'r_f'", "value": 170 },
+{ "name": "'r_m'", "value": 175 },
 { "name": "'p_d'", "value": 200 },
-{ "name": "'a_m'", "value": 177}
+{ "name": "'a_m'", "value": 216 },
+{ "name": "'d_d'", "value": 222}
 ]
 },
 {"name": "3ans 2mois 3jours",
 "children": [
-{ "name": "'ə_f'", "value": 171 },
-{ "name": "'l_m'", "value": 189 },
-{ "name": "'e_f'", "value": 196 },
-{ "name": "'a_f'", "value": 198 },
-{ "name": "'i_m'", "value": 214 },
-{ "name": "'ɔ_m'", "value": 215 },
-{ "name": "'s_m'", "value": 221 },
-{ "name": "'t_m'", "value": 280 },
-{ "name": "'p_d'", "value": 300 },
-{ "name": "'k_d'", "value": 318 },
-{ "name": "'t_d'", "value": 326 },
+{ "name": "'ə_f'", "value": 175 },
+{ "name": "'u_m'", "value": 185 },
+{ "name": "'a_f'", "value": 194 },
+{ "name": "'ɛ_m'", "value": 197 },
+{ "name": "'l_m'", "value": 222 },
+{ "name": "'s_m'", "value": 230 },
+{ "name": "'e_f'", "value": 236 },
+{ "name": "'r_m'", "value": 240 },
+{ "name": "'i_m'", "value": 278 },
+{ "name": "'t_m'", "value": 281 },
+{ "name": "'ɔ_m'", "value": 296 },
+{ "name": "'p_d'", "value": 298 },
+{ "name": "'r_f'", "value": 306 },
+{ "name": "'k_d'", "value": 317 },
+{ "name": "'t_d'", "value": 325 },
 { "name": "'d_d'", "value": 385 },
-{ "name": "'ə_f'", "value": 171}
+{ "name": "'a_m'", "value": 480}
 ]
 },
 {"name": "3ans 4mois 21jours",
 "children": [
+{ "name": "'ɛ_m'", "value": 170 },
 { "name": "'p_d'", "value": 233}
 ]
 },
 {"name": "3ans 7mois 19jours",
 "children": [
+{ "name": "'a_m'", "value": 179 },
 { "name": "'p_d'", "value": 184}
 ]
 },
 {"name": "4ans 8mois 29jours",
 "children": [
 { "name": "'k_d'", "value": 180 },
-{ "name": "'a_m'", "value": 225 },
+{ "name": "'r_f'", "value": 184 },
+{ "name": "'ɛ_m'", "value": 210 },
+{ "name": "'a_m'", "value": 247 },
 { "name": "'p_d'", "value": 264 },
-{ "name": "'k_d'", "value": 180}
+{ "name": "'d_d'", "value": 298}
 ]
 },
 {"name": "5ans 3mois 19jours",
 "children": [
+{ "name": "'a_m'", "value": 178 },
 { "name": "'d_d'", "value": 211 },
-{ "name": "'d_d'", "value": 211}
+{ "name": "'p_d'", "value": 245}
 ]
 }
 ]
@@ -270,8 +346,9 @@
 },
 {"name": "2ans 4mois 15jours",
 "children": [
+{ "name": "'a_m'", "value": 185 },
 { "name": "'d_d'", "value": 196 },
-{ "name": "'d_d'", "value": 196}
+{ "name": "'p_d'", "value": 210}
 ]
 },
 {"name": "2ans 5mois 12jours",
@@ -281,20 +358,22 @@
 },
 {"name": "2ans 7mois 7jours",
 "children": [
+{ "name": "'a_m'", "value": 177 },
 { "name": "'k_d'", "value": 182 },
-{ "name": "'k_d'", "value": 182}
+{ "name": "'p_d'", "value": 194}
 ]
 },
 {"name": "2ans 8mois 5jours",
 "children": [
-{ "name": "'p_d'", "value": 175}
+{ "name": "'p_d'", "value": 175 },
+{ "name": "'a_m'", "value": 191}
 ]
 },
 {"name": "2ans 9mois 16jours",
 "children": [
-{ "name": "'a_m'", "value": 180 },
+{ "name": "'a_m'", "value": 212 },
 { "name": "'d_d'", "value": 220 },
-{ "name": "'a_m'", "value": 180}
+{ "name": "'p_d'", "value": 231}
 ]
 },
 {"name": "3ans 28jours",
@@ -309,8 +388,9 @@
 },
 {"name": "3ans 6mois 8jours",
 "children": [
+{ "name": "'a_m'", "value": 170 },
 { "name": "'d_d'", "value": 201 },
-{ "name": "'d_d'", "value": 201}
+{ "name": "'p_d'", "value": 201}
 ]
 },
 {"name": "3ans 9mois 7jours",
@@ -320,23 +400,28 @@
 },
 {"name": "4ans 1mois 27jours",
 "children": [
-{ "name": "'ɛ_f'", "value": 178 },
 { "name": "'t_m'", "value": 191 },
 { "name": "'t_d'", "value": 212 },
+{ "name": "'a_m'", "value": 216 },
+{ "name": "'a_f'", "value": 228 },
 { "name": "'k_d'", "value": 236 },
-{ "name": "'a_f'", "value": 241 },
+{ "name": "'ɛ_m'", "value": 241 },
+{ "name": "'r_m'", "value": 244 },
+{ "name": "'r_f'", "value": 252 },
 { "name": "'d_d'", "value": 293 },
-{ "name": "'ɛ_f'", "value": 178}
+{ "name": "'p_d'", "value": 298}
 ]
 },
 {"name": "4ans 7mois 4jours",
 "children": [
 { "name": "'t_m'", "value": 172 },
-{ "name": "'e_f'", "value": 173 },
-{ "name": "'a_m'", "value": 186 },
+{ "name": "'r_f'", "value": 175 },
+{ "name": "'e_f'", "value": 179 },
+{ "name": "'ɛ_m'", "value": 185 },
 { "name": "'k_d'", "value": 208 },
+{ "name": "'a_m'", "value": 218 },
 { "name": "'d_d'", "value": 261 },
-{ "name": "'t_m'", "value": 172}
+{ "name": "'p_d'", "value": 316}
 ]
 }
 ]
@@ -345,37 +430,51 @@
 "children": [
 {"name": "3ans 2mois ",
 "children": [
+{ "name": "'a_m'", "value": 179 },
 { "name": "'p_d'", "value": 188 },
-{ "name": "'p_d'", "value": 188}
+{ "name": "'t_d'", "value": 216}
+]
+},
+{"name": "3ans 3mois 2jours",
+"children": [
+{ "name": "'a_m'", "value": 191}
+]
+},
+{"name": "3ans 7mois 8jours",
+"children": [
+{ "name": "'a_m'", "value": 187}
 ]
 },
 {"name": "3ans 10mois ",
 "children": [
-{ "name": "'ə_f'", "value": 172 },
-{ "name": "'a_f'", "value": 184 },
-{ "name": "'e_f'", "value": 256 },
-{ "name": "'ə_f'", "value": 172}
+{ "name": "'r_f'", "value": 174 },
+{ "name": "'a_f'", "value": 189 },
+{ "name": "'e_f'", "value": 195 },
+{ "name": "'e_m'", "value": 204 },
+{ "name": "'a_m'", "value": 213 },
+{ "name": "'p_d'", "value": 310}
 ]
 },
 {"name": "4ans 3mois 29jours",
 "children": [
 { "name": "'p_d'", "value": 182 },
-{ "name": "'p_d'", "value": 182}
+{ "name": "'k_d'", "value": 187 },
+{ "name": "'a_m'", "value": 193}
 ]
 },
 {"name": "4ans 6mois 20jours",
 "children": [
-{ "name": "'a_m'", "value": 184 },
-{ "name": "'a_f'", "value": 188 },
-{ "name": "'a_m'", "value": 184}
+{ "name": "'a_f'", "value": 191 },
+{ "name": "'a_m'", "value": 198 },
+{ "name": "'t_d'", "value": 227}
 ]
 },
 {"name": "4ans 9mois 7jours",
 "children": [
 { "name": "'d_d'", "value": 172 },
-{ "name": "'a_f'", "value": 177 },
+{ "name": "'r_m'", "value": 173 },
 { "name": "'p_d'", "value": 198 },
-{ "name": "'d_d'", "value": 172}
+{ "name": "'a_m'", "value": 275}
 ]
 }
 ]

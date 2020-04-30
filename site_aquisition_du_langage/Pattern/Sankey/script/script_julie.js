@@ -2,7 +2,7 @@
 export default function define(runtime, observer) {
     const main = runtime.module();
     const fileAttachments = new Map([
-        ["data.csv", new URL("./files/data_adrien",
+        ["data.csv", new URL("../files/data_julie",
             import.meta.url)]
     ]);
     main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
@@ -15,7 +15,7 @@ export default function define(runtime, observer) {
             <option value=center>Centered
             <option value=justify selected>Justified
             </select>`, {
-                value: new URLSearchParams(html `<a href>`.search).get("align") || "center"
+                value: new URLSearchParams(html `<a href>`.search).get("align") || "justify"
             })
         )
     });

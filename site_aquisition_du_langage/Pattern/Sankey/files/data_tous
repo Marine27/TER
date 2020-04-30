@@ -1,194 +1,416 @@
 ,source,target,value
-0,Adrien,2ans 3mois ,448
-1,2ans 3mois ,'ɛ̃_f' ,224
-2,'ɛ̃_f' ,'j_m',224
-3,2ans 3mois ,'j_m' ,224
-4,'j_m' ,'ɛ̃_f',224
-5,Adrien,2ans 4mois ,436
-6,2ans 4mois ,'ɛ̃_f' ,218
-7,'ɛ̃_f' ,'j_m',218
-8,2ans 4mois ,'j_m' ,218
-9,'j_m' ,'ɛ̃_f',218
-10,Adrien,2ans 5mois ,935
-11,2ans 5mois ,'y_f' ,237
-12,'y_f' ,'t_d',237
-13,2ans 5mois ,'m_m' ,208
-14,'m_m' ,'m_d',208
-15,2ans 5mois ,'ɛ̃_f' ,245
-16,'ɛ̃_f' ,'j_m',245
-17,2ans 5mois ,'j_m' ,245
-18,'j_m' ,'ɛ̃_f',245
-19,Adrien,2ans 6mois ,570
-20,2ans 6mois ,'ɛ̃_f' ,285
-21,'ɛ̃_f' ,'j_m',285
-22,2ans 6mois ,'j_m' ,285
-23,'j_m' ,'ɛ̃_f',285
-24,Adrien,2ans 8mois ,510
-25,2ans 8mois ,'ɛ̃_f' ,255
-26,'ɛ̃_f' ,'j_m',255
-27,2ans 8mois ,'j_m' ,255
-28,'j_m' ,'ɛ̃_f',255
-29,Adrien,2ans 10mois ,692
-30,2ans 10mois ,'y_f' ,200
-31,'y_f' ,'t_d',200
-32,2ans 10mois ,'ɛ̃_f' ,246
-33,'ɛ̃_f' ,'j_m',246
-34,2ans 10mois ,'j_m' ,246
-35,'j_m' ,'ɛ̃_f',246
-36,Anae,3ans 5mois ,82
-37,3ans 5mois ,'w_m' ,82
-38,'w_m' ,'a_f',82
-39,Anae,2ans 1mois ,114
-40,2ans 1mois ,'w_m' ,114
-41,'w_m' ,'a_f',114
-42,Anae,3ans 6mois ,180
-43,3ans 6mois ,'w_d' ,90
-44,'w_d' ,'ɛ_f',90
-45,3ans 6mois ,'ɛ_f' ,90
-46,'ɛ_f' ,'w_d',90
-47,Anae,3ans 1mois ,103
-48,3ans 1mois ,'w_m' ,103
-49,'w_m' ,'a_f',103
-50,Anae,2ans 3mois ,1678
-51,2ans 3mois ,"'e_m', 'e_f', 'b_m' ",90
-52,"'e_m', 'e_f', 'b_m' ",'b_d',90
-53,2ans 3mois ,"'e_f', 'b_m' ",90
-54,"'e_f', 'b_m' ","'b_d', 'e_m'",90
-55,2ans 3mois ,"'e_m', 'e_f' ",90
-56,"'e_m', 'e_f' ","'b_d', 'b_m'",90
-57,2ans 3mois ,"'b_d', 'e_f', 'b_m' ",90
-58,"'b_d', 'e_f', 'b_m' ",'e_m',90
-59,2ans 3mois ,"'b_d', 'e_f' ",90
-60,"'b_d', 'e_f' ","'e_m', 'b_m'",90
-61,2ans 3mois ,"'b_d', 'e_m', 'b_m' ",90
-62,"'b_d', 'e_m', 'b_m' ",'e_f',90
-63,2ans 3mois ,"'b_d', 'e_m' ",90
-64,"'b_d', 'e_m' ","'e_f', 'b_m'",90
-65,2ans 3mois ,"'b_d', 'e_m', 'e_f' ",90
-66,"'b_d', 'e_m', 'e_f' ",'b_m',90
-67,2ans 3mois ,"'e_m', 'b_m' ",98
-68,"'e_m', 'b_m' ",'b_d',98
-69,2ans 3mois ,"'b_d', 'e_m' ",98
-70,"'b_d', 'e_m' ",'b_m',98
-71,2ans 3mois ,"'e_f', 'b_m' ",90
-72,"'e_f', 'b_m' ",'e_m',90
-73,2ans 3mois ,"'e_m', 'e_f' ",90
-74,"'e_m', 'e_f' ",'b_m',90
-75,2ans 3mois ,"'e_m', 'e_f' ",90
-76,"'e_m', 'e_f' ",'b_d',90
-77,2ans 3mois ,"'b_d', 'e_f' ",90
-78,"'b_d', 'e_f' ",'e_m',90
-79,2ans 3mois ,"'b_d', 'e_m' ",90
-80,"'b_d', 'e_m' ",'e_f',90
-81,2ans 3mois ,"'e_f', 'b_m' ",90
-82,"'e_f', 'b_m' ",'b_d',90
-83,2ans 3mois ,"'b_d', 'e_f' ",90
-84,"'b_d', 'e_f' ",'b_m',90
-85,2ans 3mois ,'w_m' ,132
-86,'w_m' ,'a_f',132
-87,Anae,1an 11mois ,130
-88,1an 11mois ,'w_m' ,130
-89,'w_m' ,'a_f',130
-90,Antoine,4ans 6mois ,91
-91,4ans 6mois ,'w_m' ,91
-92,'w_m' ,'a_f',91
-93,Antoine,5ans 2mois ,95
-94,5ans 2mois ,'w_m' ,95
-95,'w_m' ,'a_f',95
-96,Julie,1an 6mois ,93
-97,1an 6mois ,'w_m' ,93
-98,'w_m' ,'a_f',93
-99,Julie,2ans 5mois ,116
-100,2ans 5mois ,'w_m' ,116
-101,'w_m' ,'a_f',116
-102,Julie,2ans 7mois ,115
-103,2ans 7mois ,'w_d' ,115
-104,'w_d' ,'i_f',115
-105,Julie,2ans 8mois ,81
-106,2ans 8mois ,'w_d' ,81
-107,'w_d' ,'i_f',81
-108,Julie,2ans 9mois ,125
-109,2ans 9mois ,'w_m' ,125
-110,'w_m' ,'a_f',125
-111,Julie,2ans 11mois ,114
-112,2ans 11mois ,'w_d' ,114
-113,'w_d' ,'i_f',114
-114,Julie,3ans 2mois ,180
-115,3ans 2mois ,"'m_d', 'm_m' ",85
-116,"'m_d', 'm_m' ",'a_m',85
-117,3ans 2mois ,"'v_d', 'w_m' ",95
-118,"'v_d', 'w_m' ",'a_f',95
-119,Julie,3ans 5mois ,78
-120,3ans 5mois ,'w_m' ,78
-121,'w_m' ,'a_f',78
-122,Julie,3ans 8mois ,106
-123,3ans 8mois ,'w_m' ,106
-124,'w_m' ,'a_f',106
-125,Julie,4ans 9mois ,82
-126,4ans 9mois ,'w_m' ,82
-127,'w_m' ,'a_f',82
-128,Madeleine,1an ,350
-129,1an ,'g_d' ,103
-130,'g_d' ,'a_f',103
-131,1an ,'g_m' ,113
-132,'g_m' ,'a_f',113
-133,1an ,'a_m' ,134
-134,'a_m' ,'a_f',134
-135,Madeleine,2ans 1mois ,347
-136,2ans 1mois ,"'m_d', 'a_f' ",100
-137,"'m_d', 'a_f' ",'w_m',100
-138,2ans 1mois ,"'m_d', 'w_m' ",100
-139,"'m_d', 'w_m' ",'a_f',100
-140,2ans 1mois ,'w_m' ,147
-141,'w_m' ,'a_f',147
-142,Madeleine,2ans 7mois ,116
-143,2ans 7mois ,'w_m' ,116
-144,'w_m' ,'a_f',116
-145,Madeleine,2ans 8mois ,113
-146,2ans 8mois ,'w_m' ,113
-147,'w_m' ,'a_f',113
-148,Madeleine,2ans 10mois ,85
-149,2ans 10mois ,'w_m' ,85
-150,'w_m' ,'a_f',85
-151,Madeleine,3ans 3mois ,100
-152,3ans 3mois ,'w_m' ,100
-153,'w_m' ,'a_f',100
-154,Madeleine,3ans 9mois ,76
-155,3ans 9mois ,'w_m' ,76
-156,'w_m' ,'a_f',76
-157,Madeleine,3ans 10mois ,77
-158,3ans 10mois ,'w_d' ,77
-159,'w_d' ,'i_f',77
-160,Madeleine,4ans 2mois ,156
-161,4ans 2mois ,'w_m' ,156
-162,'w_m' ,'a_f',156
-163,Madeleine,4ans 10mois ,82
-164,4ans 10mois ,'w_m' ,82
-165,'w_m' ,'a_f',82
-166,Theophile,2ans 10mois ,76
-167,2ans 10mois ,'w_m' ,76
-168,'w_m' ,'a_f',76
-169,Theophile,3ans 3mois ,78
-170,3ans 3mois ,'w_m' ,78
-171,'w_m' ,'a_f',78
-172,Theophile,3ans 4mois ,285
-173,3ans 4mois ,"'m_d', 'a_f' ",83
-174,"'m_d', 'a_f' ",'w_m',83
-175,3ans 4mois ,"'m_d', 'w_m' ",83
-176,"'m_d', 'w_m' ",'a_f',83
-177,3ans 4mois ,'w_m' ,119
-178,'w_m' ,'a_f',119
-179,Theophile,3ans 10mois ,461
-180,3ans 10mois ,"'m_d', 'a_f' ",105
-181,"'m_d', 'a_f' ",'w_m',105
-182,3ans 10mois ,"'m_d', 'w_m' ",105
-183,"'m_d', 'w_m' ",'a_f',105
-184,3ans 10mois ,'f_d' ,98
-185,'f_d' ,'e_f',98
-186,3ans 10mois ,'w_m' ,153
-187,'w_m' ,'a_f',153
-188,Theophile,4ans 7mois ,234
-189,4ans 7mois ,'n_d' ,83
-190,'n_d' ,'ɔ̃_f',83
-191,4ans 7mois ,'w_m' ,151
-192,'w_m' ,'a_f',151
+0,Adrien,2ans 1mois ,1069
+1,2ans 1mois ,'dr_m' ,108
+2,'dr_m' ,'ɛ̃_f',108
+3,2ans 1mois ,'dr_m' ,108
+4,'dr_m' ,'i_m',108
+5,2ans 1mois ,'dr_m' ,108
+6,'dr_m' ,'j_m',108
+7,2ans 1mois ,'a_d' ,108
+8,'a_d' ,'dr_m',108
+9,2ans 1mois ,'m_m' ,89
+10,'m_m' ,'ɑ̃_f',89
+11,2ans 1mois ,'j_m' ,182
+12,'j_m' ,'ɛ̃_f',182
+13,2ans 1mois ,'j_m' ,182
+14,'j_m' ,'ɛ̃_f',182
+15,2ans 1mois ,'y_f' ,184
+16,'y_f' ,'t_d',184
+17,Adrien,2ans 3mois ,1956
+18,2ans 3mois ,'w_m' ,85
+19,'w_m' ,'a_f',85
+20,2ans 3mois ,'dr_m' ,123
+21,'dr_m' ,'i_m',123
+22,2ans 3mois ,'i_m' ,123
+23,'i_m' ,'dr_m',123
+24,2ans 3mois ,'dr_m' ,123
+25,'dr_m' ,'ɛ̃_f',123
+26,2ans 3mois ,'dr_m' ,123
+27,'dr_m' ,'j_m',123
+28,2ans 3mois ,'a_d' ,123
+29,'a_d' ,'dr_m',123
+30,2ans 3mois ,'m_m' ,79
+31,'m_m' ,'ɑ̃_f',79
+32,2ans 3mois ,'p_m' ,80
+33,'p_m' ,'a_m',80
+34,2ans 3mois ,'y_f' ,163
+35,'y_f' ,'t_d',163
+36,2ans 3mois ,'n_d' ,108
+37,'n_d' ,'ɔ̃_f',108
+38,2ans 3mois ,'i_m' ,123
+39,'i_m' ,'ɛ̃_f',123
+40,2ans 3mois ,'i_m' ,129
+41,'i_m' ,'j_m',129
+42,2ans 3mois ,'a_d' ,126
+43,'a_d' ,'i_m',126
+44,2ans 3mois ,'j_m' ,224
+45,'j_m' ,'ɛ̃_f',224
+46,2ans 3mois ,'j_m' ,224
+47,'j_m' ,'ɛ̃_f',224
+48,Adrien,2ans 4mois ,2119
+49,2ans 4mois ,'w_m' ,90
+50,'w_m' ,'a_f',90
+51,2ans 4mois ,'dr_m' ,149
+52,'dr_m' ,'i_m',149
+53,2ans 4mois ,'dr_m' ,149
+54,'dr_m' ,'j_m',149
+55,2ans 4mois ,'dr_m' ,149
+56,'dr_m' ,'ɛ̃_f',149
+57,2ans 4mois ,'a_d' ,150
+58,'a_d' ,'dr_m',150
+59,2ans 4mois ,'y_f' ,179
+60,'y_f' ,'t_d',179
+61,2ans 4mois ,'p_m' ,137
+62,'p_m' ,'a_m',137
+63,2ans 4mois ,'m_m' ,163
+64,'m_m' ,'ɑ̃_f',163
+65,2ans 4mois ,'m_m' ,163
+66,'m_m' ,'ɑ̃_f',163
+67,2ans 4mois ,'ɔ̃_f' ,174
+68,'ɔ̃_f' ,'n_d',174
+69,2ans 4mois ,'n_d' ,174
+70,'n_d' ,'ɔ̃_f',174
+71,2ans 4mois ,'j_m' ,221
+72,'j_m' ,'ɛ̃_f',221
+73,2ans 4mois ,'j_m' ,221
+74,'j_m' ,'ɛ̃_f',221
+75,Adrien,2ans 5mois ,2317
+76,2ans 5mois ,'w_d' ,78
+77,'w_d' ,'i_f',78
+78,2ans 5mois ,'dr_m' ,133
+79,'dr_m' ,'i_m',133
+80,2ans 5mois ,'dr_m' ,133
+81,'dr_m' ,'ɛ̃_f',133
+82,2ans 5mois ,'dr_m' ,133
+83,'dr_m' ,'j_m',133
+84,2ans 5mois ,'a_d' ,133
+85,'a_d' ,'dr_m',133
+86,2ans 5mois ,'m_m' ,94
+87,'m_m' ,'ɑ_f',94
+88,2ans 5mois ,'ɑ_f' ,93
+89,'ɑ_f' ,'m_d',93
+90,2ans 5mois ,'w_m' ,109
+91,'w_m' ,'a_f',109
+92,2ans 5mois ,'ø_f' ,103
+93,'ø_f' ,'v_d',103
+94,2ans 5mois ,'ɔ̃_f' ,169
+95,'ɔ̃_f' ,'n_d',169
+96,2ans 5mois ,'y_f' ,237
+97,'y_f' ,'t_d',237
+98,2ans 5mois ,'m_d' ,208
+99,'m_d' ,'m_m',208
+100,2ans 5mois ,'m_m' ,202
+101,'m_m' ,'a_m',202
+102,2ans 5mois ,'j_m' ,246
+103,'j_m' ,'ɛ̃_f',246
+104,2ans 5mois ,'j_m' ,246
+105,'j_m' ,'ɛ̃_f',246
+106,Adrien,2ans 6mois ,2297
+107,2ans 6mois ,'r_d' ,78
+108,'r_d' ,'a_m',78
+109,2ans 6mois ,'w_d' ,101
+110,'w_d' ,'i_f',101
+111,2ans 6mois ,'p_d' ,96
+112,'p_d' ,'p_m',96
+113,2ans 6mois ,'p_m' ,115
+114,'p_m' ,'a_m',115
+115,2ans 6mois ,'dr_m' ,189
+116,'dr_m' ,'i_m',189
+117,2ans 6mois ,'dr_m' ,187
+118,'dr_m' ,'ɛ̃_f',187
+119,2ans 6mois ,'dr_m' ,189
+120,'dr_m' ,'j_m',189
+121,2ans 6mois ,'a_d' ,188
+122,'a_d' ,'dr_m',188
+123,2ans 6mois ,'y_f' ,191
+124,'y_f' ,'t_d',191
+125,2ans 6mois ,'n_d' ,181
+126,'n_d' ,'ɔ̃_f',181
+127,2ans 6mois ,'i_m' ,202
+128,'i_m' ,'j_m',202
+129,2ans 6mois ,'j_m' ,290
+130,'j_m' ,'ɛ̃_f',290
+131,2ans 6mois ,'j_m' ,290
+132,'j_m' ,'ɛ̃_f',290
+133,Adrien,2ans 8mois ,1793
+134,2ans 8mois ,'s_f' ,75
+135,'s_f' ,'ɛ_d',75
+136,2ans 8mois ,'w_m' ,99
+137,'w_m' ,'a_f',99
+138,2ans 8mois ,'p_d' ,86
+139,'p_d' ,'p_m',86
+140,2ans 8mois ,'dr_m' ,170
+141,'dr_m' ,'ɛ̃_f',170
+142,2ans 8mois ,'dr_m' ,170
+143,'dr_m' ,'j_m',170
+144,2ans 8mois ,'dr_m' ,170
+145,'dr_m' ,'i_m',170
+146,2ans 8mois ,'a_d' ,168
+147,'a_d' ,'dr_m',168
+148,2ans 8mois ,'n_d' ,159
+149,'n_d' ,'ɔ̃_f',159
+150,2ans 8mois ,'y_f' ,176
+151,'y_f' ,'t_d',176
+152,2ans 8mois ,'j_m' ,260
+153,'j_m' ,'ɛ̃_f',260
+154,2ans 8mois ,'j_m' ,260
+155,'j_m' ,'ɛ̃_f',260
+156,Adrien,2ans 9mois ,1185
+157,2ans 9mois ,'dr_m' ,102
+158,'dr_m' ,'ɛ̃_f',102
+159,2ans 9mois ,'dr_m' ,102
+160,'dr_m' ,'i_m',102
+161,2ans 9mois ,'dr_m' ,102
+162,'dr_m' ,'j_m',102
+163,2ans 9mois ,'a_d' ,102
+164,'a_d' ,'dr_m',102
+165,2ans 9mois ,'ɔ̃_f' ,97
+166,'ɔ̃_f' ,'n_d',97
+167,2ans 9mois ,'n_d' ,97
+168,'n_d' ,'ɔ̃_f',97
+169,2ans 9mois ,'m_m' ,89
+170,'m_m' ,'a_m',89
+171,2ans 9mois ,'y_f' ,138
+172,'y_f' ,'t_d',138
+173,2ans 9mois ,'j_m' ,178
+174,'j_m' ,'ɛ̃_f',178
+175,2ans 9mois ,'j_m' ,178
+176,'j_m' ,'ɛ̃_f',178
+177,Adrien,2ans 10mois ,2524
+178,2ans 10mois ,'w_m' ,100
+179,'w_m' ,'a_f',100
+180,2ans 10mois ,'dr_m' ,146
+181,'dr_m' ,'ɛ̃_f',146
+182,2ans 10mois ,'dr_m' ,146
+183,'dr_m' ,'j_m',146
+184,2ans 10mois ,'dr_m' ,146
+185,'dr_m' ,'i_m',146
+186,2ans 10mois ,'a_d' ,146
+187,'a_d' ,'dr_m',146
+188,2ans 10mois ,'p_d' ,156
+189,'p_d' ,'p_m',156
+190,2ans 10mois ,'p_m' ,174
+191,'p_m' ,'a_m',174
+192,2ans 10mois ,'p_m' ,153
+193,'p_m' ,'a_f',153
+194,2ans 10mois ,'y_f' ,200
+195,'y_f' ,'t_d',200
+196,2ans 10mois ,'ɔ̃_f' ,175
+197,'ɔ̃_f' ,'n_d',175
+198,2ans 10mois ,'n_d' ,175
+199,'n_d' ,'ɔ̃_f',175
+200,2ans 10mois ,'j_m' ,247
+201,'j_m' ,'ɛ̃_f',247
+202,2ans 10mois ,'j_m' ,247
+203,'j_m' ,'ɛ̃_f',247
+204,2ans 10mois ,'p_d' ,313
+205,'p_d' ,'a_f',313
+206,Adrien,3ans 1mois ,268
+207,3ans 1mois ,'n_d' ,134
+208,'n_d' ,'ɔ̃_f',134
+209,3ans 1mois ,'ɔ̃_f' ,134
+210,'ɔ̃_f' ,'n_d',134
+211,Adrien,3ans 2mois ,419
+212,3ans 2mois ,'p_d' ,83
+213,'p_d' ,'a_f',83
+214,3ans 2mois ,'n_d' ,168
+215,'n_d' ,'ɔ̃_f',168
+216,3ans 2mois ,'ɔ̃_f' ,168
+217,'ɔ̃_f' ,'n_d',168
+218,Adrien,3ans 3mois ,156
+219,3ans 3mois ,'n_d' ,78
+220,'n_d' ,'ɔ̃_f',78
+221,3ans 3mois ,'ɔ̃_f' ,78
+222,'ɔ̃_f' ,'n_d',78
+223,Adrien,3ans 8mois ,200
+224,3ans 8mois ,'n_d' ,100
+225,'n_d' ,'ɔ̃_f',100
+226,3ans 8mois ,'ɔ̃_f' ,100
+227,'ɔ̃_f' ,'n_d',100
+228,Adrien,3ans 11mois ,162
+229,3ans 11mois ,'m_d' ,76
+230,'m_d' ,'w_m',76
+231,3ans 11mois ,'w_m' ,86
+232,'w_m' ,'a_f',86
+233,Adrien,4ans 3mois ,78
+234,4ans 3mois ,'w_m' ,78
+235,'w_m' ,'a_f',78
+236,Adrien,4ans 4mois ,283
+237,4ans 4mois ,'w_m' ,142
+238,'w_m' ,'a_f',142
+239,4ans 4mois ,'ɛ_d' ,141
+240,'ɛ_d' ,'l_f',141
+241,Anae,2ans 1mois ,108
+242,2ans 1mois ,'w_m' ,108
+243,'w_m' ,'a_f',108
+244,Anae,1an 9mois ,80
+245,1an 9mois ,'t_m' ,80
+246,'t_m' ,'a_m',80
+247,Anae,1an 6mois ,145
+248,1an 6mois ,'b_d' ,145
+249,'b_d' ,'a_f',145
+250,Anae,3ans 6mois ,719
+251,3ans 6mois ,'ɛ_f' ,90
+252,'ɛ_f' ,'w_d',90
+253,3ans 6mois ,'w_d' ,90
+254,'w_d' ,'ɛ_f',90
+255,3ans 6mois ,'m_d' ,128
+256,'m_d' ,'w_m',128
+257,3ans 6mois ,'m_d' ,128
+258,'m_d' ,'w_m',128
+259,3ans 6mois ,'s_d' ,283
+260,'s_d' ,'e_f',283
+261,Anae,3ans 1mois ,93
+262,3ans 1mois ,'w_m' ,93
+263,'w_m' ,'a_f',93
+264,Anae,2ans 3mois ,570
+265,2ans 3mois ,'w_m' ,116
+266,'w_m' ,'a_f',116
+267,2ans 3mois ,'e_m' ,118
+268,'e_m' ,'b_m',118
+269,2ans 3mois ,'b_d' ,168
+270,'b_d' ,'b_m',168
+271,2ans 3mois ,'b_d' ,168
+272,'b_d' ,'b_m',168
+273,Anae,1an 11mois ,128
+274,1an 11mois ,'w_m' ,128
+275,'w_m' ,'a_f',128
+276,Antoine,2ans 7mois ,81
+277,2ans 7mois ,'l_d' ,81
+278,'l_d' ,'a_f',81
+279,Antoine,3ans 10mois ,90
+280,3ans 10mois ,'w_m' ,90
+281,'w_m' ,'a_f',90
+282,Antoine,4ans 6mois ,84
+283,4ans 6mois ,'w_m' ,84
+284,'w_m' ,'a_f',84
+285,Antoine,5ans 2mois ,91
+286,5ans 2mois ,'w_m' ,91
+287,'w_m' ,'a_f',91
+288,Julie,1an 6mois ,92
+289,1an 6mois ,'w_m' ,92
+290,'w_m' ,'a_f',92
+291,Julie,1an 8mois ,99
+292,1an 8mois ,'a_m' ,99
+293,'a_m' ,'r_f',99
+294,Julie,2ans ,91
+295,2ans ,'w_m' ,91
+296,'w_m' ,'a_f',91
+297,Julie,2ans 5mois ,105
+298,2ans 5mois ,'w_m' ,105
+299,'w_m' ,'a_f',105
+300,Julie,2ans 7mois ,217
+301,2ans 7mois ,'w_d' ,115
+302,'w_d' ,'i_f',115
+303,2ans 7mois ,'k_d' ,102
+304,'k_d' ,'ɔ_m',102
+305,Julie,2ans 8mois ,81
+306,2ans 8mois ,'w_d' ,81
+307,'w_d' ,'i_f',81
+308,Julie,2ans 9mois ,109
+309,2ans 9mois ,'w_m' ,109
+310,'w_m' ,'a_f',109
+311,Julie,2ans 10mois ,86
+312,2ans 10mois ,'w_d' ,86
+313,'w_d' ,'i_f',86
+314,Julie,2ans 11mois ,114
+315,2ans 11mois ,'w_d' ,114
+316,'w_d' ,'i_f',114
+317,Julie,3ans 2mois ,513
+318,3ans 2mois ,'g_m' ,77
+319,'g_m' ,'e_f',77
+320,3ans 2mois ,'y_f' ,77
+321,'y_f' ,'t_d',77
+322,3ans 2mois ,'z_m' ,76
+323,'z_m' ,'i_m',76
+324,3ans 2mois ,'d_m' ,75
+325,'d_m' ,'a_m',75
+326,3ans 2mois ,'w_d' ,97
+327,'w_d' ,'i_f',97
+328,3ans 2mois ,'m_m' ,111
+329,'m_m' ,'a_m',111
+330,Julie,3ans 8mois ,94
+331,3ans 8mois ,'w_m' ,94
+332,'w_m' ,'a_f',94
+333,Julie,4ans 9mois ,173
+334,4ans 9mois ,'w_m' ,79
+335,'w_m' ,'a_f',79
+336,4ans 9mois ,'w_d' ,94
+337,'w_d' ,'i_f',94
+338,Madeleine,1an ,350
+339,1an ,'g_d' ,103
+340,'g_d' ,'a_f',103
+341,1an ,'g_m' ,113
+342,'g_m' ,'a_f',113
+343,1an ,'a_m' ,134
+344,'a_m' ,'a_f',134
+345,Madeleine,1an 6mois ,228
+346,1an 6mois ,'ɛ_f' ,112
+347,'ɛ_f' ,'l_d',112
+348,1an 6mois ,'a_m' ,116
+349,'a_m' ,'a_f',116
+350,Madeleine,2ans 1mois ,237
+351,2ans 1mois ,'m_d' ,100
+352,'m_d' ,'w_m',100
+353,2ans 1mois ,'w_m' ,137
+354,'w_m' ,'a_f',137
+355,Madeleine,2ans 5mois ,91
+356,2ans 5mois ,'v_d' ,91
+357,'v_d' ,'a_f',91
+358,Madeleine,2ans 7mois ,271
+359,2ans 7mois ,'k_m' ,79
+360,'k_m' ,'a_m',79
+361,2ans 7mois ,'w_m' ,109
+362,'w_m' ,'a_f',109
+363,2ans 7mois ,'ɛ_m' ,83
+364,'ɛ_m' ,'r_f',83
+365,Madeleine,2ans 8mois ,103
+366,2ans 8mois ,'w_m' ,103
+367,'w_m' ,'a_f',103
+368,Madeleine,3ans 3mois ,92
+369,3ans 3mois ,'w_m' ,92
+370,'w_m' ,'a_f',92
+371,Madeleine,3ans 10mois ,77
+372,3ans 10mois ,'w_d' ,77
+373,'w_d' ,'i_f',77
+374,Madeleine,4ans 2mois ,150
+375,4ans 2mois ,'w_m' ,150
+376,'w_m' ,'a_f',150
+377,Madeleine,4ans 10mois ,76
+378,4ans 10mois ,'w_m' ,76
+379,'w_m' ,'a_f',76
+380,Theophile,2ans 3mois ,76
+381,2ans 3mois ,'ɑ̃_f' ,76
+382,'ɑ̃_f' ,'n_d',76
+383,Theophile,2ans 9mois ,89
+384,2ans 9mois ,'w_m' ,89
+385,'w_m' ,'a_f',89
+386,Theophile,2ans 11mois ,95
+387,2ans 11mois ,'w_m' ,95
+388,'w_m' ,'a_f',95
+389,Theophile,3ans 4mois ,116
+390,3ans 4mois ,'w_m' ,116
+391,'w_m' ,'a_f',116
+392,Theophile,3ans 5mois ,107
+393,3ans 5mois ,'w_m' ,107
+394,'w_m' ,'a_f',107
+395,Theophile,3ans 10mois ,325
+396,3ans 10mois ,'r_m' ,84
+397,'r_m' ,'a_m',84
+398,3ans 10mois ,'m_d' ,105
+399,'m_d' ,'w_m',105
+400,3ans 10mois ,'w_m' ,136
+401,'w_m' ,'a_f',136
+402,Theophile,4ans 4mois ,100
+403,4ans 4mois ,'w_m' ,100
+404,'w_m' ,'a_f',100
+405,Theophile,4ans 7mois ,311
+406,4ans 7mois ,'ɔ̃_f' ,83
+407,'ɔ̃_f' ,'n_d',83
+408,4ans 7mois ,'n_d' ,83
+409,'n_d' ,'ɔ̃_f',83
+410,4ans 7mois ,'w_m' ,145
+411,'w_m' ,'a_f',145
+412,Theophile,4ans 9mois ,90
+413,4ans 9mois ,'w_m' ,90
+414,'w_m' ,'a_f',90

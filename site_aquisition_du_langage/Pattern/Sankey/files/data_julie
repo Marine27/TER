@@ -1,33 +1,51 @@
 ,source,target,value
-0,Julie,1an 6mois ,93
-1,1an 6mois ,'w_m' ,93
-2,'w_m' ,'a_f',93
-3,Julie,2ans 5mois ,116
-4,2ans 5mois ,'w_m' ,116
-5,'w_m' ,'a_f',116
-6,Julie,2ans 7mois ,115
-7,2ans 7mois ,'w_d' ,115
-8,'w_d' ,'i_f',115
-9,Julie,2ans 8mois ,81
-10,2ans 8mois ,'w_d' ,81
-11,'w_d' ,'i_f',81
-12,Julie,2ans 9mois ,125
-13,2ans 9mois ,'w_m' ,125
-14,'w_m' ,'a_f',125
-15,Julie,2ans 11mois ,114
-16,2ans 11mois ,'w_d' ,114
-17,'w_d' ,'i_f',114
-18,Julie,3ans 2mois ,180
-19,3ans 2mois ,"'m_d', 'm_m' ",85
-20,"'m_d', 'm_m' ",'a_m',85
-21,3ans 2mois ,"'v_d', 'w_m' ",95
-22,"'v_d', 'w_m' ",'a_f',95
-23,Julie,3ans 5mois ,78
-24,3ans 5mois ,'w_m' ,78
-25,'w_m' ,'a_f',78
-26,Julie,3ans 8mois ,106
-27,3ans 8mois ,'w_m' ,106
-28,'w_m' ,'a_f',106
-29,Julie,4ans 9mois ,82
-30,4ans 9mois ,'w_m' ,82
-31,'w_m' ,'a_f',82
+0,Julie,1an 6mois ,92
+1,1an 6mois ,'w_m' ,92
+2,'w_m' ,'a_f',92
+3,Julie,1an 8mois ,99
+4,1an 8mois ,'a_m' ,99
+5,'a_m' ,'r_f',99
+6,Julie,2ans ,91
+7,2ans ,'w_m' ,91
+8,'w_m' ,'a_f',91
+9,Julie,2ans 5mois ,105
+10,2ans 5mois ,'w_m' ,105
+11,'w_m' ,'a_f',105
+12,Julie,2ans 7mois ,217
+13,2ans 7mois ,'w_d' ,115
+14,'w_d' ,'i_f',115
+15,2ans 7mois ,'k_d' ,102
+16,'k_d' ,'ɔ_m',102
+17,Julie,2ans 8mois ,81
+18,2ans 8mois ,'w_d' ,81
+19,'w_d' ,'i_f',81
+20,Julie,2ans 9mois ,109
+21,2ans 9mois ,'w_m' ,109
+22,'w_m' ,'a_f',109
+23,Julie,2ans 10mois ,86
+24,2ans 10mois ,'w_d' ,86
+25,'w_d' ,'i_f',86
+26,Julie,2ans 11mois ,114
+27,2ans 11mois ,'w_d' ,114
+28,'w_d' ,'i_f',114
+29,Julie,3ans 2mois ,513
+30,3ans 2mois ,'g_m' ,77
+31,'g_m' ,'e_f',77
+32,3ans 2mois ,'y_f' ,77
+33,'y_f' ,'t_d',77
+34,3ans 2mois ,'z_m' ,76
+35,'z_m' ,'i_m',76
+36,3ans 2mois ,'d_m' ,75
+37,'d_m' ,'a_m',75
+38,3ans 2mois ,'w_d' ,97
+39,'w_d' ,'i_f',97
+40,3ans 2mois ,'m_m' ,111
+41,'m_m' ,'a_m',111
+42,Julie,3ans 8mois ,94
+43,3ans 8mois ,'w_m' ,94
+44,'w_m' ,'a_f',94
+45,Julie,4ans 9mois ,173
+46,4ans 9mois ,'w_m' ,79
+47,'w_m' ,'a_f',79
+48,4ans 9mois ,'w_d' ,94
+49,'w_d' ,'i_f',94

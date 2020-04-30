@@ -1,55 +1,36 @@
 ,source,target,value
-0,Anae,3ans 5mois ,82
-1,3ans 5mois ,'w_m' ,82
-2,'w_m' ,'a_f',82
-3,Anae,2ans 1mois ,114
-4,2ans 1mois ,'w_m' ,114
-5,'w_m' ,'a_f',114
-6,Anae,3ans 6mois ,180
-7,3ans 6mois ,'w_d' ,90
-8,'w_d' ,'ɛ_f',90
-9,3ans 6mois ,'ɛ_f' ,90
-10,'ɛ_f' ,'w_d',90
-11,Anae,3ans 1mois ,103
-12,3ans 1mois ,'w_m' ,103
-13,'w_m' ,'a_f',103
-14,Anae,2ans 3mois ,1678
-15,2ans 3mois ,"'e_m', 'e_f', 'b_m' ",90
-16,"'e_m', 'e_f', 'b_m' ",'b_d',90
-17,2ans 3mois ,"'e_f', 'b_m' ",90
-18,"'e_f', 'b_m' ","'b_d', 'e_m'",90
-19,2ans 3mois ,"'e_m', 'e_f' ",90
-20,"'e_m', 'e_f' ","'b_d', 'b_m'",90
-21,2ans 3mois ,"'b_d', 'e_f', 'b_m' ",90
-22,"'b_d', 'e_f', 'b_m' ",'e_m',90
-23,2ans 3mois ,"'b_d', 'e_f' ",90
-24,"'b_d', 'e_f' ","'e_m', 'b_m'",90
-25,2ans 3mois ,"'b_d', 'e_m', 'b_m' ",90
-26,"'b_d', 'e_m', 'b_m' ",'e_f',90
-27,2ans 3mois ,"'b_d', 'e_m' ",90
-28,"'b_d', 'e_m' ","'e_f', 'b_m'",90
-29,2ans 3mois ,"'b_d', 'e_m', 'e_f' ",90
-30,"'b_d', 'e_m', 'e_f' ",'b_m',90
-31,2ans 3mois ,"'e_m', 'b_m' ",98
-32,"'e_m', 'b_m' ",'b_d',98
-33,2ans 3mois ,"'b_d', 'e_m' ",98
-34,"'b_d', 'e_m' ",'b_m',98
-35,2ans 3mois ,"'e_f', 'b_m' ",90
-36,"'e_f', 'b_m' ",'e_m',90
-37,2ans 3mois ,"'e_m', 'e_f' ",90
-38,"'e_m', 'e_f' ",'b_m',90
-39,2ans 3mois ,"'e_m', 'e_f' ",90
-40,"'e_m', 'e_f' ",'b_d',90
-41,2ans 3mois ,"'b_d', 'e_f' ",90
-42,"'b_d', 'e_f' ",'e_m',90
-43,2ans 3mois ,"'b_d', 'e_m' ",90
-44,"'b_d', 'e_m' ",'e_f',90
-45,2ans 3mois ,"'e_f', 'b_m' ",90
-46,"'e_f', 'b_m' ",'b_d',90
-47,2ans 3mois ,"'b_d', 'e_f' ",90
-48,"'b_d', 'e_f' ",'b_m',90
-49,2ans 3mois ,'w_m' ,132
-50,'w_m' ,'a_f',132
-51,Anae,1an 11mois ,130
-52,1an 11mois ,'w_m' ,130
-53,'w_m' ,'a_f',130
+0,Anae,2ans 1mois ,108
+1,2ans 1mois ,'w_m' ,108
+2,'w_m' ,'a_f',108
+3,Anae,1an 9mois ,80
+4,1an 9mois ,'t_m' ,80
+5,'t_m' ,'a_m',80
+6,Anae,1an 6mois ,145
+7,1an 6mois ,'b_d' ,145
+8,'b_d' ,'a_f',145
+9,Anae,3ans 6mois ,719
+10,3ans 6mois ,'ɛ_f' ,90
+11,'ɛ_f' ,'w_d',90
+12,3ans 6mois ,'w_d' ,90
+13,'w_d' ,'ɛ_f',90
+14,3ans 6mois ,'m_d' ,128
+15,'m_d' ,'w_m',128
+16,3ans 6mois ,'m_d' ,128
+17,'m_d' ,'w_m',128
+18,3ans 6mois ,'s_d' ,283
+19,'s_d' ,'e_f',283
+20,Anae,3ans 1mois ,93
+21,3ans 1mois ,'w_m' ,93
+22,'w_m' ,'a_f',93
+23,Anae,2ans 3mois ,570
+24,2ans 3mois ,'w_m' ,116
+25,'w_m' ,'a_f',116
+26,2ans 3mois ,'e_m' ,118
+27,'e_m' ,'b_m',118
+28,2ans 3mois ,'b_d' ,168
+29,'b_d' ,'b_m',168
+30,2ans 3mois ,'b_d' ,168
+31,'b_d' ,'b_m',168
+32,Anae,1an 11mois ,128
+33,1an 11mois ,'w_m' ,128
+34,'w_m' ,'a_f',128
