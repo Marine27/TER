@@ -31,12 +31,12 @@ catch(error) {} ;
 	
 	
 	
-var svg = d3.select("#stackplot").append("svg")
+var svg = d3.select("#stackplot").append("svg") .attr("id", "stacked") 
 	.attr("width", width + margin.left + margin.right)
 	.attr("height", height + margin.top + margin.bottom)
 	.append("g")
 	.attr("transform", "translate(" + margin.left + "," + margin.top + ")") 
-        .attr("id", "stacked") 
+       
           ;
 
 // load and handle the data
