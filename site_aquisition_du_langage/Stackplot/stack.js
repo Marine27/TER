@@ -1,4 +1,10 @@
-function stackplot(path) { 
+function stackplot(path) {  
+	let str = path ;
+	str = str.slice(0, -3);
+document.getElementById("stacktitle").innerHTML = str
+	
+	
+	
 var margin = {top: 20, right: 231, bottom: 140, left: 40},
 	width = 1200 - margin.left - margin.right,
 	height = 900 - margin.top - margin.bottom;
