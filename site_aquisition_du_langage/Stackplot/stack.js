@@ -22,7 +22,7 @@ var yaxis = d3.svg.axis()
 	.tickFormat(d3.format(".0%")); // **
 
 try {
- var elem = document.getElementById("stacked");
+ var elem = document.getElementById("tempo");
  elem.parentElement.removeChild(elem);
 }
 catch(error) {} ;
@@ -31,7 +31,7 @@ catch(error) {} ;
 	
 	
 	
-var svg = d3.select("#stackplot").append("svg") .attr("id", "stacked") 
+var svg = d3.select("#stackplot").append("svg") .attr("id", "tempo") 
 	.attr("width", width + margin.left + margin.right)
 	.attr("height", height + margin.top + margin.bottom)
 	.append("g")
