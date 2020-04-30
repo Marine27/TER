@@ -1,7 +1,7 @@
 function stackplot(path) { 
 var margin = {top: 20, right: 231, bottom: 140, left: 40},
-	width = 1000 - margin.left - margin.right,
-	height = 800 - margin.top - margin.bottom;
+	width = 1200 - margin.left - margin.right,
+	height = 900 - margin.top - margin.bottom;
 
 var xscale = d3.scale.ordinal()
 	.rangeRoundBands([0, width], .1);
