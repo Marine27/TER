@@ -52,11 +52,28 @@
                 <!-- sidebar menu start-->
                 <ul class="sidebar-menu" id="nav-accordion">
                     <li class="mt">
-                        <a href="../index.html">
+                        <a href="index.html">
                             <i class="fa fa-home"></i>
                             <span>Accueil</span>
                         </a>
                     </li>
+                    <!--menu etudes start-->
+                    <li class="sub-menu">
+                        <a href="javascript:;">
+                            <i class="fa fa-bar-chart-o"></i>
+                            <span>Etudes réalisées</span>
+                        </a>
+                        <ul class="sub">
+                            <li><a href="site_aquisition_du_langage/decouverte_donne.html">Exploration des données</a></li>
+                            <li><a href="site_aquisition_du_langage/stackgraph.html">Proportion phonétique</a></li>
+                            <li><a href="site_aquisition_du_langage/multistream.html">Chronologie phonétique</a></li>
+                            <li><a href="site_aquisition_du_langage/pattern_mining1.html">Séquençage phonétique</a></li>
+                            <li><a href="site_aquisition_du_langage/distance_dl.html">Evolution de la prononciation</a></li>
+                            <li><a href="site_aquisition_du_langage/pattern_mining2.html">Lien entre les phonèmes</a></li>
+                            <li><a href="site_aquisition_du_langage/modele_LSTM.html">Prédiction de prononciation</a></li>
+                        </ul>
+                    </li>
+                    <!--menu etudes end-->
                     <!--menu enfants start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
@@ -64,33 +81,16 @@
                             <span>Enfants</span>
                         </a>
                         <ul class="sub">
-                            <li><a href="adrien.html">Adrien</a></li>
-                            <li><a href="anae.html">Anaé</a></li>
-                            <li><a href="antoine.html">Antoine</a></li>
-                            <li><a href="julie.html">Julie</a></li>
-                            <li><a href="madeleine.html">Madeleine</a></li>
-                            <li><a href="theophile.html">Théophile</a></li>
+                            <li><a href="site_aquisition_du_langage/adrien.html">Adrien</a></li>
+                            <li><a href="site_aquisition_du_langage/anae.html">Anaé</a></li>
+                            <li><a href="site_aquisition_du_langage/antoine.html">Antoine</a></li>
+                            <li><a href="site_aquisition_du_langage/julie.html">Julie</a></li>
+                            <li><a href="site_aquisition_du_langage/madeleine.html">Madeleine</a></li>
+                            <li><a href="site_aquisition_du_langage/theophile.html">Théophile</a></li>
 
                         </ul>
                     </li>
                     <!--menu enfants end-->
-                    <!--menu etudes start-->
-                    <li class="sub-menu">
-                        <a href="javascript:;">
-                            <i class="fa fa-bar-chart-o"></i>
-                            <span>Etudes rélisées</span>
-                        </a>
-                        <ul class="sub">
-                            <li><a href="decouverte_donne.html">Découverte des données</a></li>
-                            <li><a href="stackgraph.html">StackPlot</a></li>
-                            <li><a href="multistream.html">Multistream</a></li>
-                            <li><a href="pattern_mining1.html">Sequençage phonétique</a></li>
-                            <li><a href="distance_dl.html">Distance de Levenstein</a></li>
-                            <li><a href="pattern_mining2.html">Lien entre les phonèmes</a></li>
-                            <li><a href="modele_LSTM.html">Modèle LSTM</a></li>
-                        </ul>
-                    </li>
-                    <!--menu etudes end-->
                     <!--menu sources start-->
                     <li class="sub-menu">
                         <a href="javascript:;">
@@ -98,9 +98,9 @@
                             <span>Sources</span>
                         </a>
                         <ul class="sub">
-                            <li><a href="donnee_brute.html">Données corpus colaje</a></li>
-                            <li><a href="basic_table.html">Données retraivaillées</a></li>
-                            <li><a href="article.html">Articles et liens</a></li>
+                            <li><a href="site_aquisition_du_langage/donnee_brute.html">Données corpus colaje</a></li>
+                            <li><a href="site_aquisition_du_langage/basic_table.html">Données retraivaillées</a></li>
+                            <li><a href="site_aquisition_du_langage/article.html">Articles et liens</a></li>
                         </ul>
                     </li>
                     <!--menu sources end-->
@@ -142,7 +142,7 @@
                                     <form action="traitement_donnee/Traitement_donnees_antoine.html" method="get">
                                         <li>
                                             <button class="btn btn-none" type="submit">
-                                                Decouverte des données
+                                                Exploration des données
                                             </button>
                                         </li>
                                     </form>
@@ -150,7 +150,7 @@
                                     <form action="stackgraph.html" method="get">
                                         <li>
                                             <button class="btn btn-none" type="submit">
-                                                StackPlot
+                                                Proportion phonétique
                                             </button>
                                         </li>
                                     </form>
@@ -158,7 +158,7 @@
                                     <form action="https://ter.placom.es/" method="post">
                                         <li>
                                             <button class="btn btn-none" type="submit" name='dataset' value="bouton6">
-                                                MultiStream
+                                                Séquençage phonétique
                                             </button>
                                         </li>
                                     </form>
@@ -174,7 +174,7 @@
                                     <form action="distance_dl.html" method="get">
                                         <li>
                                             <button class="btn btn-none" type="submit">
-                                                Distance de Levenstein
+                                                Evolution de la prononciation
                                             </button>
                                         </li>
                                     </form>
@@ -190,7 +190,7 @@
                                     <form action="modele_LSTM.html" method="get">
                                         <li>
                                             <button class="btn btn-none" type="submit">
-                                                Modèle LSTM
+                                                Prédiction de prononciation
                                             </button>
                                         </li>
                                     </form>
