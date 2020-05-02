@@ -70,6 +70,7 @@
                             <li><a href="pattern_mining1.html">Séquençage phonétique</a></li>
                             <li><a href="distance_dl.html">Evolution de la prononciation</a></li>
                             <li><a href="pattern_mining2.html">Lien entre les phonèmes</a></li>
+                            <li><a href="pattern_mining3.html">Émergence phonétique</a></li>
                             <li><a href="modele_LSTM.html">Prédiction articulatoire</a></li>
                         </ul>
                     </li>
@@ -130,11 +131,18 @@
                                         <strong>Et dans notre cas ?</strong><br>Nous avons extrait un type particulier de sous-séquences appelés motifs séquentiels et définis par (Srikant et Agrawal 1996). Ces motifs permettent d'identifier des récurrences
                                         de séquences de phonèmes par enfant. Par exemple, les données nous indiquent qu'Antoine utilise souvent le phoneme « s » en début de mot a l'âge de 4 ans et 9 jours.<br> Nous avons considéré comme séquences les
                                         enregistrements par enfant et par âge. Cela pour extraire des sous-séquences de phonèmes fréquentes dans cet ensemble de séquences. Les sous-séquences ont été extraites en fonction de leur fréquence d'occurrence
-                                        (<a src="img/sequence.gif" target="_blank">support</a>) que nous avons fixé manuellement à 170 occurrences.
+                                        (
+                                        <a href="./Pattern/Sunburst/files/data" target="_blank">support</a>) que nous avons fixé manuellement à 170 occurrences.
                                     </p>
                                     <blockquote contenteditable="true">
                                         SRIKANT R., AGRAWAL R., « Mining Sequential Patterns: Generalizations and Per-formance Improvements », Proceedings of the 5th International Conference on ExtendingDatabase Technology (EDBT’96), Avignon, France, September 1996, p. 3-17
                                     </blockquote>
+                                </div>
+                                <div class="col-xs-5">
+                                    <br>
+                                    <img class="img" width="100%" src="img/sequence.gif">
+                                </div>
+                                <div class="col-md-7">
                                     <p style="text-align: ajusty;">
                                         <strong>Guide d'utilisation et de lecture de la visualisation Sunburst</strong>:<br> Cette visualisation est interactive ! Pour voir les phonèmes séquentiels d’un enfant ou d'un âge en particulier, il suffit de
                                         cliquer sur la case en question et de cliquer au centre du Sunburst pour revenir au plan précédent. Lorsque l'on choisit l'option avec filtre, l'étude est recentrée sur les mots contenant des phonèmes d’intérêt
@@ -147,8 +155,7 @@
                                     </p>
                                 </div>
                                 <div class="col-xs-5">
-                                    <img class="img" width="100%" src="img/sequence.gif">
-                                    <br><br><br><br>
+                                    <br><br>
                                     <table class="table table-bordered">
                                         <thead>
                                             <tr>

@@ -70,6 +70,7 @@
                             <li><a href="pattern_mining1.html">Séquençage phonétique</a></li>
                             <li><a href="distance_dl.html">Evolution de la prononciation</a></li>
                             <li><a href="pattern_mining2.html">Lien entre les phonèmes</a></li>
+                            <li><a href="pattern_mining3.html">Émergence phonétique</a></li>
                             <li><a href="modele_LSTM.html">Prédiction articulatoire</a></li>
                         </ul>
                     </li>
@@ -132,7 +133,7 @@
                                             <strong>Et dans notre cas ?</strong><br>Nous avons extrait des règles d'association (Agrawal 1993), qui permettent d'identifier des corrélations de sous-séquences phonétiques au sein des mots prononcés par des
                                             enfants. Par exemple, une règle découverte dans les données pourrait indiquer qu'un enfant qui prononce fréquemment en milieu de mot le phonème « j » sera suivi du phonème « ɛ̃ » dans ce mot. Les règles d’association
                                             sont extraites en fonction de deux critère : leur fréquence d'occurrence (dans notre cas supérieure à 100 occurrences) et la confiance dans l'évènement c’est-à-dire la proportion de mot contenant le premier
-                                            phonème qui contiennent aussi le deuxième. (supérieure à 0,8).
+                                            phonème qui contiennent aussi le deuxième. (supérieure à 0,8).(<a href="./Pattern/Sankey/files/data_tous" target="_blank">support</a>)
                                         </p>
                                         <blockquote contenteditable="true">
                                             R. Agrawal; T. Imielinski; A. Swami: Mining Association Rules Between Sets of Items in Large Databases", SIGMOD Conference 1993: 207-216
@@ -172,7 +173,7 @@
                                         <li>"d " le phonème est en début de mot,</li>
                                         <li>"m " le phonème est en milieu de mot,</li>
                                         <li>"f " le phonème est en fin de mot.</li><br> L'interprétation du Sankey s'effectue ainsi de gauche à droite en suivant les liens entre les colonnes, et permet de définir en fonction de l'âge quels phonèmes "seq1"
-                                        entrainent d'autres phonèmes "seq2".<br>Une barre dans une colonne est d’autant plus grande qu’elle correspond à un un nombre d’occurrence.
+                                        entrainent d'autres phonèmes "seq2".<br>Une barre dans une colonne est d’autant plus grande qu’elle correspond à un nombre d’occurrence.
                                     </p>
                                     <p style="text-align: ajusty;">
                                         En ce qui concerne les filtres, il est possible de filtrer l'étude sur un enfant en particulier. Pour cela, il suffit de choisir son nom dans le premier filtre. Le deuxième filtre n'influence pas le contenu de l'étude mais son visuel. C'est une aide à
@@ -266,7 +267,6 @@
 
         function myFunction() {
             choix = e.options[e.selectedIndex].value;
-            console.log(choix);
             document.getElementById('circ').src = choix;
             setTimeout(function() {
                 resizeIframe(document.getElementById('circ'))

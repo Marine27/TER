@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Dashboard">
     <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
-    <title>TER : Chronologie phonétique</title>
+    <title>TER : Émergence phonétique</title>
 
     <!-- Bootstrap core CSS -->
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -115,120 +115,70 @@
         *********************************************************************************************************************************************************** -->
         <section id="main-content">
             <section class="wrapper site-min-height">
-                <h2 id="title1">Chronologie phonétique</h2>
+                <h2 id="title1">Émergence phonétique</h2>
                 <br>
-                <h4 style="text-align:center;">
-                    Une approche multi-résolution de type "Streamgraph" pour explorer le nombre de phonèmes au cours du temps</h4>
+                <h4 style="text-align:center;">Explorer les séquences de phonèmes fréquents à l’aide de motifs séquentiels</h4>
                 <div class="row mt">
                     <div class="col-lg-12">
                         <div class="content-panel">
                             <div class="panel-body">
-                                <div class="col-md-6">
-                                    <p style="text-align: justify;">
-                                        Nous avons utilisé une visualisation de type <i><a href="http://leebyron.com/streamgraph/" target="_blank">Streamgraph</a></i> pour représenter les évolutions temporelles de multiples séries chronologiques, c’est-à-dire
-                                        d’un ensemble de variables quantitatives multiples se produisant dans un même intervalle de temps. Nous avons choisi d’utiliser la représentation développée par
-                                        <a href="https://erickedu85.github.io/" target="_blank">M.Cuenca (2018)</a> qui présente l’avantage de pouvoir représenter plusieurs séries temporelles organisées en une structure hiérarchique ce qui facilite l'exploration
-                                        et les comparaisons des séries. Une fonctionnalité de ces dernières, permet également l'exploration de séries chronologiques à différentes granularités temporelles. Ici les données chronologiques représentées correspondent
-                                        au nombre de phonèmes au cours du temps. Les phonèmes sont organisés dans une hiérarchie à double niveau. Le premier niveau correspond aux catégories : voyelles, consonnes, semi-consonnes, groupes consonnatiques
-                                        et le second correspond à l'effort articulatoire du phonème.
+                                <div class="col-md-7">
+                                    <p style="text-align: ajusty;">
+                                        La <strong>fouille de données</strong> est une technique d'extraction de motifs, c’est-à-dire de récurrences intéressantes, utiles et parfois inattendues dans les bases de données afin de mieux les comprendre et
+                                        qui peuvent être utilisées pour prendre des décisions.
+                                    </p>
+                                    <p style="text-align: ajusty;">
+                                        <strong>Et dans notre cas ?</strong><br>Nous avons extrait un type particulier de sous-séquences appelés motifs séquentiels et définis par (Srikant et Agrawal 1996). Cette étude ne tiens pas compte de l'enfant ni
+                                        de son âge, mais simplement de l'ordre fréquent d'apparitions des phonèmes et de leurs positions dans les mots. Par exemple, les données nous indiquent que le phonème « b » en début de mot apparaît avant le phoneme
+                                        « i » en fin de mot, lui-même avant le phonème « a » en début de mot etc.
+                                        <br> Nous avons considéré comme séquences la suite des enregistrement par enfants. Pour pourvoir avoir un support plus consquent, chaque enregistrement a été diviser en 160, ce qui nous a permis de travailler avec
+                                        960 séquences. Cela pour extraire des sous-séquences de phonèmes fréquentes dans cet ensemble de séquences. Les sous-séquences ont été extraites en fonction de leur fréquence d'occurrence (
+                                        <a href="./Pattern/Sankey/files/etude3" target="_blank">support</a>) que nous avons fixé manuellement à 890 occurrences, c'est-à-dire que la sous-séquence de phonème doit être présente dans 93% des cas.
                                     </p>
                                     <blockquote contenteditable="true">
-                                        Erick Cuenca, Arnaud Sallaberry, Florence Ying Wang, Pascal Poncelet: MultiStream: A Multiresolution Streamgraph Approach to Explore Hierarchical Time Series. IEEE Trans. Vis. Comput. Graph. 24(12): 3160-3173 (2018)
+                                        SRIKANT R., AGRAWAL R., « Mining Sequential Patterns: Generalizations and Per-formance Improvements », Proceedings of the 5th International Conference on ExtendingDatabase Technology (EDBT’96), Avignon, France, September 1996, p. 3-17
                                     </blockquote>
-                                    <p>
-                                        <a href="https://hal-lirmm.ccsd.cnrs.fr/lirmm-01693077/document" target="_blank">PDF
-                                        </a> |
-                                        <a href="https://youtu.be/T-Nrwif7dss" target="_blank">Video</a> |
-                                        <a href="https://erickedu85.github.io/presentations/ecuenca_multistream_vis_2018.pdf" target="_blank">Slides (presented at IEEE VIS 2018)
-                                        </a>
+                                    <p style="text-align: ajusty;">
+                                        <strong>Guide d'utilisation et de lecture de la visualisation Sankey</strong>:
+                                        <br>L'interprétation du Sankey s'effectue de gauche à droite en suivant les liens entre les colonnes, et permet de définir l'ordre d'apparition des phonèmes au fil du temps.<br>Une barre dans une colonne est d’autant
+                                        plus grande qu’elle correspond à un nombre de répétitions élevé. Dans chaque colonne le phonème correspond à la partie située avant le " _ ", la deuxième partie correspond à l'emplacement de ce phonème au sein du
+                                        mot dans lequel il a été prononcé :
+                                        <li>"d " le phonème est en début de mot,</li>
+                                        <li>"m " le phonème est en milieu de mot,</li>
+                                        <li>"f " le phonème est en fin de mot.</li>
+                                    </p>
+                                    <p style="text-align: ajusty;">
+                                        En ce qui concerne le filtre, celui-ci n'influence pas le contenu de l'étude mais son visuel. C'est une aide à la lecture qui permet de choisir la manière dont sont colorées les liens du diagramme de Sankey.
                                     </p>
                                 </div>
-                                <div class="col-xs-6">
-                                    <img class="img" width="100%" height="270" src="img/multistream_gif.gif">
+                                <div class="col-xs-5">
+                                    <br><br><br><br>
+                                    <img class="img" width="100%" src="img/etude3.gif">
                                 </div>
-                                <br>
                             </div>
+                            <p style="text-align: center;">Cette étude a été réalisée avec l'aide de M. Alatrista-Salas et de la librairie <a href="https://github.com/bartdag/pymining" target="_blank"><i>pymining</i></a> écrite par M. Infobart</p>
                             <p style="text-align: center;">
-                                Contacts: arnaud.sallaberry[at]lirmm.fr, erick.cuenca[at]lirmm.fr
-                                <a href="https://github.com/erickedu85/" target="_blank">
+                                Contacts: h.alatristas[at]up.edu.pe, barthelemy[at]infobart.com
+                                <a href="https://github.com/bartdag/pymining" target="_blank">
                                     <span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                    </span>
+                                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                            </span>
                                 </a>
                             </p>
                         </div>
                     </div>
                 </div>
-                </div>
-                <!-- /panel -->
-                </div>
-                </div>
                 <br><br>
-                <h3 style="text-align: center;">Résultat par enfant : </h3>
                 <div class="row mt">
-                    <form action="https://ter.placom.es/" method="post">
-                        <div class="col-lg-4 col-md-4 col-sm-12">
-                            <div class="dmbox">
-                                <div class="service-icon">
-                                    <img class="img-circle" width="100" height="100" src="img/adrien.png">
-                                </div>
-                                <br></br>
-                                <button class="btn btn-round btn-default" type="submit" name='dataset' value="bouton4">Adrien</button>
+                    <div class="col-lg-12">
+                        <div class="content-panel">
+                            <div>
+                                <iframe scrolling="no " onload="resizeIframe(this);" style="margin-left:2%;width:96%;height:1200px;outline:none;border:none; " src="./Pattern/sankey_etude3.html ">
+                                </iframe>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-12">
-                            <div class="dmbox">
-                                <div class="service-icon">
-                                    <img class="img-circle" width="100" height="100" src="img/anae.png">
-                                </div>
-                                <br></br>
-                                <button class="btn btn-round btn-default" type="submit" name='dataset' value="bouton5">Anaé</button>
-                            </div>
-                        </div>
-                        <!-- end dmbox -->
-                        <div class="col-lg-4 col-md-4 col-sm-12">
-                            <div class="dmbox">
-                                <div class="service-icon">
-                                    <img class="img-circle" width="100" height="100" src="img/antoine.jpg">
-                                </div>
-                                <br></br>
-                                <button class="btn btn-round btn-default" type="submit" name='dataset' value="bouton6">Antoine</button>
-                            </div>
-                        </div>
+                    </div>
                 </div>
-                </form>
-                <div class="row mt">
-                    <form action="https://ter.placom.es/" method="post">
-                        <div class="col-lg-4 col-md-4 col-sm-12">
-                            <div class="dmbox">
-                                <div class="service-icon">
-                                    <img class="img-circle" width="100" height="100" src="img/julie.jpg">
-                                </div>
-                                <br></br>
-                                <button class="btn btn-round btn-default" type="submit" name='dataset' value="bouton1">Julie</button>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-12">
-                            <div class="dmbox">
-                                <div class="service-icon">
-                                    <img class="img-circle" width="100" height="100" src="img/madeleine.jpg">
-                                </div>
-                                <br></br>
-                                <button class="btn btn-round btn-default" type="submit" name='dataset' value="bouton2">Madeleine</button>
-                            </div>
-                        </div>
-                        <!-- end dmbox -->
-                        <div class="col-lg-4 col-md-4 col-sm-12">
-                            <div class="dmbox">
-                                <div class="service-icon">
-                                    <img class="img-circle" width="100" height="100" src="img/theophile.jpg">
-                                </div>
-                                <br></br>
-                                <button class="btn btn-round btn-default" type="submit" name='dataset' value="bouton3">Théophile</button>
-                            </div>
-                        </div>
-                </div>
-                </form>
                 <br><br><br><br>
             </section>
             <!-- /wrapper -->
@@ -242,11 +192,11 @@
                 </p>
                 <div class="credits">
                     <!--
-          You are NOT allowed to delete the credit link to TemplateMag with free version.
-          You can delete the credit link only if you bought the pro version.
-          Buy the pro version with working PHP/AJAX contact form: https://templatemag.com/dashio-bootstrap-admin-template/
-          Licensing information: https://templatemag.com/license/
-        -->
+            You are NOT allowed to delete the credit link to TemplateMag with free version.
+            You can delete the credit link only if you bought the pro version.
+            Buy the pro version with working PHP/AJAX contact form: https://templatemag.com/dashio-bootstrap-admin-template/
+            Licensing information: https://templatemag.com/license/
+          -->
                     Created with Dashio template by <a href="https://templatemag.com/">TemplateMag</a>
                 </div>
             </div>
@@ -269,19 +219,8 @@
     <script src="lib/sparkline-chart.js"></script>
     <script src="lib/zabuto_calendar.js"></script>
     <script>
-        var e = document.getElementById("choice");
-
         function resizeIframe(obj) {
             obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-        }
-
-        function myFunction() {
-            choix = e.options[e.selectedIndex].value;
-            console.log(choix);
-            document.getElementById('circ').src = choix;
-            setTimeout(function() {
-                resizeIframe(document.getElementById('circ'))
-            }, 1300)
         }
     </script>
 
