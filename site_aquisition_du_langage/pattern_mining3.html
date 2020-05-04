@@ -127,12 +127,17 @@
                                         qui peuvent être utilisées pour prendre des décisions.
                                     </p>
                                     <p style="text-align: ajusty;">
-                                        <strong>Et dans notre cas ?</strong><br>Nous avons extrait un type particulier de sous-séquences appelés motifs séquentiels et définis par (Srikant et Agrawal 1996). Cette étude ne tiens pas compte de l'enfant ni
-                                        de son âge, mais simplement de l'ordre fréquent d'apparitions des phonèmes et de leurs positions dans les mots. Par exemple, les données nous indiquent que le phonème « b » en début de mot apparaît avant le phoneme
-                                        « i » en fin de mot, lui-même avant le phonème « a » en début de mot etc.
-                                        <br> Nous avons considéré comme séquences la suite des enregistrement par enfants. Pour pourvoir avoir un support plus consquent, chaque enregistrement a été diviser en 160, ce qui nous a permis de travailler avec
-                                        960 séquences. Cela pour extraire des sous-séquences de phonèmes fréquentes dans cet ensemble de séquences. Les sous-séquences ont été extraites en fonction de leur fréquence d'occurrence que nous avons fixé manuellement
-                                        à 890 occurrences, c'est-à-dire que la sous-séquence de phonème doit être présente dans 93% des cas.<br><i><a href="./Pattern/Sankey/files/etude3" target="_blank">support</a></i>
+                                        <strong>Et dans notre cas ?</strong><br>Nous avons extrait un type particulier de sous-séquences appelés motifs séquentiels et définis par (Srikant et Agrawal 1996). Cette étude ne tient pas compte de l'enfant ni
+                                        de son âge, mais simplement de l'ordre fréquent d'apparitions des phonèmes et de leurs positions dans les mots au cours des années. Par exemple, les données nous indiquent que le phonème « b » en début de mot apparaît
+                                        avant le phonème « i » en fin de mot, lui-même avant le phonème « a » en début de mot etc.
+                                        <br> Nous avons considéré comme séquences la suite des enregistrements par enfants. Les items sont les phonèmes par exemple A, B, C, D, E et F. Les itemsets sont l’ensemble des phonèmes prononcés pendant un enregistrement
+                                        et noté entre parenthèses. Dans un itemset, les phonèmes sont considérés comme non ordonnés. Un exemple de séquence « (A B C)(A B D E)(F A) » signifie que l’enfant a prononcé les phonèmes A, B et C lors du premier
+                                        entretien, puis les phonèmes A, B, D et E lors du 2ème entretien, puis les phonèmes F et A lors du troisième. Une sous séquence est séquence incluse dans une séquence de l’enfant.<br> L’objectif ici est d’extraire
+                                        toutes les sous séquences fréquentes dont le support (le nombre d’occurrence) est supérieur à un seuil fixé par l’utilisateur. Par exemple, la sous séquence « (A B)(A E)(F A) » pourrait être une sous séquence fréquence.
+                                    </p>
+                                    <p>
+                                        Actuellement, la base contient 6 séquences pour 6 enfants. Pour pourvoir avoir un support plus conséquent, chaque séquence a été divisée arbitrairement en 160, ce qui nous a permis de travailler avec 960 séquences. Nous avons ainsi pu extraire des sous-séquences
+                                        de phonèmes fréquentes en fonction de leur fréquence d'occurrence que nous avons fixée manuellement à 890 occurrences, c'est-à-dire que la sous-séquence de phonème doit être présente dans 93% des séquences.<br><i><a href="./Pattern/Sankey/files/etude3" target="_blank">support</a></i>
                                     </p>
                                     <blockquote contenteditable="true">
                                         SRIKANT R., AGRAWAL R., « Mining Sequential Patterns: Generalizations and Per-formance Improvements », Proceedings of the 5th International Conference on ExtendingDatabase Technology (EDBT’96), Avignon, France, September 1996, p. 3-17
