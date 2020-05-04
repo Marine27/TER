@@ -119,13 +119,70 @@
                     <div class="col-lg-12">
                         <div class="content-panel">
                             <div class="panel-body">
-                                <h4> page en création ... </p>
-                                    <div class="progress progress-striped active">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
-                                            <span class="sr-only">45% Complete</span>
-                                        </div>
-                                    </div>
+                                <p>TEXTE EXPLICATIF</p>
+                                <p> mettre le lien vers le support</p>
+                                <br><br>
+                                <select style="margin-left:45%;" class="btn btn-theme dropdown-toggle" id="choice" onchange="myFunction()">
+                                    <option value="../DistanceDL/mots/maman/">maman</option>
+                                    <option value="../DistanceDL/mots/papa/">papa</option>
+                                    <option value="../DistanceDL/mots/merci/">merci</option>
+                                    <option value="../DistanceDL/mots/voiture/">voiture</option>
+                                    <option value="../DistanceDL/mots/prendre/">prendre</option>
+                                    <option value="../DistanceDL/mots/chercher/">chercher</option>
+                                    <option value="../DistanceDL/mots/derriere/">derrière</option>
+                                    <option value="../DistanceDL/mots/peutetre/">peut-être</option>
+                                </select>
                             </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt">
+                    <div class="col-lg-6">
+                        <div class="white-panel">
+                            <div class="white-header">
+                                <h5>Adrien</h5>
+                            </div>
+                            <p><img id="adrien" width="100%" height="100%" onclick="window.open(this.src);" src="../DistanceDL/mots/maman/DL_adrien.png"></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="white-panel">
+                            <div class="white-header">
+                                <h5>Anaé</h5>
+                            </div>
+                            <p><img id="anae" width="100%" height="100%" onclick="window.open(this.src);" src="../DistanceDL/mots/maman/DL_anae.png"></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="white-panel">
+                            <div class="white-header">
+                                <h5>Antoine</h5>
+                            </div>
+                            <p><img id="antoine" width="100%" height="100%" onclick="window.open(this.src);" src="../DistanceDL/mots/maman/DL_antoine.png"></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="white-panel">
+                            <div class="white-header">
+                                <h5>Julie</h5>
+                            </div>
+                            <p><img id="julie" width="100%" height="100%" onclick="window.open(this.src);" src="../DistanceDL/mots/maman/DL_julie.png"></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="white-panel">
+                            <div class="white-header">
+                                <h5>Madeleine</h5>
+                            </div>
+                            <p><img id="madeleine" width="100%" height="100%" onclick="window.open(this.src);" src="../DistanceDL/mots/maman/DL_madeleine.png"></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="white-panel">
+                            <div class="white-header">
+                                <h5>Théophile</h5>
+                            </div>
+                            <p><img id="theophile" width="100%" height="100%" onclick="window.open(this.src);" src="../DistanceDL/mots/maman/DL_theophile.png"></p>
                         </div>
                     </div>
                 </div>
@@ -168,6 +225,23 @@
     <!--scipt pour cette page-->
     <script src="lib/sparkline-chart.js"></script>
     <script src="lib/zabuto_calendar.js"></script>
+    <script>
+        e = document.getElementById("choice");
+
+        function resizeIframe(obj) {
+            obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+        }
+
+        function myFunction() {
+            choix = e.options[e.selectedIndex].value;
+            document.getElementById('adrien').src = choix + "DL_adrien.png";
+            document.getElementById('anae').src = choix + "DL_anae.png";
+            document.getElementById('antoine').src = choix + "DL_antoine.png";
+            document.getElementById('julie').src = choix + "DL_julie.png";
+            document.getElementById('madeleine').src = choix + "DL_madeleine.png";
+            document.getElementById('theophile').src = choix + "DL_theophile.png";
+        }
+    </script>
 
 </body>
 
